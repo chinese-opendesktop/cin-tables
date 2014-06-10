@@ -2,7 +2,7 @@
 #根據中國文字資料庫(CCDB)行政院文化建設委員會資訊應用國字整理小組
 #參考 CI_UNI_V2.txt (國家圖書館 UNICODE 工作小組)
 #輸入法規則: 兩碼全字筆畫數加兩碼除去部首筆畫數
-#格式修改(無附加限制): 趙惟倫 <chaoweilun@gmail.com>, 2006
+#格式修改(無附加限制): 趙惟倫 <bluebat@member.fsf.org>, 2006
 #授權方式: Public Domain
 %cname 筆畫數
 %ename Strokes:en;笔画数:zh_CN;筆畫數:zh;

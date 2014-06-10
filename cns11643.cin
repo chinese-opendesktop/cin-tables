@@ -1,7 +1,7 @@
 #全字庫國家標準交換碼 94.2
 #網址: http://www.cns11643.gov.tw/web/download.jsp
 #copyright (c) 2005 by 主計處
-#格式轉換(無附加限制): 趙惟倫 <chaoweilun@gmail.com>, 2006
+#格式轉換(無附加限制): 趙惟倫 <bluebat@member.fsf.org>, 2006
 #授權方式: Public Domain
 %cname 標準交換碼
 %ename CNS11643:en;标准交换码:zh_CN;標準交換碼:zh;

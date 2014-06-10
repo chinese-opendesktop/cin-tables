@@ -2,7 +2,7 @@
 #根據 Dr. Ho Kwok Cheung(何國祥) of HKIED, worked at the Institute of Language and Education
 #參考 ile_list_all.txt (http://ckc.ied.edu.hk/code/)
 #輸入法規則: http://ckc.ied.edu.hk/code/Jyutping-ILE.doc
-#格式修改(無附加限制): 趙惟倫 <chaoweilun@gmail.com>, 2006
+#格式修改(無附加限制): 趙惟倫 <bluebat@member.fsf.org>, 2006
 #授權方式: Public Domain
 %cname 廣東拼音
 %ename ILE:en;广东拼音:zh_CN;廣東拼音:zh;

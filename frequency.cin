@@ -1,7 +1,7 @@
 #字頻統計
 #根據黃世昆所做「1994 年 Big5 中文網路討論字頻統計」
 #參考 http://technology.chtsai.org/charfreq/94charfreq.html
-#格式修改(無附加限制): 趙惟倫 <chaoweilun@gmail.com>, 2007
+#格式修改(無附加限制): 趙惟倫 <bluebat@member.fsf.org>, 2007
 #授權方式: Public Domain
 %cname 字頻序
 %ename Frequency:en;字频序:zh_CN;字頻序:zh;

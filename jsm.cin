@@ -2,7 +2,7 @@
 #晶晶系列漢字輸入法 http://jsmandjjm.nease.net/
 #參考 Jsmnt.txt
 #輸入法規則: http://jsmandjjm.nease.net/jsm1.htm
-#格式修改(無附加限制): 趙惟倫 <chaoweilun@gmail.com>, 2006
+#格式修改(無附加限制): 趙惟倫 <bluebat@member.fsf.org>, 2006
 #授權方式: Public Domain
 %cname 晶数码
 %ename JSM:en;晶数码:zh_CN;晶數碼:zh;

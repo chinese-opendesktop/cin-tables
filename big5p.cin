@@ -1,7 +1,7 @@
 #五大碼加強
 #根據行政院主計處、研考會、中推會
 #輸入法規則: http://ftp.isu.edu.tw/pub/Windows/Chinese/code/big5p/
-#格式修改(無附加限制): 趙惟倫 <chaoweilun@gmail.com>, 2006
+#格式修改(無附加限制): 趙惟倫 <bluebat@member.fsf.org>, 2006
 #授權方式: Public Domain
 %cname 五大加強
 %ename Big5p:en;五大加强:zh_CN;五大加強:zh;

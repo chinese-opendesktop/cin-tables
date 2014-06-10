@@ -2,7 +2,7 @@
 #根據中國文字資料庫(CCDB)行政院文化建設委員會資訊應用國字整理小組
 #參考 CI_UNI_V2.txt (國家圖書館 UNICODE 工作小組)
 #輸入法規則: 電信研究所訂定，電信總局、中華電信使用
-#格式修改(無附加限制): 趙惟倫 <chaoweilun@gmail.com>, 2006
+#格式修改(無附加限制): 趙惟倫 <bluebat@member.fsf.org>, 2006
 #授權方式: Public Domain
 %cname 電信碼
 %ename Telecode:en;电信码:zh_CN;電信碼:zh;

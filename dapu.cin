@@ -1,7 +1,7 @@
 #大埔客語輸入法
 #說明: http://jidanni.org/lang/dongshike/
 #參考: 積丹尼 dongshike.xcin.txt (根據行政院客家委員會委員徐登志老師的教材)
-#格式修改(無附加限制): 趙惟倫 <chaoweilun@gmail.com>, 2006
+#格式修改(無附加限制): 趙惟倫 <bluebat@member.fsf.org>, 2006
 #授權方式: Public Domain
 %cname 大埔客語
 %ename DaPu:en;大埔客语:zh_CN;大埔客語:zh;

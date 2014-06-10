@@ -1,7 +1,7 @@
 #象形王碼輸入法 2
 #根據象形王碼第二代 (王堯世 http://www.km2000.com.cn/jbyl.htm)
 #修改自 wm2.tit (趙惟倫1996.7)
-#格式修改(無附加限制): 趙惟倫 <chaoweilun@gmail.com>, 2006
+#格式修改(無附加限制): 趙惟倫 <bluebat@member.fsf.org>, 2006
 #授權方式: Public Domain
 %cname 象形王碼
 %ename WM2:en;象形王码:zh_CN;象形王碼:zh;
