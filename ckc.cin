@@ -2,8 +2,8 @@
 #發明人: 周忠繼 http://www.ckcsys.com.hk/
 #格式修改(無附加限制): 趙惟倫 <bluebat@member.fsf.org>, 2006
 #授權方式: Public Domain
-%cname 縱橫碼
 %ename CKC:en;纵横码:zh_CN;縱橫碼:zh;
+%cname 縱橫碼
 #sname 縱橫
 %selkey 1234567890
 %keyname begin
