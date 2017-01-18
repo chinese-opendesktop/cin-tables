@@ -3,8 +3,8 @@
 #輸入法編輯: 孫海峰 http://okuc.net/sunwb/
 #格式修改(無附加限制): 趙惟倫 <bluebat@member.fsf.org>, 2006
 #授權方式: Public Domain
-%cname 海峰五笔
 %ename WBX:en;海峰五笔:zh_CN;海峰五筆:zh;
+%cname 海峰五笔
 #sname 海五
 %selkey 1234567890
 %keyname begin

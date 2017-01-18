@@ -4,8 +4,8 @@
 #輸入法規則: http://zh.wikipedia.org/wiki/CCCII
 #格式修改(無附加限制): 趙惟倫 <bluebat@member.fsf.org>, 2005
 #授權方式: Public Domain
-%cname 資訊交換碼
 %ename CCCII:en;资讯交换码:zh_CN;資訊交換碼:zh;
+%cname 資訊交換碼
 #sname 資交
 %selkey 1234567890
 %keyname begin

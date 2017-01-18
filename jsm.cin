@@ -4,8 +4,8 @@
 #輸入法規則: http://jsmandjjm.nease.net/jsm1.htm
 #格式修改(無附加限制): 趙惟倫 <bluebat@member.fsf.org>, 2006
 #授權方式: Public Domain
-%cname 晶数码
 %ename JSM:en;晶数码:zh_CN;晶數碼:zh;
+%cname 晶数码
 #sname 晶數
 %selkey 1234567890
 %keyname begin

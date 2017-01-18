@@ -9,8 +9,8 @@
 # 教育部國語推行委員會
 # 網址：http://www.edu.tw/mandr/
 # 信箱：mandr@mail.moe.gov.tw
-%cname 臺客饒平
 %ename HKIM4:en;台客饶平:zh_CN;臺客饒平:zh;
+%cname 臺客饒平
 %selkey 1234567890
 %endkey +346^
 %keyname begin

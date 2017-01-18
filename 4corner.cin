@@ -4,8 +4,8 @@
 #輸入法規則: 王雲五 (臺灣商務印書館) http://www.sdes.tnc.edu.tw/htm/4/4.htm
 #格式修改(無附加限制): 趙惟倫 <bluebat@member.fsf.org>, 2006
 #授權方式: Public Domain
-%cname 四角號碼
 %ename 4Corner:en;四角号码:zh_CN;四角號碼:zh;
+%cname 四角號碼
 #sname 四角
 %selkey 1234567890
 %keyname begin

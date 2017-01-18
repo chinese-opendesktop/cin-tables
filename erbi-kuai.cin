@@ -1,8 +1,8 @@
 ### 中文阴阳二笔词库新快版061205
 ### This table's author is npwjm <npwjm@163.com>
 ### http://qseb.ys168.com
-%cname 二笔快版
 %ename ErBi-Kuai:en;二笔快版:zh_CN;二筆快版:zh;
+%cname 二笔快版
 %selkey 23456789
 %space_style 1
 #%keep_key_case

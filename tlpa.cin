@@ -1,5 +1,5 @@
-%cname  TLPA台語
 %ename  TLPA:en;TLPA台语:zh_CN;TLPA台語:zh;
+%cname  TLPA台語
 %selkey  1234567890
 %endkey  0123456789
 %keyname  begin
@@ -17,6 +17,7 @@ a  ａ
 b  ｂ
 c  ｃ
 e  ｅ
+f  ｆ
 g  ｇ
 h  ｈ
 i  ｉ
@@ -27,10 +28,13 @@ m  ｍ
 n  ｎ
 o  ｏ
 p  ｐ
+r  r
 s  ｓ
 t  ｔ
 u  ｕ
 v  ｖ
+w  ｗ
+x  ｘ
 .  ．
 ,  ，
 '  、
@@ -161,7 +165,6 @@ am1 諳
 am1 鵪
 am1 盦
 am1 闇
-am1 0xE68F9E
 am2 飲
 am2 泔
 am2 湆
@@ -246,7 +249,6 @@ bah4 肉
 bah8 脈
 bah8 覓
 bai1 屄
-bai2 0xE48680
 bai5 眉
 bai5 埋
 bai5 楣
@@ -668,7 +670,6 @@ bun7 燜
 bun7 懣
 bun7 璺
 but4 勿
-but4 0xE9ADA9
 but8 勿
 but8 沒
 but8 歿
@@ -1021,7 +1022,6 @@ che3 砌
 che3 脆
 che3 廁
 che3 粞
-che3 0xF0A2AFA9
 che3 顬
 che5 箠
 che5 蹉
@@ -1163,7 +1163,6 @@ chiau3 俏
 chiau3 峭
 chiau3 笑
 chiau3 誚
-chiau5 0xE692A8
 chiauh4 眨
 chiauh8 眨
 chih4 切
@@ -1342,7 +1341,6 @@ chit4 叱
 chit4 拭
 chit4 柒
 chit4 漆
-chit4 0xF0A891A8
 chiu1 秋
 chiu1 羞
 chiu1 鞦
@@ -1514,7 +1512,6 @@ chua7 泄
 chua7 洩
 chua7 娶
 chua7 疶
-chua7 0xF0A486AC
 chuah4 泄
 chuah4 惴
 chuah4 掣
@@ -2539,7 +2536,6 @@ e3 穢
 e3 瘞
 e3 曀
 e3 殪
-e5 0xE4B8AA
 e5 兮
 e5 鞋
 e7 會
@@ -2591,7 +2587,6 @@ gam5 喦
 gam7 釅
 gam7 儑
 gan2 眼
-gan2 0xE990A7
 gan3 彥
 gan3 嚴
 gan5 顏
@@ -2608,7 +2603,6 @@ gang7 怢
 gap4 呷
 gau5 爻
 gau5 敖
-gau5 0xF0A0A295
 ge3 喫
 ge5 牙
 ge5 兒
@@ -3225,7 +3219,6 @@ hiat4 擷
 hiat4 蠍
 hiat4 禊
 hiat4 禊
-hiat4 0xE3A792
 hiat8 穴
 hiat8 頁
 hiat8 挈
@@ -3748,7 +3741,6 @@ hua1 花
 hua1 華
 hua1 嘩
 hua1 譁
-hua1 0xE78395
 hua3 化
 hua5 划
 hua5 華
@@ -3963,7 +3955,6 @@ hui5 瓷
 hui5 腓
 hui5 磁
 hui5 淝
-hui5 0xE7A198
 hui7 吠
 hui7 彗
 hui7 惠
@@ -4985,7 +4976,6 @@ kam2 感
 kam2 橄
 kam2 咁
 kam2 澉
-kam2 0xF0A5B48A
 kam3 淦
 kam3 監
 kam3 艦
@@ -5016,7 +5006,6 @@ kan2 稈
 kan2 蜆
 kan2 簡
 kan2 襉
-kan2 0xF0A1A283
 kan3 訐
 kan3 間
 kan3 幹
@@ -5117,7 +5106,6 @@ kau3 較
 kau3 酵
 kau3 覺
 kau3 斠
-kau3 0xF0A2939C
 kau5 爻
 kau5 侯
 kau5 猴
@@ -5126,7 +5114,6 @@ kau7 厚
 kau7 垕
 kauh4 餃
 kauh4 轢
-kauh4 0xF0A99BA9
 ke1 加
 ke1 圭
 ke1 家
@@ -5210,7 +5197,6 @@ khah4 恰
 khah4 較
 khah4 搕
 khah4 籗
-khah4 0xE7AD81
 khah8 磕
 khah8 闔
 khai1 開
@@ -5412,7 +5398,6 @@ khian3 掔
 khian5 虔
 khian5 乾
 khiang1 羌
-khiang3 0xE58BA5
 khiann1 輕
 khiann3 慶
 khiann3 磬
@@ -5530,7 +5515,6 @@ khiu1 蚯
 khiu1 龜
 khiu2 揪
 khiu2 糗
-khiu2 0xE6909D
 khiu5 毬
 khiu5 球
 khiu5 虯
@@ -5749,7 +5733,6 @@ khun1 髡
 khun1 囷
 khun1 褌
 khun1 鯤
-khun1 0xE5A083
 khun2 捆
 khun2 菌
 khun2 綑
@@ -5775,7 +5758,6 @@ khut4 詘
 khut8 倔
 khut8 崛
 khut8 滑
-khut8 0xF0A3AE88
 ki1 几
 ki1 支
 ki1 乩
@@ -6629,7 +6611,6 @@ kuann2 趕
 kuann3 觀
 kuann5 寒
 kuann7 汗
-kuann7 0xE68DBE
 kuat4 孓
 kuat4 抉
 kuat4 決
@@ -6696,7 +6677,6 @@ kui1 歸
 kui1 机
 kui1 媯
 kui1 槻
-kui1 0xE883BF
 kui2 几
 kui2 癸
 kui2 軌
@@ -6845,7 +6825,6 @@ lak8 捋
 lak8 搦
 lak8 漉
 lak8 磟
-lak8 0xE69099
 lam1 檻
 lam1 襤
 lam1 籠
@@ -6861,7 +6840,6 @@ lam2 壈
 lam2 爁
 lam3 喃
 lam3 湳
-lam3 0xE59D94
 lam5 男
 lam5 南
 lam5 婪
@@ -7214,12 +7192,10 @@ lik8 櫪
 lik8 藶
 lik8 躒
 lik8 轢
-lim1 0xE59589
 lim2 忍
 lim2 凜
 lim2 懍
 lim2 廩
-lim3 0xE4AB90
 lim5 林
 lim5 淋
 lim5 琳
@@ -7442,8 +7418,6 @@ lo2 獠
 lo2 瘰
 lo2 蠃
 lo2 臝
-lo2 0xE8BABC
-lo3 0xE8BABC
 lo5 牢
 lo5 那
 lo5 勞
@@ -7512,7 +7486,6 @@ long2 攏
 long2 隴
 long2 曩
 long3 浪
-long3 0xE68CB5
 long5 郎
 long5 狼
 long5 琅
@@ -7934,8 +7907,6 @@ ng2 鞅
 ng2 影
 ng2 蔭
 ng2 嚮
-ng2 0xE498BC
-ng2 f
 ng3 向
 ng3 映
 ng3 蔭
@@ -8047,7 +8018,6 @@ niau2 嫋
 niau2 蔦
 niau7 撓
 nih4 躡
-nih4 0xF0A58D89
 nih8 捏
 niu2 扭
 niu2 兩
@@ -8122,7 +8092,6 @@ o3 薁
 o5 蚵
 o5 蠔
 o7 荷
-oh4 0xE583AB
 oh8 學
 ok4 沃
 ok4 屋
@@ -8134,7 +8103,6 @@ ok4 齷
 ok4 鋈
 ok4 蠖
 om1 摿
-om1 0xE68F9E
 ong1 汪
 ong1 翁
 ong1 嗡
@@ -8239,7 +8207,6 @@ pak4 福
 pak4 駁
 pak4 駮
 pak8 縛
-pak8 0xE8B48C
 pan1 扳
 pan1 班
 pan1 般
@@ -8425,7 +8392,6 @@ phau7 皰
 phe1 批
 phe1 胚
 phe2 輔
-phe2 0xE4A983
 phe3 沛
 phe3 帕
 phe3 媲
@@ -8646,7 +8612,6 @@ phoo5 菩
 phoo5 蒲
 phoo5 蒱
 phoo7 簿
-phoo7 0xE5BB8D
 phu2 殕
 phu2 醭
 phu5 芙
@@ -8689,7 +8654,6 @@ phue1 坯
 phue1 醅
 phue2 輔
 phue2 髀
-phue2 0xE4A983
 phue3 配
 phue3 巿
 phue3 帔
@@ -9235,7 +9199,6 @@ sak4 搠
 sak4 槊
 sak4 蒴
 sak4 鷟
-sak4 0xE68D92
 sam1 三
 sam1 杉
 sam1 芟
@@ -9265,7 +9228,6 @@ san2 剷
 san2 瘦
 san2 鏟
 san2 滻
-san2 0xE3BEAA
 san3 汕
 san3 疝
 san3 訕
@@ -9545,7 +9507,6 @@ sian7 墡
 sian7 鄯
 sian7 嬗
 sian7 蟺
-sian7 0xE58390
 siang1 雙
 siang3 相
 siang3 摔
@@ -10281,7 +10242,6 @@ sui1 荽
 sui2 水
 sui2 髓
 sui2 嫷
-sui2 0xE5AAA0
 sui3 祟
 sui3 碎
 sui3 誶
@@ -10424,7 +10384,6 @@ tai7 埭
 tai7 紿
 tai7 駘
 tai7 靆
-tai7 0xE9AE98
 tainn1 咑
 tainn2 歹
 tainn3 店
@@ -10510,7 +10469,6 @@ tang1 當
 tang1 噹
 tang1 鐺
 tang1 苳
-tang1 0xF0A88689
 tang2 董
 tang2 黨
 tang3 凍
@@ -10651,7 +10609,6 @@ tenn1 邅
 tenn3 佯
 tenn3 掙
 tenn3 瞪
-tenn3 0xF0A98FA0
 tenn7 鄭
 tenn7 掟
 th4 ㄊ
@@ -10683,7 +10640,6 @@ thai5 檯
 thai5 薹
 thai5 邰
 thai5 鮐
-thai5 0xE588A3
 thai7 待
 thai7 怠
 thak4 斥
@@ -10786,7 +10742,6 @@ the5 騠
 the5 鶗
 the7 蜇
 the7 虴
-the7 0xE496B3
 theh4 替
 theh4 蜇
 theh4 裼
@@ -10977,7 +10932,6 @@ thiong3 鬯
 thiong5 蟲
 thit4 佚
 thit4 抶
-thit4 0xF0A891A8
 thiu1 抽
 thiu1 紬
 thiu1 瘳
@@ -11019,7 +10973,6 @@ tho3 套
 tho3 唾
 tho5 佗
 tho5 桃
-tho5 0xE8BF8C
 thoh4 魠
 thoh8 踱
 thok4 托
@@ -11041,7 +10994,6 @@ thong1 湯
 thong1 鏜
 thong1 痌
 thong1 簹
-thong1 0xE6A88B
 thong2 帑
 thong2 倘
 thong2 桶
@@ -11069,7 +11021,6 @@ thoo5 土
 thoo5 塗
 thoo5 頭
 thoo5 涂
-thoo5 0xF0A9B59A
 thoo7 渡
 thoo7 與
 thu5 鋤
@@ -11093,7 +11044,6 @@ thuan7 篆
 thuann1 湍
 thuann1 攤
 thuann1 灘
-thuann2 0xE3948A
 thuann3 炭
 thuann3 碳
 thuann3 澶
@@ -11294,7 +11244,6 @@ tiap8 蹀
 tiat4 哲
 tiat4 螫
 tiat4 膣
-tiat4 0xE59686
 tiat8 迭
 tiat8 秩
 tiat8 絰
@@ -11474,7 +11423,6 @@ ting7 椗
 ting7 萣
 ting7 碇
 ting7 鋌
-ting7 0xF0A09586
 tinn1 珍
 tinn1 甜
 tinn1 蹬
@@ -11482,7 +11430,6 @@ tinn1 敁
 tinn1 靪
 tinn1 邅
 tinn3 掙
-tinn3 0xF0A98FA0
 tinn5 纏
 tinn7 滇
 tinn7 鄭
@@ -11659,7 +11606,6 @@ toh4 叼
 toh4 卓
 toh4 桌
 toh8 著
-toh8 0xF0A48FB8
 tok4 卓
 tok4 桌
 tok4 啄
@@ -11870,7 +11816,6 @@ tue7 兌
 tue7 苧
 tuh4 拄
 tuh4 嘟
-tuh8 0xE68FAC
 tui1 追
 tui1 堆
 tui3 敦
@@ -12167,8 +12112,6 @@ ui7 蝟
 uih4 挖
 uih4 穵
 uih8 劃
-uinn2 0xE498BC
-uinn2 f
 un1 冤
 un1 恩
 un1 溫
@@ -12190,7 +12133,6 @@ un2 狁
 un2 惲
 un2 殞
 un2 韞
-un2 0xF0A4B8AB
 un3 塭
 un3 慍
 un3 醞
@@ -12283,7 +12225,6 @@ am 諳
 am 鵪
 am 盦
 am 闇
-am 0xE68F9E
 am 飲
 am 泔
 am 湆
@@ -12368,7 +12309,6 @@ bah 肉
 bah 脈
 bah 覓
 bai 屄
-bai 0xE48680
 bai 眉
 bai 埋
 bai 楣
@@ -12790,7 +12730,6 @@ bun 燜
 bun 懣
 bun 璺
 but 勿
-but 0xE9ADA9
 but 勿
 but 沒
 but 歿
@@ -13143,7 +13082,6 @@ che 砌
 che 脆
 che 廁
 che 粞
-che 0xF0A2AFA9
 che 顬
 che 箠
 che 蹉
@@ -13285,7 +13223,6 @@ chiau 俏
 chiau 峭
 chiau 笑
 chiau 誚
-chiau 0xE692A8
 chiauh 眨
 chiauh 眨
 chih 切
@@ -13464,7 +13401,6 @@ chit 叱
 chit 拭
 chit 柒
 chit 漆
-chit 0xF0A891A8
 chiu 秋
 chiu 羞
 chiu 鞦
@@ -13636,7 +13572,6 @@ chua 泄
 chua 洩
 chua 娶
 chua 疶
-chua 0xF0A486AC
 chuah 泄
 chuah 惴
 chuah 掣
@@ -14661,7 +14596,6 @@ e 穢
 e 瘞
 e 曀
 e 殪
-e 0xE4B8AA
 e 兮
 e 鞋
 e 會
@@ -14713,7 +14647,6 @@ gam 喦
 gam 釅
 gam 儑
 gan 眼
-gan 0xE990A7
 gan 彥
 gan 嚴
 gan 顏
@@ -14730,7 +14663,6 @@ gang 怢
 gap 呷
 gau 爻
 gau 敖
-gau 0xF0A0A295
 ge 喫
 ge 牙
 ge 兒
@@ -15347,7 +15279,6 @@ hiat 擷
 hiat 蠍
 hiat 禊
 hiat 禊
-hiat 0xE3A792
 hiat 穴
 hiat 頁
 hiat 挈
@@ -15870,7 +15801,6 @@ hua 花
 hua 華
 hua 嘩
 hua 譁
-hua 0xE78395
 hua 化
 hua 划
 hua 華
@@ -16085,7 +16015,6 @@ hui 瓷
 hui 腓
 hui 磁
 hui 淝
-hui 0xE7A198
 hui 吠
 hui 彗
 hui 惠
@@ -17107,7 +17036,6 @@ kam 感
 kam 橄
 kam 咁
 kam 澉
-kam 0xF0A5B48A
 kam 淦
 kam 監
 kam 艦
@@ -17138,7 +17066,6 @@ kan 稈
 kan 蜆
 kan 簡
 kan 襉
-kan 0xF0A1A283
 kan 訐
 kan 間
 kan 幹
@@ -17239,7 +17166,6 @@ kau 較
 kau 酵
 kau 覺
 kau 斠
-kau 0xF0A2939C
 kau 爻
 kau 侯
 kau 猴
@@ -17248,7 +17174,6 @@ kau 厚
 kau 垕
 kauh 餃
 kauh 轢
-kauh 0xF0A99BA9
 ke 加
 ke 圭
 ke 家
@@ -17332,7 +17257,6 @@ khah 恰
 khah 較
 khah 搕
 khah 籗
-khah 0xE7AD81
 khah 磕
 khah 闔
 khai 開
@@ -17534,7 +17458,6 @@ khian 掔
 khian 虔
 khian 乾
 khiang 羌
-khiang 0xE58BA5
 khiann 輕
 khiann 慶
 khiann 磬
@@ -17652,7 +17575,6 @@ khiu 蚯
 khiu 龜
 khiu 揪
 khiu 糗
-khiu 0xE6909D
 khiu 毬
 khiu 球
 khiu 虯
@@ -17871,7 +17793,6 @@ khun 髡
 khun 囷
 khun 褌
 khun 鯤
-khun 0xE5A083
 khun 捆
 khun 菌
 khun 綑
@@ -17897,7 +17818,6 @@ khut 詘
 khut 倔
 khut 崛
 khut 滑
-khut 0xF0A3AE88
 ki 几
 ki 支
 ki 乩
@@ -18751,7 +18671,6 @@ kuann 趕
 kuann 觀
 kuann 寒
 kuann 汗
-kuann 0xE68DBE
 kuat 孓
 kuat 抉
 kuat 決
@@ -18818,7 +18737,6 @@ kui 歸
 kui 机
 kui 媯
 kui 槻
-kui 0xE883BF
 kui 几
 kui 癸
 kui 軌
@@ -18967,7 +18885,6 @@ lak 捋
 lak 搦
 lak 漉
 lak 磟
-lak 0xE69099
 lam 檻
 lam 襤
 lam 籠
@@ -18983,7 +18900,6 @@ lam 壈
 lam 爁
 lam 喃
 lam 湳
-lam 0xE59D94
 lam 男
 lam 南
 lam 婪
@@ -19336,12 +19252,10 @@ lik 櫪
 lik 藶
 lik 躒
 lik 轢
-lim 0xE59589
 lim 忍
 lim 凜
 lim 懍
 lim 廩
-lim 0xE4AB90
 lim 林
 lim 淋
 lim 琳
@@ -19564,8 +19478,6 @@ lo 獠
 lo 瘰
 lo 蠃
 lo 臝
-lo 0xE8BABC
-lo 0xE8BABC
 lo 牢
 lo 那
 lo 勞
@@ -19634,7 +19546,6 @@ long 攏
 long 隴
 long 曩
 long 浪
-long 0xE68CB5
 long 郎
 long 狼
 long 琅
@@ -20056,8 +19967,6 @@ ng 鞅
 ng 影
 ng 蔭
 ng 嚮
-ng 0xE498BC
-ng f
 ng 向
 ng 映
 ng 蔭
@@ -20169,7 +20078,6 @@ niau 嫋
 niau 蔦
 niau 撓
 nih 躡
-nih 0xF0A58D89
 nih 捏
 niu 扭
 niu 兩
@@ -20244,7 +20152,6 @@ o 薁
 o 蚵
 o 蠔
 o 荷
-oh 0xE583AB
 oh 學
 ok 沃
 ok 屋
@@ -20256,7 +20163,6 @@ ok 齷
 ok 鋈
 ok 蠖
 om 摿
-om 0xE68F9E
 ong 汪
 ong 翁
 ong 嗡
@@ -20361,7 +20267,6 @@ pak 福
 pak 駁
 pak 駮
 pak 縛
-pak 0xE8B48C
 pan 扳
 pan 班
 pan 般
@@ -20547,7 +20452,6 @@ phau 皰
 phe 批
 phe 胚
 phe 輔
-phe 0xE4A983
 phe 沛
 phe 帕
 phe 媲
@@ -20768,7 +20672,6 @@ phoo 菩
 phoo 蒲
 phoo 蒱
 phoo 簿
-phoo 0xE5BB8D
 phu 殕
 phu 醭
 phu 芙
@@ -20811,7 +20714,6 @@ phue 坯
 phue 醅
 phue 輔
 phue 髀
-phue 0xE4A983
 phue 配
 phue 巿
 phue 帔
@@ -21357,7 +21259,6 @@ sak 搠
 sak 槊
 sak 蒴
 sak 鷟
-sak 0xE68D92
 sam 三
 sam 杉
 sam 芟
@@ -21387,7 +21288,6 @@ san 剷
 san 瘦
 san 鏟
 san 滻
-san 0xE3BEAA
 san 汕
 san 疝
 san 訕
@@ -21667,7 +21567,6 @@ sian 墡
 sian 鄯
 sian 嬗
 sian 蟺
-sian 0xE58390
 siang 雙
 siang 相
 siang 摔
@@ -22403,7 +22302,6 @@ sui 荽
 sui 水
 sui 髓
 sui 嫷
-sui 0xE5AAA0
 sui 祟
 sui 碎
 sui 誶
@@ -22548,7 +22446,6 @@ tai 埭
 tai 紿
 tai 駘
 tai 靆
-tai 0xE9AE98
 tainn 咑
 tainn 歹
 tainn 店
@@ -22634,7 +22531,6 @@ tang 當
 tang 噹
 tang 鐺
 tang 苳
-tang 0xF0A88689
 tang 董
 tang 黨
 tang 凍
@@ -22775,7 +22671,6 @@ tenn 邅
 tenn 佯
 tenn 掙
 tenn 瞪
-tenn 0xF0A98FA0
 tenn 鄭
 tenn 掟
 th ㄊ
@@ -22807,7 +22702,6 @@ thai 檯
 thai 薹
 thai 邰
 thai 鮐
-thai 0xE588A3
 thai 待
 thai 怠
 thak 斥
@@ -22910,7 +22804,6 @@ the 騠
 the 鶗
 the 蜇
 the 虴
-the 0xE496B3
 theh 替
 theh 蜇
 theh 裼
@@ -23101,7 +22994,6 @@ thiong 鬯
 thiong 蟲
 thit 佚
 thit 抶
-thit 0xF0A891A8
 thiu 抽
 thiu 紬
 thiu 瘳
@@ -23143,7 +23035,6 @@ tho 套
 tho 唾
 tho 佗
 tho 桃
-tho 0xE8BF8C
 thoh 魠
 thoh 踱
 thok 托
@@ -23165,7 +23056,6 @@ thong 湯
 thong 鏜
 thong 痌
 thong 簹
-thong 0xE6A88B
 thong 帑
 thong 倘
 thong 桶
@@ -23193,7 +23083,6 @@ thoo 土
 thoo 塗
 thoo 頭
 thoo 涂
-thoo 0xF0A9B59A
 thoo 渡
 thoo 與
 thu 鋤
@@ -23217,7 +23106,6 @@ thuan 篆
 thuann 湍
 thuann 攤
 thuann 灘
-thuann 0xE3948A
 thuann 炭
 thuann 碳
 thuann 澶
@@ -23418,7 +23306,6 @@ tiap 蹀
 tiat 哲
 tiat 螫
 tiat 膣
-tiat 0xE59686
 tiat 迭
 tiat 秩
 tiat 絰
@@ -23598,7 +23485,6 @@ ting 椗
 ting 萣
 ting 碇
 ting 鋌
-ting 0xF0A09586
 tinn 珍
 tinn 甜
 tinn 蹬
@@ -23606,7 +23492,6 @@ tinn 敁
 tinn 靪
 tinn 邅
 tinn 掙
-tinn 0xF0A98FA0
 tinn 纏
 tinn 滇
 tinn 鄭
@@ -23783,7 +23668,6 @@ toh 叼
 toh 卓
 toh 桌
 toh 著
-toh 0xF0A48FB8
 tok 卓
 tok 桌
 tok 啄
@@ -23994,7 +23878,6 @@ tue 兌
 tue 苧
 tuh 拄
 tuh 嘟
-tuh 0xE68FAC
 tui 追
 tui 堆
 tui 敦
@@ -24291,8 +24174,6 @@ ui 蝟
 uih 挖
 uih 穵
 uih 劃
-uinn 0xE498BC
-uinn f
 un 冤
 un 恩
 un 溫
@@ -24314,7 +24195,6 @@ un 狁
 un 惲
 un 殞
 un 韞
-un 0xF0A4B8AB
 un 塭
 un 慍
 un 醞
@@ -25185,7 +25065,6 @@ chita 拭仔
 chitham 刺探
 chitiu 市長
 chitiu 市場
-chittho 0xF0A891A80xE8BF8C
 chiua 樹仔
 chiuaukhiau 手後曲
 chiubak 樹木
@@ -25214,7 +25093,6 @@ chiukut 手骨
 chiuling 樹奶
 chiulong 手囊
 chiuna 樹林
-chiung 手0xE498BC
 chiuni 樹奶
 chiuphi 唱片
 chiupio 手錶
@@ -25269,7 +25147,6 @@ chootang 粗重
 chooting 粗定
 chootiong 初中
 chuaboo 娶某
-chualoo 0xF0A486AC路
 chuankhui 喘氣
 chuaphu 臭殕
 chubi 趣味
@@ -25299,10 +25176,8 @@ chuihue 喙花
 chuikak 喙角
 chuikhi 喙齒
 chuinua 喙瀾
-chuiphe 喙0xE4A983
 chuisng 推算
 chuisu 推事
-chuisui 喙0xE5AAA0
 chuita 喙礁
 chuitun 喙唇
 chukha 厝跤
@@ -25664,8 +25539,6 @@ citcama 職暫仔
 citciong 一種
 citcun 職陣
 cite 一下
-cite 一0xE4B8AA
-cite 職0xE4B8AA
 citgi 質疑
 citgiap 職業
 citiam 指點
@@ -26162,7 +26035,6 @@ guabin 外面
 guace 外儕
 guachut 外出
 guacue 外儕
-guae 我0xE4B8AA
 guagi 外語
 guahang 外行
 guahing 外形
@@ -26185,7 +26057,6 @@ guancai 原在
 guancik 原則
 guancu 原子
 guancubin 原住民
-guane 阮0xE4B8AA
 guanhing 原形
 guanhiong 原鄉
 guani 願意
@@ -26409,7 +26280,6 @@ hesiu 歲壽
 hethi 夏天
 hethong 系統
 hethua 火炭
-hetoh 火0xF0A48FB8
 hetua 火大
 hiachu 瓦厝
 hiahni 遐爾
@@ -26537,12 +26407,10 @@ hiphio 戲票
 hipoh 稀薄
 hipsiong 翕相
 hisai 耳屎
-hisak 獻0xE68D92
 hising 犧牲
 hisu 喜事
 hitai 戲臺
 hitcun 迄陣
-hite 迄0xE4B8AA
 hithuan 戲團
 hiti 魚池
 hiting 否定
@@ -27057,7 +26925,6 @@ ichik 預測
 ichut 移出
 ici 意志
 icing 以前
-ie 伊0xE4B8AA
 iekbun 譯文
 igi 異議
 igi 意義
@@ -27104,7 +26971,6 @@ imtim 陰沉
 ina 印仔
 inai 依賴
 inchu 因此
-inchua 引0xF0A486AC
 incin 引進
 incing 印證
 incun 允准
@@ -27482,7 +27348,6 @@ kalingsun 加冷恂
 kalo 栲栳
 kama 柑仔
 kamabit 柑仔蜜
-kamatiam 0xF0A5B48A仔店
 kamcho 甘草
 kamcia 甘蔗
 kamcing 感情
@@ -27579,7 +27444,6 @@ kating 家庭
 kating 假定
 katiu 家長
 kato 鉸刀
-kaube 0xF0A2939C尾
 kaubo 狗母
 kaubu 教務
 kaucai 教材
@@ -27587,7 +27451,6 @@ kauce 交際
 kauchai 教材
 kaucing 校正
 kaugi 教義
-kaugiah 0xF0A2939C額
 kaugua 郊外
 kauhak 教學
 kauhia 蚼蟻
@@ -27610,7 +27473,6 @@ kaulo 教羅
 kauong 交往
 kaupai 狗牌
 kaupue 交陪
-kausi 0xF0A2939C時
 kausiap 交涉
 kausik 教室
 kausiu 教授
@@ -27631,7 +27493,6 @@ kauua 交換
 kauuan 教員
 kauue 官話
 kauue 厚話
-kauui 0xF0A2939C位
 kea 架仔
 keau 家後
 kechua 嫁娶
@@ -27720,7 +27581,6 @@ khanbong 牽亡
 khanbut 刊物
 khancai 刊載
 khanchiu 牽手
-khane 牽0xE4B8AA
 khangchiu 空手
 khangchui 空喙
 khangkhak 空殼
@@ -28571,8 +28431,6 @@ kuiboo 規模
 kuiciat 季節
 kuicik 規則
 kuicok 貴族
-kuie 幾0xE4B8AA
-kuie 歸0xE4B8AA
 kuihua 歸化
 kuihuan 規範
 kuihue 桂花
@@ -28656,7 +28514,6 @@ laiguan 來源
 laihang 內行
 laihue 來回
 laiiong 內容
-laikau 來0xF0A2939C
 laikhi 來去
 laikho 內科
 laikhoo 內褲
@@ -28694,7 +28551,6 @@ lamsing 男性
 lamto 南島
 lamtogi 南島語
 lanbian 難免
-lane 咱0xE4B8AA
 langa 籠仔
 langcai 儂才
 langia 儂影
@@ -28793,7 +28649,6 @@ liaukai 了解
 liauli 料理
 liauputkhi 了不起
 liausiong 料想
-lie 汝0xE4B8AA
 lihai 厲害
 lihak 理學
 lihuat 理髮
@@ -28816,7 +28671,6 @@ limchng 臨床
 limciong 臨終
 limsi 臨時
 linbin 憐憫
-line 恁0xE4B8AA
 lingbu 奶母
 lingcing 冷靜
 lingcong 冷藏
@@ -28922,9 +28776,7 @@ longhui 浪費
 longioh 農藥
 longka 農家
 longkhu 農具
-longkiu 0xE68CB5球
 longlik 農曆
-longphua 0xE68CB5破
 longsi 攏是
 longtiu 農場
 longu 攏有
@@ -29138,7 +28990,6 @@ niceh 年節
 nichoo 年初
 nici 簾簷
 nicueh 年節
-nihbak 0xF0A58D89目
 nihe 年歲
 niho 年號
 nihue 年會
@@ -29268,7 +29119,6 @@ pangkiu 棒球
 pangoh 放學
 pangphui 放屁
 pangsai 放屎
-pangsak 放0xE68D92
 pangsang 放鬆
 pangsi 放生
 panhuat 辦法
@@ -29792,7 +29642,6 @@ sangiap 產業
 sanho 山河
 sanoo 珊瑚
 sanphin 產品
-sanpipa 0xE3BEAA疕疤
 sanpo 散播
 sanpoo 散佈
 sansing 產生
@@ -30156,7 +30005,6 @@ siosu 相輸
 siosua 相紲
 siosuat 小說
 siotang 相同
-siothai 相0xE588A3
 sioti 小弟
 siotng 小腸
 siotu 相拄
@@ -30549,7 +30397,6 @@ tasau 打掃
 tasng 打算
 taso 礁燥
 tata 笛仔
-tatkau 達0xF0A2939C
 tato 打倒
 tatsing 達成
 tattit 值得
@@ -30624,9 +30471,7 @@ thaiping 太平
 thaiping 太平
 thaipingiu 太平洋
 thaipo 太保
-thaisi 0xE588A3死
 thaithai 太太
-thaithau 0xE588A3頭
 thaitoo 態度
 thaix 太太
 thakcheh 讀冊
@@ -30766,7 +30611,6 @@ thiongsiau 暢銷
 thisik 天色
 thithau 剃頭
 thiting 天頂
-thittho 0xF0A891A80xE8BF8C
 thitue 天地
 thiua 丑仔
 thiucui 抽水
@@ -30915,7 +30759,6 @@ tiauliu 潮流
 tiaupo 碉堡
 tiauuan 迢遠
 tiax 定定
-tichi 0xF0A98FA0青
 tichng 痔瘡
 ticok 著作
 tigua 除外
@@ -30957,7 +30800,6 @@ timtang 沉重
 timthau 揕頭
 tinai 塵埃
 tinap 鎮壓
-ting2khok 0xF0A09586哠哠
 tinga 亭仔
 tinga 釘仔
 tingakha 亭仔跤
@@ -31780,7 +31622,6 @@ topi 逃避
 tuanthut 短絀
 tuantiah 端的
 tuatiah 端的
-ue 有0xE4B8AA
 uehhun 劃分
 uehun 畫分
 unciang 運將
@@ -31911,8 +31752,6 @@ cikui 即為
 kinki 根基
 tingui 定位
 hitkhuan 迄款
-ciae 遮0xE4B8AA
-hiae 遐0xE4B8AA
 jinti 認知
 chaukin 草根
 iuhui 郵費
@@ -32169,17 +32008,14 @@ bophua 無伴
 phinphong 乒乓
 phinphiang 乒乓
 liana 輪仔
-cite 這0xE4B8AA
 citpai 這擺
 citlo 這號
 teche 佯生
 thngpaktheh 褪剝裼
 pia 啤仔
-thoothoh 0xF0A9B59A魠
 pauhge 嚗牙
 pokge 嚗牙
 ciuhx 啁啁
-nihchiauh 0xF0A58D89眨
 jiause 縐紗
 aute 後蹬
 aute 後蹬

@@ -3,8 +3,8 @@
 #參考: 現代客語詞彙彙編(海陸腔)
 #格式修改(無附加限制): 趙惟倫 <bluebat@member.fsf.org>, 2006
 #授權方式: Public Domain
-%cname 海陸客語
 %ename HaiLu:en;海陆客语:zh_CN;海陸客語:zh;
+%cname 海陸客語
 #sname 海陸
 %selkey 1234567890
 %keyname begin
@@ -604,7 +604,6 @@ riun 勻
 gieu1 勾
 vud1 勿
 bau1 包
-fa?3 化
 fa3 化
 bed 北
 shi 匙
@@ -3037,7 +3036,6 @@ gui1 皈
 hau 皓
 siag 皙
 pi 皮
-pi? 皮
 ziu3 皺
 zhung1 盅
 pun 盆

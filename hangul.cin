@@ -4,24 +4,28 @@
 ### ㅂ ㅈ ㄷ ㄱ ㅅ  ㅛ ㅕ ㅑ ㅐ ㅔ      ㅃ ㅉ ㄸ ㄲ ㅆ         ㅒ ㅖ
 ###
 ###  a  s  d   f  g  h  j  k  l          A  S  D  F  G  H  J  K  L
-###  ㅁ ㄴ ㅇ ㄹ ㅎ ㅗ ㅓ ㅏ ㅣ                        ㅙ ㅝ ㅘ ㅚ
+###  ㅁ ㄴ ㅇ ㄹ ㅎ ㅗ ㅓ ㅏ ㅣ          ㄼ ㄳ    ㅀ ㄺ ㅙ ㅝ ㅘ ㅚ
 ###
 ###   z  x  c   v  b  n  m                 Z   X   C   V   B   N   M
-###   ㅋ ㅌ ㅊ ㅍ ㅠ ㅜ ㅡ                                ㅟ  ㅞ  ㅢ
-%cname 韓文
+###   ㅋ ㅌ ㅊ ㅍ ㅠ ㅜ ㅡ                        ㅄ  ㄿ  ㅟ  ㅞ  ㅢ
 %ename Hangul:en;韩文:zh_CN;韓文:zh;한글:ko;
+%cname 韓文
 %selkey 1234567890
 %keep_key_case
 %keyname begin
 a ㅁ
+A ㄼ
 b ㅠ
 B ㅟ
 c ㅊ
+C ㅄ
 d ㅇ
 e ㄷ
 E ㄸ
 f ㄹ
+F ㅀ
 g ㅎ
+G ㄺ
 h ㅗ
 H ㅙ
 i ㅑ
@@ -44,10 +48,12 @@ Q ㅃ
 r ㄱ
 R ㄲ
 s ㄴ
+S ㄳ
 t ㅅ
 T ㅆ
 u ㅕ
 v ㅍ
+V ㄿ
 w ㅈ
 W ㅉ
 x ㅌ

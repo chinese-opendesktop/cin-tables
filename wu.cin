@@ -1,6 +1,5 @@
-%cname 吴语拼音
 %ename Wu:en;吴语拼音:zh_CN;吳語拼音:zh;
-%encoding UTF-8
+%cname 吴语拼音
 %selkey 1234567890
 %keyname begin
 a 阿
@@ -12,12 +11,14 @@ f 方
 g 箇
 h 好
 i 一
+j ｊ
 k 公
 l 牢
 m 馬
 n 我
 o 屋
 p 百
+q ｑ
 r 個
 s 小
 t 脫
@@ -27,6 +28,7 @@ w 為
 x 向
 y 伊
 z 上
+' '
 %keyname end
 %chardef begin
 a 啊

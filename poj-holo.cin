@@ -9,8 +9,8 @@
 # 授權，歡迎各界散佈及使用。                                             #
 # o· 用ou 鼻音用 nn 入聲鼻音用 nnh 表示
 #######################################################################
-%cname 白話字漢羅
 %ename POJ:en;白话字汉罗:zh_CN;白話字漢羅:zh;
+%cname 白話漢羅
 %selkey asdfghjkl;
 %keyname begin
 a a

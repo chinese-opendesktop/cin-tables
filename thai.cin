@@ -1,7 +1,7 @@
 # Derived from th-kesmanee.mim table in m17n-db.
 # Jens Petersen <petersen@redhat.com>
-%cname 泰文
 %ename Thai:en;泰文:zh_CN;泰文:zh;ภาษาไทย:th;
+%cname 泰文
 %selkey 1234567890
 %keep_key_case
 %keyname begin

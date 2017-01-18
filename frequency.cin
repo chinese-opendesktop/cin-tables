@@ -3,8 +3,8 @@
 #參考 http://technology.chtsai.org/charfreq/94charfreq.html
 #格式修改(無附加限制): 趙惟倫 <bluebat@member.fsf.org>, 2007
 #授權方式: Public Domain
-%cname 字頻序
 %ename Frequency:en;字频序:zh_CN;字頻序:zh;
+%cname 字頻序
 #sname 字頻
 %selkey 1234567890
 %keyname begin

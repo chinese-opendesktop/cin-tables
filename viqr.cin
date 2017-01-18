@@ -1,6 +1,6 @@
 # Samuel Thibault <samuel.thibault@ens-lyon.org>
-%cname 越南文QR
 %ename ViQR:en;越南文QR:zh_CN;Tiếng Việt QR:vi;
+%cname 越南文QR
 %selkey 1234567890
 %keep_key_case
 %keyname begin

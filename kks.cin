@@ -1,6 +1,6 @@
 # 台語羅馬字漢羅詞庫輸入法 KKS-V1.40
-%cname 台語漢羅
 %ename KKS:en;台语汉罗:zh_CN;台語漢羅:zh;
+%cname 台語漢羅
 %selkey 123456789
 %endkey 78
 %keep_key_case

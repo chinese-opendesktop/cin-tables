@@ -1,6 +1,6 @@
 # 客語羅馬字漢羅詞庫輸入法 KKS-HakkaV0.93
-%cname 客語漢羅
 %ename KKS-Hakka:en;客语汉罗:zh_CN;客語漢羅:zh;
+%cname 客語漢羅
 %selkey 123456789
 %endkey 23578
 %keyname begin

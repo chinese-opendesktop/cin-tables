@@ -1,5 +1,5 @@
-%cname 半形片假名
 %ename HalfKana:en;半形片假名:zh_CN;半形片假名:zh;半カタカナ:ja;
+%cname 半形片假
 %selkey 1234567890
 %endkey "',-.[]aiueo
 %keyname begin
@@ -87,6 +87,6 @@ ya	ｬ
 yu	ｭ
 yo	ｮ
 tu	ｯ
-\"	ﾞ
+"	ﾞ
 '	ﾟ
 %chardef end

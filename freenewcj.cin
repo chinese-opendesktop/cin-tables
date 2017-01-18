@@ -4,8 +4,8 @@
 #copyright (c) 2006-2007 by FreeNewCJCin
 #格式轉換(無附加限制): 趙惟倫 <bluebat@member.fsf.org>, 2007
 #授權方式: Public Domain
-%cname 自由大新
 %ename FreeNewCJ:en;自由大新:zh_CN;自由大新:zh;
+%cname 自由大新
 #sname 自新
 %selkey 1234567890
 %keyname begin

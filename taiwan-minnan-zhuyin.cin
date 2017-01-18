@@ -1,9 +1,7 @@
 # By Arne Götje after Yang Ching-chu's Taiwanese Dictionary
 
-%gen_inp
 %ename TaiwanMinNanZhuYin
 %cname 台式閩南語注音
-%encoding UTF-8
 %selkey 1234567890
 %endkey 234567
 %keyname begin
@@ -5476,7 +5474,7 @@ xu0 嗹
 xu3 剓
 xu3 攦
 xu4 𠞉
-xu.44 廿
+xu44 廿
 xu4d 勒
 xu4 你
 xu4 俚
@@ -5778,7 +5776,7 @@ y;;;5 狀
 y;;;6 全
 y;6 叢
 y;;;6 嚐
-y.6 嶸
+y6 嶸
 y;;;6 從
 y;;;6 旋
 y;;;6 旋

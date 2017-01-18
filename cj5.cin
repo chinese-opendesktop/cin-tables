@@ -1,8 +1,8 @@
 # File header must not be modified
 # This file must be encoded into UTF-8.
 # This file comes from http://www.chinesecj.com
-%cname 倉五
 %ename Changjei5:en;仓五:zh_CN;倉五:zh;
+%cname 倉五
 %selkey 1234567890
 %keyname begin
 a 日

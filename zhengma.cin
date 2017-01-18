@@ -3,8 +3,8 @@
 #網址: http://www.china-e.com.cn/main/zhengma/jj.htm
 #格式修改(無附加限制): 趙惟倫 <bluebat@member.fsf.org>, 2006
 #授權方式: Public Domain
-%cname 中易郑码
 %ename ZhengMa:en;中易郑码:zh_CN;中易鄭碼:zh;
+%cname 中易郑码
 #sname 鄭碼
 %selkey 1234567890
 %keyname begin

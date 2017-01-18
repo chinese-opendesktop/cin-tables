@@ -4,8 +4,8 @@
 #輸入法規則: http://lshk.ctl.cityu.edu.hk/Jyutping.php
 #格式修改(無附加限制): 趙惟倫 <bluebat@member.fsf.org>, 2006
 #授權方式: Public Domain
-%cname 帶調粵語拼音
 %ename Jyutping:en;带调粤语拼音:zh_CN;帶調粵語拼音:zh;
+%cname 帶調粵拼
 #sname 帶粵
 %selkey 1234567890
 %endkey 123456

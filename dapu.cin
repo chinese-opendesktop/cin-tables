@@ -3,8 +3,8 @@
 #參考: 積丹尼 dongshike.xcin.txt (根據行政院客家委員會委員徐登志老師的教材)
 #格式修改(無附加限制): 趙惟倫 <bluebat@member.fsf.org>, 2006
 #授權方式: Public Domain
-%cname 大埔客語
 %ename DaPu:en;大埔客语:zh_CN;大埔客語:zh;
+%cname 大埔客語
 #sname 大埔
 %selkey 1234567890
 %keyname begin

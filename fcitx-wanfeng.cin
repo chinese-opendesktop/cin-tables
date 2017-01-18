@@ -1,6 +1,5 @@
-%gen_inp
-%cname 晚风
 %ename WanFeng:en;晚风:zh_CN;晚風:zh;
+%cname 晚风
 %selkey 123456789
 %space_style 2
 %keyname begin

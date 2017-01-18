@@ -3,8 +3,8 @@
 #修改自 wm2.tit (趙惟倫1996.7)
 #格式修改(無附加限制): 趙惟倫 <bluebat@member.fsf.org>, 2006
 #授權方式: Public Domain
-%cname 象形王碼
 %ename WM2:en;象形王码:zh_CN;象形王碼:zh;
+%cname 象形王碼
 #sname 王碼
 %selkey 1234567890
 %keyname begin

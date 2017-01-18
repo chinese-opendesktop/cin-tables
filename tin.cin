@@ -11,8 +11,8 @@
 
 #由於鍵盤的按鍵不足，在本輸入法中，<ㆪ>必需由<ㄧ>及<。>來組成，<ㆬ>及<ㆭ>也被融入<ㄇ>及<ㄥ>鍵內
 
-%cname 臺語注音
 %ename Taiwanese:en;台语注音:zh_CN;臺語注音:zh;
+%cname 臺語注音
 %selkey 123456789
 %endkey 690-=
 %keyname begin

@@ -4,8 +4,8 @@
 #http://www.edu.tw/mandr/download.aspx?download_sn=3015
 #格式修改(無附加限制): 趙惟倫 <bluebat@member.fsf.org>, 2010
 #授權方式: Freeware
-%cname 臺閩漢字
 %ename TBHS:en;台闽汉字:zh_CN;臺閩漢字:zh;
+%cname 臺閩漢字
 #sname 閩漢
 %selkey 1234567890
 %keyname begin

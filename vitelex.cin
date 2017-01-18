@@ -1,5 +1,5 @@
-%cname 越南電傳
 %ename ViTelex:en;越南电传:zh_CN;Tiếng Việt Telex:vi;
+%cname 越南電傳
 %selkey 1234567890
 %keep_key_case
 %keyname begin
@@ -21,6 +21,7 @@ e e
 i i
 o o
 u u
+w w
 y y
 %keyname end
 %chardef begin

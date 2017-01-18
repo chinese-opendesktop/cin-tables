@@ -1,7 +1,7 @@
 #亂倉打鳥 0.0.4+svn
 #網址: http://cle.linux.org.tw/trac/wiki/NewCJ3Cin
-%cname 亂倉打鳥
 %ename NewCJ3:en;乱仓打鸟:zh_CN:亂倉打鳥:zh;
+%cname 亂倉打鳥
 #sname 亂倉
 %selkey 1234567890
 %keyname begin

@@ -4,8 +4,8 @@
 #輸入法規則: http://ckc.ied.edu.hk/code/Jyutping-ILE.doc
 #格式修改(無附加限制): 趙惟倫 <bluebat@member.fsf.org>, 2006
 #授權方式: Public Domain
-%cname 廣東拼音
 %ename ILE:en;广东拼音:zh_CN;廣東拼音:zh;
+%cname 廣東拼音
 #sname 廣拼
 %selkey 1234567890
 %endkey 123456789

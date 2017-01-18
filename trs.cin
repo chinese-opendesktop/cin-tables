@@ -2,8 +2,8 @@
 #說明: https://github.com/a-tsioh/TRS.cin
 #作者: 阿石Pierre Magistry <pierre@magistry.fr>, 2013
 #授權方式: Public Domain
-%cname 臺語TRS
 %ename TRSTaigi:en;台语TRS:zh_CN;臺語TRS:zh;
+%cname 臺語TRS
 #sname TRS
 %selkey 1234567890
 %keyname begin

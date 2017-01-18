@@ -2,6 +2,7 @@
 %ename Latin-Letters:en;拉丁字母:zh;
 %cname 拉丁字母
 %selkey 1234567890
+%keep_key_case
 %keyname begin
 !	!
 /	/

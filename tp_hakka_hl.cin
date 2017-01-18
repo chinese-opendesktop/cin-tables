@@ -19,11 +19,8 @@
 # unicode 中，是徐老師造的字。本檔另外以示意方式表示這些字，如 (亻恩)，並加入 LaTeX 組合
 # 這些字的指令 (使用 LaTeX 時可用)，應不會造成一般使用者的困擾。 
 #######################################################################
-#%ename TP Hakka HoiLiuk
 %ename HoiLiuk
-#%cname 通用拼音客家話 海陸腔
 %cname 通用海陸
-%encoding UTF-8
 %selkey 1234567890
 %keyname begin
 a a

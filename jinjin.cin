@@ -1,6 +1,5 @@
-%cname 晶晶码
 %ename JinJin:en;晶晶码:zh_CN;晶晶碼:zh;
-%encoding UTF-8
+%cname 晶晶码
 %selkey 1234567890
 %endkey ,./;'[]\`-=<>?:"{}|~!@#$%^&*()_+
 %keyname begin

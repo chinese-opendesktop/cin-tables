@@ -3,8 +3,8 @@
 ### Please read kanjidic_doc.html and kanjidic_licence.html
 ### for more information.
 ### This table's author is Matthew Fischer <futhark@users.sourceforge.net>
-%cname 日文漢字
 %ename Nippon:en;日文汉字:zh_CN;日文漢字:zh;かんじ:ja;
+%cname 日文漢字
 %selkey 1234567890
 %keep_key_case
 %keyname begin
@@ -35,6 +35,7 @@ U U
 E E
 O O
 K K
+T T
 Y Y
 W W
 %keyname end
@@ -6555,7 +6556,6 @@ kutugae	覆	2
 hun	噴	2
 hu	噴	2
 hun	粉	2
-desimeetoru	粉	2
 ko	粉	2
 kona	粉	2
 hun	雰	2
@@ -7859,7 +7859,6 @@ sige	欝	0
 utu	蔚	0
 i	蔚	0
 uti	蔚	0
-otokoyomogi	蔚	0
 man	鰻	0
 ban	鰻	0
 unagi	鰻	0
@@ -8555,7 +8554,6 @@ akira	暁	0
 ake	暁	0
 satoru	暁	0
 teru	暁	0
-kiromeetoru	粁	0
 kin	僅	0
 gon	僅	0
 wazuka	僅	0
@@ -9325,7 +9323,7 @@ syuu	酋	0
 zyu	酋	0
 osa	酋	0
 huruzake	酋	0
-sakenotukasa	酋	0
+#sakenotukasa	酋	0
 syuu	醜	0
 miniku	醜	0
 siko	醜	0
@@ -9767,7 +9765,7 @@ susu	膳	0
 sona	膳	0
 ze	膳	0
 yosi	膳	0
-sentimeetoru	糎	0
+#sentimeetoru	糎	0
 senti	糎	0
 sou	噌	0
 syou	噌	0
@@ -10450,7 +10448,7 @@ yuu	酉	0
 tori	酉	0
 naga	酉	0
 minoru	酉	0
-hiyorinotori	酉	0
+#hiyorinotori	酉	0
 torihen	酉	0
 sei	瀞	0
 syou	瀞	0
@@ -11260,7 +11258,7 @@ atu	湊	0
 sa	蓑	0
 sai	蓑	0
 mino	蓑	0
-mirimeetoru	粍	0
+#mirimeetoru	粍	0
 miri	粍	0
 bu	鵡	0
 mu	鵡	0
@@ -12142,7 +12140,7 @@ men	冕	0
 kanmuri	冕	0
 beki	冖	0
 wakanmuri	冖	0
-bekikanmuri	冖	0
+#bekikanmuri	冖	0
 en	冤	0
 kou	冦	0
 ada	冦	0
@@ -12345,7 +12343,7 @@ ken	勸	0
 susu	勸	0
 hou	勹	0
 tutu	勹	0
-tutumigamae	勹	0
+#tutumigamae	勹	0
 sou	匆	0
 isoga	匆	0
 kyou	匈	0
@@ -12378,7 +12376,7 @@ ren	匳	0
 kusige	匳	0
 hako	匳	0
 kei	匸	0
-kakusigamae	匸	0
+#kakusigamae	匸	0
 ku	區	0
 ou	區	0
 kou	區	0
@@ -12583,7 +12581,7 @@ ke	咼	0
 kuu	咼	0
 ka	咼	0
 yokosima	咼	0
-kutigayugamu	咼	0
+#kutigayugamu	咼	0
 yuga	咼	0
 saso	哘	0
 ka	哥	0
@@ -13334,14 +13332,14 @@ sen	尠	0
 seu	尠	0
 sukuna	尠	0
 ou	尢	0
-dainomageasi	尢	0
+#dainomageasi	尢	0
 mottomo	尢	0
 bou	尨	0
 mukuinu	尨	0
 si	尸	0
 katasiro	尸	0
 sikabane	尸	0
-sikabanekanmuri	尸	0
+#sikabanekanmuri	尸	0
 in	尹	0
 osa	尹	0
 tada	尹	0
@@ -13477,7 +13475,7 @@ gaku	嶽	0
 take	嶽	0
 taki	嶽	0
 ryu	嶐	0
-yamanokatati	嶐	0
+#yamanokatati	嶐	0
 gyoku	嶷	0
 gi	嶷	0
 sato	嶷	0
@@ -14583,7 +14581,7 @@ ki	旡	0
 ke	旡	0
 mu	旡	0
 nasi	旡	0
-sudenotukuri	旡	0
+#sudenotukuri	旡	0
 kan	旱	0
 hideri	旱	0
 kou	杲	0
@@ -16132,7 +16130,7 @@ motai	瓮	0
 ton	瓲	0
 desiguramu	瓰	0
 miriguramu	瓱	0
-hekutoguramu	瓸	0
+#hekutoguramu	瓸	0
 si	瓷	0
 kame	瓷	0
 ken	甄	0
@@ -16141,7 +16139,7 @@ sue	甄	0
 syuu	甃	0
 sikigawara	甃	0
 isidatami	甃	0
-sentiguramu	甅	0
+#sentiguramu	甅	0
 oo	甌	0
 ou	甌	0
 hotogi	甌	0
@@ -16837,10 +16835,10 @@ ana	竇	0
 setu	竊	0
 nusu	竊	0
 hiso	竊	0
-dekarittoru	竍	0
-kirorittoru	竏	0
-desirittoru	竕	0
-miririttoru	竓	0
+#dekarittoru	竍	0
+#kirorittoru	竏	0
+#desirittoru	竕	0
+#miririttoru	竓	0
 tan	站	0
 tyo	竚	0
 tatazu	竚	0
@@ -16848,7 +16846,7 @@ hei	竝	0
 hou	竝	0
 na	竝	0
 nara	竝	0
-hekutorittoru	竡	0
+#hekutorittoru	竡	0
 si	竢	0
 matu	竢	0
 syou	竦	0
@@ -16857,7 +16855,7 @@ oso	竦	0
 tutusi	竦	0
 ketu	竭	0
 tuku	竭	0
-sentirittoru	竰	0
+#sentirittoru	竰	0
 utubo	笂	0
 kotu	笏	0
 syaku	笏	0
@@ -17063,7 +17061,7 @@ hue	籥	0
 ri	籬	0
 magaki	籬	0
 kaki	籬	0
-dekameetoru	籵	0
+#dekameetoru	籵	0
 hi	粃	0
 sina	粃	0
 siina	粃	0
@@ -17077,7 +17075,7 @@ si	粢	0
 sitogi	粢	0
 men	粫	0
 tou	粡	0
-hekutomeetoru	粨	0
+#hekutomeetoru	粨	0
 kou	粳	0
 uruti	粳	0
 nuka	粳	0
@@ -17608,7 +17606,7 @@ yu	肬	0
 yuu	肬	0
 ibo	肬	0
 kou	胛	0
-kaigarabone	胛	0
+#kaigarabone	胛	0
 syo	胥	0
 so	胥	0
 ai	胥	0
@@ -17847,7 +17845,7 @@ ade	艷	0
 yosi	艷	0
 sou	艸	0
 kusa	艸	0
-kusakanmuri	艸	0
+#kusakanmuri	艸	0
 soukou	艸	0
 kai	艾	0
 gei	艾	0
@@ -18258,7 +18256,7 @@ katura	蘰	0
 ra	蘿	0
 tuta	蘿	0
 ko	虍	0
-torakanmuri	虍	0
+#torakanmuri	虍	0
 toragasira	虍	0
 ko	乕	0
 tora	乕	0
@@ -18873,7 +18871,7 @@ sen	譫	0
 tan	譫	0
 uwagoto	譫	0
 tawagoto	譫	0
-urusakusyabe	譫	0
+#urusakusyabe	譫	0
 sou	譟	0
 sawa	譟	0
 hi	譬	0
@@ -19270,7 +19268,7 @@ kago	轎	0
 kan	轗	0
 kon	轗	0
 zi	轜	0
-hitugiguruma	轜	0
+#hitugiguruma	轜	0
 zisya	轜	0
 reki	轢	0
 hi	轢	0
@@ -20317,7 +20315,7 @@ takasi	髞	0
 hyuu	髟	0
 hyou	髟	0
 kamigasira	髟	0
-kamikanmuri	髟	0
+#kamikanmuri	髟	0
 tei	髢	0
 seki	髢	0
 kamozi	髢	0
@@ -20360,7 +20358,7 @@ hin	鬢	0
 ryou	鬣	0
 tategami	鬣	0
 tougamae	鬥	0
-tatakaigamae	鬥	0
+#tatakaigamae	鬥	0
 tou	鬧	0
 dou	鬧	0
 sawaga	鬧	0

@@ -4,8 +4,8 @@
 #輸入法規則: 電信研究所訂定，電信總局、中華電信使用
 #格式修改(無附加限制): 趙惟倫 <bluebat@member.fsf.org>, 2006
 #授權方式: Public Domain
-%cname 電信碼
 %ename Telecode:en;电信码:zh_CN;電信碼:zh;
+%cname 電信碼
 #sname 電信
 %selkey 1234567890
 %keyname begin

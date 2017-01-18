@@ -1,6 +1,6 @@
 ### This file comes from unicon module.
-%cname 日文片假名
 %ename Katakana:en;日文片假名:zh_CN;日文片假名:zh;カタカナ:ja;
+%cname 日文片假
 %selkey 1234567890
 %keep_key_case
 %keyname begin

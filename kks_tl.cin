@@ -1,6 +1,6 @@
 # 台羅拼音漢羅詞庫輸入法 KKS-TailoV1.60
-%cname 台羅拼音
 %ename KKS-TaiLo:en;台罗拼音:zh_CN;台羅拼音:zh;
+%cname 台羅拼音
 %selkey qwrydzxcv
 %endkey 123578
 %keep_key_case

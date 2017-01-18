@@ -2,8 +2,8 @@
 #網址: http://www.cns11643.gov.tw/web/download.jsp
 #格式轉換(無附加限制): 趙惟倫 <bluebat@member.fsf.org>, 2006
 #授權方式: Public Domain
-%cname 正體簡易
 %ename SimpleCJ:en;正体简易:zh_CN;正體簡易:zh;
+%cname 正體簡易
 #sname 簡易
 %selkey 1234567890
 %keyname begin

@@ -1,16 +1,18 @@
 #Improved by thhui
-%cname 韓文羅馬字
 %ename HangulRomaja:en;韩文罗马字:zh_CN;韓文羅馬字:zh;한글 Romaja:ko;
+%cname 韓文羅馬
 %selkey 1234567890
 %keep_key_case
 %keyname begin
 A A
 B B
 C C
+D D
 E E
 F F
 G G
 H H
+I I
 J J
 K K
 L L
@@ -22,8 +24,11 @@ Q Q
 R R
 S S
 T T
+U U
 V V
 W W
+Y Y
+Z Z
 a a
 b b
 c c

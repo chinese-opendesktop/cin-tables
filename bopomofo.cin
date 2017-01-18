@@ -2,8 +2,8 @@
 #網址: http://www.cns11643.gov.tw/web/download.jsp
 #格式轉換(無附加限制): 趙惟倫 <bluebat@member.fsf.org>, 2007
 #授權方式: Public Domain
-%cname 正體注音
 %ename Bopomofo:en;正体注音:zh_CN;正體注音:zh;
+%cname 正體注音
 #sname 注音
 %selkey 1234567890
 %endkey 3467
@@ -13227,7 +13227,6 @@ au4 幦
 vu. 鎀
 fm/3 顈
 vu03 顈
-ˉ ˉ
 wj/6 鉖
 1ul 瘭
 6 ˊ

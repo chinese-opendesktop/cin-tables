@@ -4,8 +4,8 @@
 #Copyright (C) 2002-2009 Quintus Leung <quintus@scj2000.net>
 #格式轉換(無附加限制): 趙惟倫 <bluebat@member.fsf.org>, 2008
 #授權方式: GPL3
-%cname 快速倉頡
 %ename SCJ6:en;快速仓颉:zh_CN;快速倉頡:zh;
+%cname 快速倉頡
 #sname 快倉
 %selkey 1234567890
 %keyname begin

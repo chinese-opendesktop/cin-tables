@@ -1,5 +1,5 @@
-%cname 大易三碼
 %ename DaYi3:en;大易三码:zh_CN;大易三碼:zh;
+%cname 大易三碼
 %selkey '[]-\6789
 
 #-------------------------
@@ -17,18 +17,18 @@
 # DisableSelectList: 特殊字根, 用來設定在按下某個鍵之後，再按選字鍵時，則此選字鍵便失去了選字功能。此功能是針對行列 30 輸入法的特殊需求而設計。
 #
 #------------------------
-%setting begin
-        AutoCompose "Yes"
-        AutoUpChar "Yes"
-        AutoFullUp "Yes"
-        SpaceAutoUp "No"
-        SelectKeyShift "Yes"
-        SpaceIgnore "Yes"
-        SpaceReset "Yes"
-        WildEnable "Yes"
-        EndKey "No"
-        DisableSelectList "None"
-%setting end
+#%setting begin
+#        AutoCompose "Yes"
+#        AutoUpChar "Yes"
+#        AutoFullUp "Yes"
+#        SpaceAutoUp "No"
+#        SelectKeyShift "Yes"
+#        SpaceIgnore "Yes"
+#        SpaceReset "Yes"
+#        WildEnable "Yes"
+#        EndKey "No"
+#        DisableSelectList "None"
+#%setting end
 
 %keyname begin
 1 言

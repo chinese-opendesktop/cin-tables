@@ -3,8 +3,8 @@
 #http://daibuun.tacocity.com.tw/download/psime.txt
 #格式修改(無附加限制): 趙惟倫 <bluebat@member.fsf.org>, 2005
 #授權方式: Public Domain
-%cname 普實台文
 %ename Phofsi:en;普实台文:zh_CN;普實台文:zh;
+%cname 普實台文
 #sname 普實
 %selkey 1234567890
 %keyname begin

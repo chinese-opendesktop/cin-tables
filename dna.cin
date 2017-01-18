@@ -3,8 +3,8 @@
 #網址: http://www.upilot.idv.tw/chinese.htm
 #格式修改(無附加限制): 趙惟倫 <bluebat@member.fsf.org>, 2007
 #授權方式: Public Domain
-%cname 筆結基因
 %ename DNA:en;笔结基因:zh_CN;筆結基因:zh;
+%cname 筆結基因
 #sname 基因
 %selkey 1234567890
 %keyname begin
