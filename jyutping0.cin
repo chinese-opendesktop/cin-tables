@@ -20,11 +20,11 @@
 #  For more information about the Jyutping system, visit the above
 #  website.  The romanisation system is a little bit different from
 #  common Hong Kong usage, but this system is a lot more systematic.
-
+#
 #  This is the Jyutping without tone. Its original name is 
 #  jyutping-no_tone.cin, which is renamed to jyutping0.cin in
 #  xcin source tree by T.H.Hsieh.
-
+#
 #  This is converted from the following script: "notone.pl"
 #
 #===========================================================================
@@ -67,7 +67,6 @@
 # }
 #===========================================================================
 # 
-
 %ename Jyutping0:en;无调粤拼:zh_CN;無調粵拼:zh;
 %cname 無調粵拼
 %selkey 123456789

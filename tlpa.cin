@@ -1,7 +1,7 @@
 %ename  TLPA:en;TLPA台语:zh_CN;TLPA台語:zh;
 %cname  TLPA台語
 %selkey  1234567890
-%endkey  0123456789
+%endkey  1234567890
 %keyname  begin
 0  ０
 1  １ 

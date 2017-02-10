@@ -84,7 +84,6 @@ z 1⇣
 #quickkey definitions
 #
 #%quickkey end
-
 %chardef begin
 # Begin of CJK Unified Ideographs + Extension A
 cpu	溫
@@ -13669,7 +13668,6 @@ iolj	鉚
 u,av	鮇
 grsz	碡
 /rsz	蝳
-
 # Begin of Array30 Special Code
 ak	大
 ah	不
@@ -14070,7 +14068,6 @@ z/	感
 /;	喜
 dp	舊
 # End of Array30 Special Code
-
 ;gzt	哪
 wgzt	娜
 ogzt	挪

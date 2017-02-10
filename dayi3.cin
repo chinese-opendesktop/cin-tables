@@ -1,7 +1,6 @@
 %ename DaYi3:en;大易三码:zh_CN;大易三碼:zh;
 %cname 大易三碼
 %selkey '[]-\6789
-
 #-------------------------
 # OXIM 專用設定說明
 #
@@ -29,7 +28,6 @@
 #        EndKey "No"
 #        DisableSelectList "None"
 #%setting end
-
 %keyname begin
 1 言
 2 牛
