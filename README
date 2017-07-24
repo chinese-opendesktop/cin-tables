@@ -78,6 +78,7 @@ emhz.cin,"EMHZ(Ｅ碼)","王堯世發明的Ｅ碼漢字輸入法"
 qcode.cin,"QCode(快碼)","九方科技梁立人﹑劉文建發明的快碼輸入法"
 bsm.cin,"BSM(筆順碼)","王頌平發明的筆順碼輸入法"
 g6code.cin,"G6Code(六碼筆畫)","布禮文團隊開發的六碼筆畫輸入法"
+zyujam.cin,"ZyuJam(粵語注音)","陳錦添版本的粵語注音方案"
 
 Language = "亞洲(日韓越泰),Asia(JKVT)"
 halfwidth-kana.cin,"HalfKana(半カタカナ)","日文片假名半形字輸入法;Japanese Halfwidth Katakana"
