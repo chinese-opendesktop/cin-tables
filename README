@@ -62,6 +62,7 @@ wu.cin,"Wu(吴语拼音)","吴语拼音输入法;Wu Pin Yin"
 zhengma.cin,"ZhengMa(郑码)","郑易里发明的中易郑码输入法;China-E Zheng Ma"
 biaoxing.cin,"BiaoXing(表形码)","陈爱文发明的表形码输入法"
 daomax.cin,"DaoMaX(导码)","龚永明发明的全拼形导码输入法"
+t9.cin,"T9(Ｔ９笔画)","美国特捷通讯研制的智能输入法"
 ziranma.cin,"ZiranMa(自然码)","北京大自然软件开发有限责任公司维护的输入法"
 
 Language = "中文(香港),Chinese(Hongkong)"
