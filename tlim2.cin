@@ -1,6 +1,6 @@
 # 修改自：臺灣閩南語漢字輸入法 for SCIM 專用表格
-# 釋出日期：2012.12.19
-# 表格檔版本：2.2.236
+# 釋出日期：2015.04.09
+# 表格檔版本：2.4.245
 # 本安裝套件係由教育部開發，免費供公眾散布使用。使用者可以免費下載、使用、
 # 重製、散布本安裝套件，惟重製和散布時，必須保持本安裝套件完整。使用者如為
 # 下載、使用、重製、散布以外之其他目的，須先得到教育部之書面授權，惟本安裝
@@ -11,6 +11,7 @@
 # 信箱：mandr@mail.moe.gov.tw
 %ename TLIM2:en;台湾闽汉:zh_CN;臺灣閩漢:zh;
 %cname 臺灣閩漢
+#sname 閩漢
 %selkey 1234567890
 %keyname begin
 1 1
@@ -63,7 +64,6 @@ e 鍋
 e 萵
 e 倭
 e e
-g 𠢕開
 i 伊
 i 醫
 i 衣
@@ -73,9 +73,7 @@ i 遺
 i 噫
 i 漪
 i i
-k 敢毋是
 m m
-n 若有若無
 o 阿
 o 呵
 o 吪
@@ -84,7 +82,6 @@ o 媧
 o 蒿
 o 萵
 o o
-t 佗一个
 u 烏
 u 污
 u 迂
@@ -124,14 +121,12 @@ ai 挨
 ai 哎
 ai 埃
 ai ai
-aj 後月日
 ak 沃
 ak 握
 ak 齷
 ak 渥
 ak 幄
 ak ak
-al 後月日
 am 阿姆
 am 掩
 am 庵
@@ -168,13 +163,9 @@ be be
 bi 咪
 bi bi
 bk 無要緊
-bl 無天理
 bm 𥌚脈
 bo bo
-bs 袂按算
 bt 米𧉟
-bt 袂得過
-bt 無毋著
 bu bu
 e1 下
 e1 挨
@@ -204,7 +195,6 @@ e7 廈
 e7 禍
 e7 ē
 e9 e̋
-ea 挨絃仔
 ea 鍋仔
 ee ee
 eh 下𦜆
@@ -246,13 +236,10 @@ hi 僖
 hi 熹
 hi 曦
 hi hi
-hj 杏仁茶
-hl 杏仁茶
 hm hm
 ho 蒿
 ho 熇
 ho ho
-hs 予醫生看
 hu 夫
 hu 虎
 hu 虛
@@ -260,8 +247,8 @@ hu 膚
 hu 撫
 hu 孵
 hu 敷
-hu 趺
 hu 烌
+hu 趺
 hu 吁
 hu 孚
 hu 俘
@@ -301,8 +288,8 @@ i5 怡
 i5 余
 i5 夷
 i5 頤
-i5 胰
 i5 飴
+i5 胰
 i5 貽
 i5 詒
 i5 彝
@@ -318,15 +305,12 @@ i7 肄
 i7 ī
 i9 i̋
 ia 下昏暗
-ia 育囡仔
 ia 姨仔
-ia 掖秧仔
 ia 椅仔
 ia 埃
 ia ia
 ih ih
 ii ii
-ik 猶閣咧
 ik 益
 ik 臆
 ik 憶
@@ -367,7 +351,6 @@ ip ip
 ir ir
 is 下昏時
 is 亞鉛線
-is 飲食店
 is 厭𤺪
 it 一
 it 乙
@@ -382,11 +365,9 @@ iu iu
 ja ja
 je je
 ji ji
-jl 揤電鈴
 jm jm
 jo jo
 ju ju
-ka 幾若工
 ka 𥴊仔
 ka 家
 ka 加
@@ -419,7 +400,6 @@ ke 街
 ke 基
 ke ke
 kg 假𠢕
-kh 驚生份
 ki 車
 ki 枝
 ki 機
@@ -448,10 +428,8 @@ ki 璣
 ki 錤
 ki ki
 kj 今仔日
-kk 嫁查某囝
 kl 肝𦟪
 km km
-kn 幾若工
 ko 歌
 ko 哥
 ko 高
@@ -465,6 +443,7 @@ ko 皋
 ko ko
 kp 𩛩肥
 kt 雞𧉟
+kt 記持
 ku 車
 ku 苦
 ku 龜
@@ -476,8 +455,6 @@ ku 呴
 ku 駒
 ku 琚
 ku ku
-la 鈕鈕仔
-la 蹽溪仔
 la 拉
 la la
 le 絡
@@ -488,14 +465,11 @@ li 離
 li 哩
 li 縭
 li li
-lm 捋頭毛
 lm 𡳞蔓
 lo 囉
 lo 叨
 lo 嘮
 lo lo
-lp 呂洞賓
-ls 流目屎
 ls 禮𣛮
 ls 𡳞神
 ls 𡳞𦉎
@@ -520,17 +494,13 @@ ma 媽
 ma ma
 me 搣
 me me
-mg 毋甘願
 mh mh
-mi 毋知影
 mi 糜
 mi 鞭
 mi 咪
 mi 搣
 mi mi
-mk 毋甘嫌
 mo mo
-ms 毋好勢
 mu mu
 na 焦
 na na
@@ -575,10 +545,9 @@ o7 ō
 o9 ő
 oa 吪仔
 oa 蚵仔
-oh 學工夫
 oh 僫
-oh 嗷
 oh 薁
+oh 嗷
 oh oh
 ok 惡
 ok 握
@@ -604,8 +573,6 @@ op op
 or 呵
 or 吪
 or or
-pa 拌蠓仔
-pa 歕觱仔
 pa 爸
 pa 巴
 pa 吧
@@ -630,10 +597,6 @@ pi 螕
 pi 豍
 pi 觱
 pi pi
-pj 半月日
-pl 半月日
-pl 放重利
-pm 拜公媽
 po 褒
 po 玻
 po 菠
@@ -641,8 +604,6 @@ po po
 pu 捗
 pu 哹
 pu pu
-sa 生囡仔
-sa 繏嚨喉
 sa 沙
 sa 紗
 sa 捎
@@ -674,7 +635,6 @@ si 噓
 si 尸
 si 窸
 si si
-sl 辭頭路
 sm sm
 sn 𣛮籃
 so 挲
@@ -727,10 +687,7 @@ ti 蜘
 ti 諸
 ti 呧
 ti ti
-tj 頂月日
 tk 桌𥴊
-tk 轉外家
-tl 頂月日
 tl 硩落去
 tm tm
 to 都
@@ -738,10 +695,7 @@ to 多
 to 刀
 to 哆
 to to
-tp 擉算盤
-ts 指腹為婚
 ts 就按呢
-tt 吊大筒
 tt 𠕇篤
 tu 豬
 tu 蛛
@@ -761,8 +715,8 @@ u2 污
 u2 宇
 u2 寓
 u2 羽
-u2 禹
 u2 癒
+u2 禹
 u2 ú
 u3 汙
 u3 焐
@@ -777,8 +731,8 @@ u5 瑜
 u5 盂
 u5 臾
 u5 諛
-u5 渝
 u5 輿
+u5 渝
 u5 妤
 u5 竽
 u5 雩
@@ -818,8 +772,6 @@ ui 萎
 ui 揻
 ui 葳
 ui ui
-uk 有要緊
-ul 晏起來
 un 恩
 un 溫
 un 瘟
@@ -863,6 +815,8 @@ abt 鴨母蹄
 abu 阿母
 aea 紅嬰仔
 aga 偝囡仔
+agj 後月日
+agl 後月日
 ags 紅外線
 ah4 啊
 ah4 抑
@@ -940,6 +894,7 @@ akt 阿公店
 akt 猶閣咧
 aku 阿舅
 ala 愛人仔
+ala 紅橐仔
 ale 隘寮下
 alh 后里鄉
 alh 阿蓮鄉
@@ -1126,6 +1081,7 @@ bal 明仔日
 ban 屘
 ban ban
 bap 墓仔埔
+bas 袂按算
 bas 篾仔扇
 bat 麥仔茶
 bat 腹
@@ -1180,7 +1136,6 @@ bha 肉魚仔
 bhh 民雄鄉
 bhh 霧峰鄉
 bhi 無法伊
-bhi 萬芳醫院
 bhk 文化界
 bhk 文學家
 bhk 民航局
@@ -1255,7 +1210,6 @@ bke 袂講得
 bkg 無夠月
 bkh 文建會
 bkh 名間鄉
-bkh 挽喙齒
 bkh 無關係
 bki 母囝椅
 bki 覓雞鷹
@@ -1297,6 +1251,7 @@ blt 貓兒竹
 blu 武溜灣
 bmh 木麻黃
 bml 某乜人
+bmt 無毋著
 bna 目𥍉仔
 bna 尾抅仔
 bnh 茉莉花
@@ -1322,6 +1277,7 @@ bok bok
 boo 摸
 boo boo
 bor bor
+bpb 肉餅面
 bph 無半項
 bpl 免不了
 bpp 無半步
@@ -1359,6 +1315,7 @@ bth 萬丹鄉
 bth 霧臺鄉
 bti 腹肚枵
 btk 尾胴骨
+btk 袂得過
 btk 無打緊
 btk 舞台劇
 btl 無佇咧
@@ -1431,6 +1388,7 @@ eh8 狹
 eh8 e̍h
 eh9 e̋h
 eha 下昏暗
+eha 挨絃仔
 eie 會用得
 eih 下營鄉
 eil 會用得
@@ -1469,6 +1427,7 @@ esi 下司
 esk 下梭裙
 esl 會使得
 est 會使得
+eta 鞋櫥仔
 ete 下底
 eun 下勻
 ga1 ga
@@ -1569,7 +1528,8 @@ gkh 五股鄉
 gkh 五結鄉
 gkh 牛角花
 gkh 吳郭魚
-gkk 五筋枷
+gkh 𠢕開
+gkk 五筋膎
 gkk 牛角鼓
 gkl 外國人
 gkm 月光暝
@@ -1582,11 +1542,13 @@ glh 月內風
 glh 月來香
 glh 玉蘭花
 glh 宜蘭河
+glh 牛奶粉
 glk 宜蘭縣
 glo 閻羅王
 glp 月內房
 gls 牛奶色
 glt 玉里鎮
+gnh 牛奶粉
 gnj 迎鬧熱
 gnl 迎鬧熱
 gns 牛奶色
@@ -1625,9 +1587,11 @@ gsk 牛屎龜
 gsk 藝術家
 gsk 癮仙哥
 gsl 瓦斯爐
+gsl 外甥女
 gsp 五城堡
 gss 牛屎色
 gss 藝術性
+gss 五四三
 gth 義竹鄉
 gtk 月津港
 gtl 原動力
@@ -1704,14 +1668,13 @@ hal 番仔路
 hal 番仔樓
 ham 番仔幔
 ham 蚶
-ham 𧌄
 ham 䈄
+ham 𧌄
 ham 𦜆
 ham 酣
 ham ham
 han 番
 han 蕃
-han 頇
 han han
 hap 花仔布
 hap 販仔白
@@ -1725,6 +1688,7 @@ hau 番仔挖
 hau 嘐
 hau 呺
 hau hau
+hba 花眉仔
 hbg 服務業
 hbk 顯微鏡
 hbs 服務生
@@ -1864,6 +1828,7 @@ hiu 休
 hiu 咻
 hiu hiu
 hjl 婦人人
+hjt 杏仁茶
 hjt 荷仁豆
 hka 風灌仔
 hka 海墘仔
@@ -1872,7 +1837,6 @@ hka 夥計仔
 hka 薟薑仔
 hkb 火雞母
 hkh 海基會
-hkh 發喙齒
 hki 海墘營
 hki 魚肝油
 hkk 火金蛄
@@ -1914,6 +1878,7 @@ hlp 媒人婆
 hlp 菲律賓
 hls 烘爐扇
 hls 福利社
+hlt 杏仁茶
 hlt 荷仁豆
 hlt 荷蘭豆
 hlt 葫蘆墩
@@ -1966,8 +1931,8 @@ ho7 和
 ho7 賀
 ho7 禍
 ho7 浩
-ho7 昊
 ho7 鎬
+ho7 昊
 ho7 皓
 ho7 顥
 ho7 hō
@@ -2031,7 +1996,6 @@ hst 火燒島
 hst 好性地
 hst 發性地
 hst 華盛頓
-hst 鳳山國中
 hsu 嘐潲話
 hta 兄弟仔
 hta 香袋仔
@@ -2058,8 +2022,8 @@ hu1 膚
 hu1 撫
 hu1 孵
 hu1 敷
-hu1 趺
 hu1 烌
+hu1 趺
 hu1 吁
 hu1 孚
 hu1 俘
@@ -2129,8 +2093,8 @@ hui 非
 hui 輝
 hui 揮
 hui 妃
-hui 菲
 hui 徽
+hui 菲
 hui 暉
 hui 霏
 hui 斐
@@ -2195,6 +2159,7 @@ iah 永安鄉
 iah 圓仔花
 iah 煙仔魚
 iah 鷹仔虎
+iah 蛾仔花
 iah 抑
 iah 猶
 iah 益
@@ -2222,7 +2187,6 @@ ian ian
 iap 揜
 iap iap
 ias 下昏暗時
-iat 永安市場
 iat 逸
 iat 謁
 iat iat
@@ -2241,6 +2205,7 @@ ibi 意味
 ibk 挹墓粿
 ibk 揜尾狗
 ibs 陽明山
+iga 育囡仔
 iga 偝囡仔
 igh 音樂會
 igi 異議
@@ -2296,8 +2261,8 @@ ik8 液
 ik8 奕
 ik8 扼
 ik8 翌
-ik8 腋
 ik8 繹
+ik8 腋
 ik8 弈
 ik8 翊
 ik8 i̍k
@@ -2471,9 +2436,9 @@ isk 圍軀裙
 isk 預產期
 isk 醫生館
 isl 以色列
-isl 有史以來
 iss 油洗洗
 iss 閒仙仙
+ist 飲食店
 isu 依序
 isu 移師
 isu 意思
@@ -2666,6 +2631,7 @@ jsk 人事局
 jta 尿斗仔
 jth 仁德鄉
 jtk 入場券
+jtl 揤電鈴
 jtu 二竹圍
 ju1 ju
 ju2 汝
@@ -2778,6 +2744,7 @@ kai 垓
 kai kai
 kaj 今仔日
 kak 國安局
+kak 幾若工
 kak 雞仔囝
 kak 鹼仔粿
 kak 角
@@ -2785,8 +2752,8 @@ kak 覺
 kak 穀
 kak 菊
 kak 埆
-kak 麴
 kak 鵤
+kak 麴
 kak 桷
 kak 玨
 kak kak
@@ -2868,7 +2835,6 @@ kbh 狗母魚
 kbh 關廟鄉
 kbi 假無意
 kbk 公賣局
-kbk 嫁查某囝
 kbs 古物商
 kbs 旗尾山
 kbu 公務員
@@ -2901,8 +2867,8 @@ ke3 疥
 ke3 鱖
 ke3 kè
 ke5 枷
-ke5 哽
 ke5 膎
+ke5 哽
 ke5 kê
 ke6 kě
 ke7 低
@@ -2937,7 +2903,6 @@ kgk 工業界
 kgk 界外球
 kgk 嘉義縣
 kha 高血壓
-kha 牽師仔
 kha 𣁳仔
 kha 跤
 kha 奇
@@ -2965,10 +2930,9 @@ khk 高雄港
 khk 高雄縣
 khk 景福宮
 khk 廣福宮
+khk 牽教
 khl 甲箬笠
 khl 槓仔寮
-khm 起毛婸
-khm 起毛䆀
 khm khm
 kho 科
 kho 柯
@@ -2984,7 +2948,6 @@ khs 假好衰
 khs 齒𣻸
 khs 𤲍燒
 kht 糠𧉟
-khu 敲電話
 khu 軀
 khu 區
 khu 拘
@@ -3041,8 +3004,8 @@ ki3 忌
 ki3 鋸
 ki3 痣
 ki3 唭
-ki3 暨
 ki3 冀
+ki3 暨
 ki3 覬
 ki3 驥
 ki3 kì
@@ -3166,6 +3129,7 @@ kkn 九芎林
 kkp 管家婆
 kks 結構性
 kks 驚見笑
+kks 鹹閣澀
 kkt 膏膏纏
 kku 加講話
 kla 加轆仔
@@ -3173,7 +3137,7 @@ kla 金鍊仔
 kla 茭荖仔
 kla 捲螺仔
 kla 寒熱仔
-kla 葵笠仔
+kla 瓜笠仔
 kla 鋸鑢仔
 kla 雞僆仔
 klg 國內外
@@ -3214,6 +3178,7 @@ kmk 叫毋敢
 kmk 金門縣
 kmk 鬼門關
 kml 噶瑪蘭
+kms 敢毋是
 kna 芥藍仔
 kna 蕨貓仔
 kna 雞爪仔
@@ -3225,6 +3190,7 @@ kng 岡
 kng kng
 knh 芎林鄉
 kni 橄欖油
+knk 幾若工
 knk 雞卵卷
 knk 雞卵糕
 kns 交懍恂
@@ -3317,7 +3283,7 @@ kps 茭白筍
 kpt 咖啡店
 ksa 寄生仔
 ksa 猴山仔
-ksa 給燒仔
+ksa 急燒仔
 ksa 鏡箱仔
 ksb 胛心肉
 ksb 解心悶
@@ -3353,8 +3319,6 @@ kst 關山鎮
 kst 關西鎮
 kst 鹹酸甜
 kst 顧三頓
-ksu 講大聲話
-ksu 講嘐潲話
 ksu 雞屎運
 kta 割稻仔
 kta 過定矣
@@ -3439,7 +3403,6 @@ kue 雞
 kue 街
 kue 瓜
 kue 粿
-kue 葵
 kue kue
 kuh kuh
 kui 歸
@@ -3481,8 +3444,8 @@ la5 鯪
 la5 lâ
 la6 lǎ
 la7 鴟
-la7 蕗
 la7 抐
+la7 蕗
 la7 lā
 la9 la̋
 laa 蜊仔
@@ -3529,6 +3492,7 @@ lba 落尾仔
 lbk 林務局
 lbl 農民曆
 lbp 滷肉飯
+lbs 流目屎
 lbt 樓尾頂
 le1 絡
 le1 蛚
@@ -3552,9 +3516,9 @@ le5 蕾
 le5 檸
 le5 騾
 le5 挼
-le5 腡
 le5 驪
 le5 鸝
+le5 腡
 le5 lê
 le6 鯉
 le6 lě
@@ -3645,8 +3609,8 @@ li5 驢
 li5 厘
 li5 篱
 li5 釐
-li5 猊
 li5 罹
+li5 猊
 li5 貍
 li5 縭
 li5 lî
@@ -3739,6 +3703,7 @@ lkt 鹿港鎮
 lla 內籬仔
 lla 略略仔
 lla 聊聊仔
+lla 鈕鈕仔
 lla 臨臨仔
 llb 老人目
 lle 掠龍的
@@ -3829,6 +3794,7 @@ lsa 垃圾仔
 lsa 垃儳仔
 lsa 落翼仔
 lsb 落屎馬
+lsb 零星肉仔
 lse 零星的
 lsh 垃儳風
 lsh 烈嶼鄉
@@ -3867,12 +3833,11 @@ ltk 綠豆鬼
 ltl 六張犁
 ltl 老大人
 ltl 流動率
+ltp 呂洞賓
 lts 流動性
-lts 流鼻水
 lts 綠竹筍
 lts 蓮蕉花
 lts 𡳞鳥
-lts 㔂甘蔗
 ltt 羅東鎮
 lu1 叨
 lu1 攄
@@ -3884,8 +3849,8 @@ lu2 乳
 lu2 旅
 lu2 鋁
 lu2 縷
-lu2 庾
 lu2 癒
+lu2 庾
 lu2 lú
 lu3 鑢
 lu3 lù
@@ -3896,10 +3861,10 @@ lu5 閭
 lu5 蠕
 lu5 瑜
 lu5 俞
+lu5 臚
 lu5 挐
 lu5 愉
 lu5 渝
-lu5 臚
 lu5 逾
 lu5 lû
 lu6 lǔ
@@ -3994,6 +3959,7 @@ mh8 m̍h
 mh9 m̋h
 mhl 麻園寮
 mho 毋好
+mhs 毋好勢
 mi1 糜
 mi1 鞭
 mi1 咪
@@ -4029,6 +3995,8 @@ mii mii
 mio mio
 mir mir
 miu miu
+mkg 毋甘願
+mkh 毋甘嫌
 mkh 玫瑰花
 mkh 瑪家鄉
 mko 毋過
@@ -4132,8 +4100,8 @@ nam 哪毋
 nap 林仔菝
 nap 林仔邊
 nas 娘仔絲
+nat 娘仔豆
 nau nau
-nba 年尾囡仔
 ne1 呢
 ne1 奶
 ne1 拈
@@ -4266,14 +4234,15 @@ nui nui
 oap 吪仔霸
 oas 學仔仙
 oh4 僫
-oh4 嗷
 oh4 薁
+oh4 嗷
 oh4 oh
 oh8 學
 oh8 o̍h
 oh9 őh
 oha 學仔
 ohe 往回的
+oib 王爺廟
 ok4 惡
 ok4 握
 ok4 屋
@@ -4281,6 +4250,7 @@ ok4 渥
 ok4 ok
 ok8 o̍k
 ok9 ők
+okh 學工夫
 oki 惡意
 ola 王祿仔
 olo 呵咾
@@ -4410,6 +4380,7 @@ pau 胞
 pau 苞
 pau 鮑
 pau pau
+pba 拌蠓仔
 pba 報馬仔
 pbj 白木耳
 pbk 北美館
@@ -4463,11 +4434,12 @@ peh peh
 per 飛
 per 菠
 per per
+pgj 半月日
 pgk 北二高
 pgk 殯儀館
+pgl 半月日
 pgs 畢業生
 pha 包袱仔
-pha 拍金仔
 pha 放符仔
 pha 標會仔
 pha 𥐵仔
@@ -4500,7 +4472,6 @@ pho 坡
 pho 麩
 pho pho
 php 百分比
-phs 百貨公司
 phs 放風聲
 phs 辯護士
 pht 北海道
@@ -4577,9 +4548,9 @@ pin 檳
 pin 賓
 pin 濱
 pin 彬
+pin 繽
 pin 斌
 pin 殯
-pin 繽
 pin 儐
 pin 鑌
 pin pin
@@ -4604,9 +4575,7 @@ pjk 北二高
 pjs 不忍心
 pjs 百日嗽
 pka 畚箕仔
-pka 歕雞胿仔
 pkh 北竿鄉
-pkh 補喙齒
 pkj 不求人
 pkk 百襇裙
 pkk 畚箕港
@@ -4617,6 +4586,7 @@ pkl 冰淇淋
 pkl 扳過來
 pkl 埔姜崙
 pkl 變猴弄
+pkm 拜公媽
 pkn 佈告欄
 pks 八卦山
 pks 不管時
@@ -4633,6 +4603,7 @@ pla 百日紅
 pla 伯勞仔
 pla 別日仔
 pla 菠薐仔
+pla 布攄仔
 plb 芭蕾舞
 plh 八里坌
 plh 八里鄉
@@ -4760,6 +4731,7 @@ ptk 屏東縣
 ptk 貧惰骨
 ptl 不得了
 ptl 平地人
+ptl 放重利
 ptp 不得不
 pts 不動產
 pts 反肚痧
@@ -5089,7 +5061,7 @@ sio 燒
 sio 蕭
 sio sio
 sip 西藥房
-sip 濕
+sip 溼
 sip sip
 sir 師
 sir 軀
@@ -5135,7 +5107,6 @@ skh 西港鄉
 skh 伸港鄉
 skh 消基會
 skh 神岡鄉
-skh 掃塗跤
 skh 新公園
 skh 新港鄉
 skh 繡球花
@@ -5198,6 +5169,7 @@ sml 啥物人
 smm 惜命命
 sms 相命仙
 smt 西門町
+sna 繏嚨喉
 sng 啥物人
 sng 孫
 sng 酸
@@ -5274,7 +5246,6 @@ spa 新婦仔
 spb 屎桮篾
 spg 西班牙
 sph 西北雨
-sph 惜面皮
 sph 新埤鄉
 sph 選罷法
 spi 小朋友
@@ -5301,6 +5272,7 @@ ssh 線西鄉
 ssj 滲屎尿
 ssk 削削叫
 ssk 窸窣叫
+ssk 洗衫機
 ssl 三線路
 ssl 世俗人
 ssl 滲屎尿
@@ -5310,6 +5282,7 @@ ssm 先生媽
 ssn 先生娘
 ssp 四色牌
 ssp 洗衫枋
+ssp 孫新婦
 sss 相閃身
 sst 使性地
 sst 洗衫店
@@ -5326,7 +5299,6 @@ stm 山地門
 stn 三貂嶺
 sto 山苳蒿
 stp 三重埔
-sts 汐止市
 sts 所得稅
 sts 善導寺
 sts 聖拄聖
@@ -5334,6 +5306,7 @@ sts 說多謝
 sts 縮茶心
 stt 新點點
 stt 媠噹噹
+stt 𤺪篤篤
 su1 師
 su1 思
 su1 軀
@@ -5372,8 +5345,8 @@ su3 庶
 su3 恕
 su3 泗
 su3 伺
-su3 絮
 su3 駟
+su3 絮
 su3 戍
 su3 sù
 su5 詞
@@ -5466,6 +5439,7 @@ tah 大安鄉
 tah 拄仔好
 tah 燈仔火
 tah 𩸙仔魚
+tah 大紅花
 tah 佗
 tah 答
 tah 搭
@@ -5587,8 +5561,11 @@ tgg 代言人
 tgh 多元化
 tgi 中研院
 tgj 代言人
+tgj 頂月日
 tgk 茶藝館
+tgk 轉外家
 tgl 代言人
+tgl 頂月日
 tha 弟婦仔
 tha 倒會仔
 tha 釣魚翁
@@ -5603,8 +5580,6 @@ the 釵
 the 䖙
 the the
 thh 大園鄉
-thh 忠孝復興
-thh 忠孝敦化
 thh 東河鄉
 thi 特效藥
 thi 黐
@@ -5625,7 +5600,6 @@ thp 電火布
 ths 大學生
 ths 地下室
 ths 豆腐鯊
-ths 忠孝新生
 ths 長歲壽
 ths 展風神
 ths 短歲壽
@@ -5686,6 +5660,7 @@ tia 爹
 tia tia
 tih 東引鄉
 tih 滴
+tih 咧
 tih tih
 tii 致意
 tii 電影院
@@ -5717,7 +5692,6 @@ tit tit
 tiu 丟
 tiu tiu
 tja 頂日仔
-tja 著寒熱仔
 tjh 達仁鄉
 tka 大姑仔
 tka 大官仔
@@ -5758,7 +5732,6 @@ tkt 冬瓜茶
 tkt 東港鎮
 tla 東南亞
 tla 頂日仔
-tla 著寒熱仔
 tlb 中南美
 tlb 他里霧
 tlb 哆囉滿
@@ -5838,8 +5811,8 @@ to5 廚
 to5 駝
 to5 濤
 to5 淘
-to5 砣
 to5 跎
+to5 砣
 to5 沱
 to5 鉈
 to5 鴕
@@ -5917,14 +5890,12 @@ tsa 同姒仔
 tsa 道士仔
 tsa 擋索仔
 tsa 獨身仔
-tsa 擠𤶃仔
 tsa 𤺅仔
 tsa 查
 tsa 昨
 tsa 臢
 tsa tsa
 tsb 大細目
-tsb 做店面
 tse 這
 tse 災
 tse 齋
@@ -5942,7 +5913,6 @@ tsh 東山鄉
 tsh 東勢鄉
 tsh 倒摔向
 tsh 差不多
-tsh 跙一倒
 tsh 董事會
 tsh 臺西鄉
 tsi 大西洋
@@ -5954,8 +5924,6 @@ tsi 脂
 tsi 芝
 tsi 膣
 tsi tsi
-tsj 一月日
-tsj 成月日
 tsj 當事人
 tsk 大四界
 tsk 大使館
@@ -5968,11 +5936,9 @@ tsk 鬥相共
 tsk 捶心肝
 tsk 電信局
 tsk 圖書館
-tsl 一月日
 tsl 大山剌
 tsl 大細輦
 tsl 中山路
-tsl 成月日
 tsl 查某人
 tsl 頂世人
 tsl 當事人
@@ -5983,7 +5949,6 @@ tsn 就按呢
 tso 遭
 tso 慒
 tso tso
-tsp 守空房
 tsp 擉算盤
 tss 大仙寺
 tss 大細心
@@ -5993,10 +5958,8 @@ tss 大雪山
 tss 查某孫
 tss 張身勢
 tst 大細丈
-tst 中山國中
 tst 中山堂
 tst 中生代
-tst 止喙焦
 tst 竹山鎮
 tst 東勢鎮
 tst 茶心茶
@@ -6032,6 +5995,7 @@ tta 店亭仔
 tta 沓沓仔
 tta 茶店仔
 tta 豬腸仔
+tta 茶桌仔
 ttb 蜘蛛網
 tth 大丈夫
 tth 大同鄉
@@ -6039,18 +6003,15 @@ tth 大肚鄉
 tth 竹塘鄉
 tth 長治鄉
 tth 長株形
-tth 轉後頭
-tti 臺大醫院
+tth 蕩蕩幌
 ttk 大肚胿
 ttk 大道公
 ttk 臺中港
 ttk 臺中縣
 ttk 臺東縣
-ttl 臺電大樓
 ttl 轉大人
 ttp 中晝飯
 tts 大屯山
-tts 大代誌
 tts 大多數
 tts 大肚山
 tts 中晝時
@@ -6060,6 +6021,7 @@ tts 𪐞紙
 ttt 大墜腸
 ttt 中晝頓
 ttt 田中鎮
+ttt 吊大筒
 ttt 竹東鎮
 tu1 豬
 tu1 蛛
@@ -6221,6 +6183,7 @@ ui5 維
 ui5 遺
 ui5 惟
 ui5 違
+ui5 闈
 ui5 韋
 ui5 桅
 ui5 帷
@@ -6240,6 +6203,7 @@ ui9 ui̋
 uih 園遊會
 uih 劃
 uih uih
+uik 有要緊
 uka 圍裙仔
 ukk 掩咯家
 ukk 碗糕粿
@@ -6318,6 +6282,7 @@ ut8 遹
 ut8 鷸
 ut8 u̍t
 ut9 űt
+uta 鞋櫥仔
 ute 有底
 ute 運動鞋
 uth 運動會
@@ -6336,6 +6301,7 @@ abth 紅毛塗
 abts 阿美族
 abua 阿母仔
 abue 猶未
+ahas 鴨雄仔聲
 ahau 押後
 ahbe 猶未
 ahbi 壓味
@@ -6609,8 +6575,8 @@ besu 袂輸
 besu 迷思
 bgng 無疑悟
 bgth 麥芽糖
-bhkh 萬芳社區
 bhkh 萬華區
+bhpi 萬芳醫院
 bhth 文化大學
 bhts 文化中心
 bia1 bia
@@ -6903,8 +6869,8 @@ bue2 美
 bue2 bué
 bue3 buè
 bue5 梅
-bue5 囮
 bue5 枚
+bue5 囮
 bue5 buê
 bue6 袂
 bue6 賣
@@ -7052,6 +7018,7 @@ etst 會做得
 etsu 鞋苴
 etth 會得通
 etua 鞋帶
+etua 鞋櫥仔
 etue 下底
 gah4 gah
 gah8 ga̍h
@@ -7361,7 +7328,6 @@ gtsb 原住民
 gtsh 元長鄉
 gtsh 月租費
 gtsh 玉井鄉
-gtsh 扭尻川
 gtsk 牙槽骨
 gtsp 牛舌餅
 gtsp 原子筆
@@ -7484,8 +7450,8 @@ haka 礐仔
 hale 哈螺
 hals 番仔蘆黍
 ham1 蚶
-ham1 𧌄
 ham1 䈄
+ham1 𧌄
 ham1 𦜆
 ham1 酣
 ham1 ham
@@ -7514,7 +7480,6 @@ hama 蚶仔
 hami 含意
 han1 番
 han1 蕃
-han1 頇
 han1 han
 han2 罕
 han2 hán
@@ -7836,6 +7801,7 @@ hiut hiut
 hkbb 香菇肉糜
 hkbm 香菇肉糜
 hkha 鱟𣁳仔
+hkha 薰觳仔
 hkhb 合口味
 hkhb 廢棄物
 hkhh 防空壕
@@ -7939,9 +7905,9 @@ hong 慌
 hong 酆
 hong 烽
 hong 丰
-hong 肓
 hong 揈
 hong 謊
+hong 肓
 hong hong
 honn 訶
 honn 齁
@@ -8030,6 +7996,7 @@ hpln 花巴哩貓
 hskh 香山區
 hskh 婦產科
 hskh 鳳山溪
+hskt 鳳山國中
 hspi 風聲嗙影
 hssk 胡蠅屎痣
 hsth 下水湯
@@ -8052,7 +8019,6 @@ htsb 虎井蜜
 htse 予人招的
 htse 予招个
 htsh 番薯粉
-htsh 翕豆菜
 htsi 行政院
 htsi 副作用
 htsj 彼一日
@@ -8063,7 +8029,6 @@ htsl 蕃薯寮
 htss 風水仙
 htss 現此時
 htst 下水道
-htst 海水浴場
 htts 扞鼎灶
 htus 風調雨順
 hua1 花
@@ -8162,8 +8127,8 @@ hui1 非
 hui1 輝
 hui1 揮
 hui1 妃
-hui1 菲
 hui1 徽
+hui1 菲
 hui1 暉
 hui1 霏
 hui1 斐
@@ -8536,6 +8501,7 @@ ing7 用
 ing7 詠
 ing7 īng
 ing9 i̋ng
+inga 掖秧仔
 inga 癰仔
 ingi 盈餘
 ingu 盈餘
@@ -8592,8 +8558,8 @@ iok8 慾
 iok8 籲
 iok8 毓
 iok8 躍
-iok8 昱
 iok8 煜
+iok8 昱
 iok8 鑰
 iok8 淯
 iok8 io̍k
@@ -8662,6 +8628,7 @@ irti 預知
 isai 預賽
 isii 一心一意
 isik 意識
+isil 有史以來
 isir 移師
 isir 醫師
 isis 有聲有色
@@ -8673,7 +8640,7 @@ itha 椅頭仔
 itha 鉛桶仔
 itha 藥頭仔
 ithh 羊頭眩
-ithl 引頭路
+ithl 允頭路
 itju 一如
 itkh 鹽埕區
 itki 一舉
@@ -8911,8 +8878,8 @@ jiu3 jiù
 jiu5 柔
 jiu5 揉
 jiu5 鰇
-jiu5 榆
 jiu5 蹂
+jiu5 榆
 jiu5 jiû
 jiu6 jiǔ
 jiu7 jiū
@@ -8922,7 +8889,6 @@ jiun 字運
 jiun jiun
 jiut jiut
 jjkh 二仁溪
-jjph 新公園
 jkhm 日較晚
 jmh4 jmh
 jmh8 jm̍h
@@ -9092,8 +9058,8 @@ kak4 覺
 kak4 穀
 kak4 菊
 kak4 埆
-kak4 麴
 kak4 鵤
+kak4 麴
 kak4 桷
 kak4 玨
 kak4 kak
@@ -9446,7 +9412,6 @@ kheh 篋
 kheh 𤲍
 kheh 齧
 kheh kheh
-kher 葵
 kher 瘸
 kher kher
 khga 抾囡仔
@@ -9536,10 +9501,8 @@ khkg 各行各業
 khkh 交響曲
 khkh 光復溪
 khkh 胳耳空
-khkh 睏坦敧
 khki 慶功宴
 khkl 客家人
-khkl 科技大樓
 khks 區公所
 khku 客家話
 khla 苦楝仔
@@ -9559,6 +9522,8 @@ khm6 khm̌
 khm7 khm̄
 khm9 khm̋
 khma 苦毛仔
+khmb 起毛䆀
+khmg 起毛婸
 khmh khmh
 khms 看命仙
 khng 康
@@ -9614,6 +9579,7 @@ khpa 跤帛仔
 khpp 加護病房
 khps 茭白筍
 khsa 呼噓仔
+khsa 牽師仔
 khse 呼屎呃
 khsk 氣象局
 khsk 鬼斧神工
@@ -9625,6 +9591,7 @@ khsn 搉爍爁
 khss 抗生素
 khss 呼噓噓
 khst 起性地
+khsu 講嘐潲話
 khta 狗蟻碟仔
 khta 哭調仔
 khta 跤斗仔
@@ -9646,6 +9613,7 @@ khts 家扶中心
 khts 搝大索
 khtt 拑牢牢
 khtt 𩚨嗲嗲
+khtu 敲電話
 khu1 軀
 khu1 區
 khu1 拘
@@ -9676,7 +9644,6 @@ khua 誇
 khua khua
 khue 溪
 khue 魁
-khue 葵
 khue 詼
 khue 恢
 khue 瘸
@@ -9935,6 +9902,7 @@ kita 桔仔
 kite 基地
 kith 記憶體
 kiti 記持
+kiti 記持
 kito 祈禱
 kits 加油站
 kiu1 勼
@@ -9980,6 +9948,7 @@ kkhh 家家戶戶
 kkhh 國科會
 kkhh 龜殼花
 kkhj 雞跤爪
+kkhk 行跤到
 kkhl 艱苦人
 kkhl 雞跤爪
 kkhn 雞跤爪
@@ -10117,9 +10086,9 @@ koo2 鈷
 koo2 𥑮
 koo2 賈
 koo2 苟
-koo2 枸
 koo2 牯
 koo2 蠱
+koo2 枸
 koo2 茍
 koo2 kóo
 koo3 過
@@ -10243,6 +10212,7 @@ ktst 鉸剪刀
 ktst 鹽水鎮
 ktsu 加走灣
 ktsu 教職員
+ktsu 講大聲話
 ktta 茄苳萣仔
 ktts 蕳砃薯
 kua1 歌
@@ -10298,7 +10268,6 @@ kue1 雞
 kue1 街
 kue1 瓜
 kue1 粿
-kue1 葵
 kue1 kue
 kue2 果
 kue2 粿
@@ -10316,7 +10285,6 @@ kue3 膾
 kue3 鱖
 kue3 kuè
 kue5 蛙
-kue5 葵
 kue5 枷
 kue5 膎
 kue5 kuê
@@ -10365,8 +10333,8 @@ kui3 炅
 kui3 kuì
 kui5 懷
 kui5 葵
-kui5 揆
 kui5 逵
+kui5 揆
 kui5 夔
 kui5 kuî
 kui6 跪
@@ -10658,7 +10626,7 @@ liah 擸
 liah liah
 liak liak
 liam 拈
-liam 躡
+liam 跕
 liam liam
 lian 蓮
 lian 蘭
@@ -10708,9 +10676,9 @@ lik8 栗
 lik8 匿
 lik8 壢
 lik8 溺
+lik8 礫
 lik8 肋
 lik8 暱
-lik8 礫
 lik8 靂
 lik8 瀝
 lik8 li̍k
@@ -10865,9 +10833,9 @@ liu5 琉
 liu5 硫
 liu5 餾
 liu5 揉
+liu5 㨨
 liu5 榆
 liu5 鰇
-liu5 㨨
 liu5 瀏
 liu5 liû
 liu6 liǔ
@@ -10887,6 +10855,7 @@ lkam 漉糊仔糜
 lkba 漉溝糜仔
 lkha 老去矣
 lkha 抽鬮仔
+lkha 蹽溪仔
 lkha 躼跤仔
 lkhb 碌硞馬
 lkhb 躼跤蠓
@@ -10904,6 +10873,7 @@ lktl 南京東路
 lkts 六根莊
 lkts 咾𥑮石
 lkts 硓𥑮石
+lkts 㔂甘蔗
 llas 拉圇仔燒
 llkh 荖濃溪
 llkh 鹿寮溪
@@ -10995,8 +10965,8 @@ loo5 鱸
 loo5 顱
 loo5 瑚
 loo5 鷺
-loo5 廬
 loo5 髏
+loo5 廬
 loo5 婁
 loo5 鸕
 loo5 駑
@@ -11416,6 +11386,7 @@ mtih 毋挃
 mtsb 媽祖廟
 mtsg 毋情願
 mtsi 毋成樣
+mtsi 毋知影
 mtsi 毋是
 mtsk 毋成囝
 mtsk 毋成猴
@@ -11523,6 +11494,7 @@ nau9 na̋u
 nauh 喃
 nauh 嗕
 nauh nauh
+nbga 年尾囡仔
 nee1 nee
 nee2 née
 nee3 nèe
@@ -11829,6 +11801,7 @@ nui7 卵
 nui7 nuī
 nui9 nui̋
 nuih nuih
+nunb 若有若無
 oams 蚵仔麵線
 oapa 吪仔霸
 oats 蚵仔煎
@@ -12099,6 +12072,7 @@ phak 仆
 phak phak
 phan 攀
 phan phan
+phas 噗仔聲
 phat 腹
 phat phat
 phau 拋
@@ -12186,6 +12160,7 @@ phit 匹
 phit phit
 phiu phiu
 phjk 拍字機
+phka 拍金仔
 phkh 皮猴戲
 phkh 瓠桸觳
 phkk 拍咯家
@@ -12195,6 +12170,7 @@ phkk 骿支骨
 phkl 拋近路
 phkl 拋麒麟
 phkl 拍交落
+phks 百貨公司
 phks 判決書
 phks 拍官司
 phks 蘋果檨
@@ -12206,7 +12182,7 @@ phlk 拍字機
 phlk 骿條骨
 phlk 譬論講
 phll 歹扭搦
-phll 拍拉涼
+phll 拍抐涼
 phlt 拋輦斗
 phlt 拋輾斗
 phmh 鋪棉裘
@@ -12271,7 +12247,6 @@ phss 歹聲嗽
 phss 膨紗衫
 phss 膨獅獅
 phst 歹性地
-phth 拍拳頭
 phts 併發症
 phts 放粉鳥
 phts 敗血症
@@ -12376,9 +12351,9 @@ pin1 檳
 pin1 賓
 pin1 濱
 pin1 彬
+pin1 繽
 pin1 斌
 pin1 殯
-pin1 繽
 pin1 儐
 pin1 鑌
 pin1 pin
@@ -12474,6 +12449,7 @@ pkha 扮姑伙仔
 pkha 飯篋仔
 pkhh 平溪鄉
 pkhi 不可以
+pkhi 放空營
 pkhp 縛跤布
 pkhs 平溪線
 pkht 半空中
@@ -12501,6 +12477,7 @@ plts 白內障
 pmh4 pmh
 pmh8 pm̍h
 pmh9 pm̋h
+pmkh 拜門口
 pmts 本命錢
 png1 方
 png1 幫
@@ -12910,6 +12887,7 @@ sbkh 三民區
 sbkh 受袂起
 sbph 四面八方
 sbph 卸面皮
+sbph 惜面皮
 sbph 雪文波
 sbph 雪文沫
 sbtj 衰尾道人
@@ -12919,6 +12897,8 @@ sbts 生目尖
 sbts 使目箭
 sbts 殖民者
 sbts 煞尾指
+sbts 捎無摠
+sbts 洗面槽
 seau 西歐
 sebu 稅務
 see1 see
@@ -13235,7 +13215,7 @@ sioo 四湖
 sioo sioo
 sior 相
 sior 燒
-sip4 濕
+sip4 溼
 sip4 sip
 sip8 十
 sip8 習
@@ -13366,6 +13346,7 @@ skht 四腳亭
 skht 掃跤兜
 skip 隨機應變
 skis 小觀音山
+skjk 時到日到
 skkh 三角褲
 skkh 小港區
 skls 秀姑巒山
@@ -13554,6 +13535,7 @@ sthh 社頭鄉
 sthh 獅潭鄉
 sthj 受託人
 sthl 受託人
+sthl 辭頭路
 sths 先天性
 sths 獅頭山
 stht 捽土地
@@ -13831,8 +13813,8 @@ tak8 獨
 tak8 觸
 tak8 濁
 tak8 碡
-tak8 擉
 tak8 濯
+tak8 擉
 tak8 ta̍k
 tak9 ta̋k
 take 大家
@@ -13919,6 +13901,7 @@ tat8 笛
 tat8 ta̍t
 tat9 ta̋t
 tata 笛仔
+tath 轉後頭
 tats 豆仔薯
 tau1 兜
 tau1 掜
@@ -14096,6 +14079,7 @@ ther ther
 thga 鐵牛仔
 thgh 桃源鄉
 thhb 土風舞
+thhh 忠孝復興
 thhi 傳香煙
 thhk 天后宮
 thhk 桃園縣
@@ -14134,8 +14118,8 @@ thik 畜
 thik 斥
 thik 敕
 thik 忒
-thik 剔
 thik 惕
+thik 剔
 thik 倜
 thik 飭
 thik thik
@@ -14168,7 +14152,6 @@ thka 調羹仔
 thka 糖含仔
 thkh 大漢溪
 thkh 都會公園
-thkh 敨中氣
 thki 刁故意
 thkj 天狗熱
 thkk 天公金
@@ -14177,6 +14160,7 @@ thkk 跳加冠
 thkk 鐵金龜
 thkl 天狗熱
 thkl 鐵枝路
+thkl 天公爐
 thkm 塗溝糜
 thkn 頭家娘
 thkp 天九牌
@@ -14251,6 +14235,7 @@ thsl 拖屎連
 thsl 透心涼
 thsl 透世人
 thsp 擉算盤
+thss 忠孝新生
 thst 通霄鎮
 thst 頭城鎮
 thsu 推銷員
@@ -14258,6 +14243,7 @@ thta 抽東仔
 thta 頭拄仔
 thta 鐵釘仔
 thth 地下鐵
+thth 忠孝敦化
 thth 電火柱
 thth 𨑨迌
 thti 塗豆油
@@ -14341,6 +14327,7 @@ tibo 豬母
 tibu 豬母
 tigi 遲疑
 tih4 滴
+tih4 咧
 tih4 tih
 tih8 碟
 tih8 挃
@@ -14383,10 +14370,10 @@ tik8 狄
 tik8 軸
 tik8 笛
 tik8 翟
-tik8 妯
-tik8 迪
 tik8 荻
 tik8 滌
+tik8 迪
+tik8 妯
 tik8 ti̍k
 tik9 ti̋k
 tika 竹仔
@@ -14439,8 +14426,8 @@ ting 叮
 ting 徵
 ting 町
 ting 玎
-ting 疔
 ting 楨
+ting 疔
 ting 汀
 ting 癥
 ting ting
@@ -14555,10 +14542,13 @@ tkhp 重敧爿
 tkht 大溪鎮
 tkht 大跤胴
 tkht 大箍呆
+tkja 著寒熱仔
 tkkh 大甲溪
 tkkh 大家口
 tkkh 中港溪
 tkkh 東港溪
+tkla 著寒熱仔
+tkth 冬瓜糖
 tkts 地基主
 tkts 豆乾糋
 tkts 盹瞌睡
@@ -14636,8 +14626,8 @@ tok8 獨
 tok8 濁
 tok8 瀆
 tok8 犢
-tok8 牘
 tok8 鐸
+tok8 牘
 tok8 to̍k
 tok9 tők
 toko 禱告
@@ -14752,7 +14742,6 @@ tpks 東部幹線
 tpts 代表作
 tpts 鬥幫贊
 tpts 對不住
-tpts 臺北車站
 tsa1 查
 tsa1 昨
 tsa1 臢
@@ -14812,8 +14801,8 @@ tsau 㷮
 tsau tsau
 tsba 姐母仔
 tsba 姊妹仔
-tsba 查某囡仔
 tsba 舂磨仔
+tsbb 醉茫茫
 tsbe 做木的
 tsbe 做木个
 tsbh 查某雨
@@ -14877,6 +14866,10 @@ tser 災
 tser tser
 tsga 查某囡仔
 tsga 偝囡仔
+tsgj 一月日
+tsgj 成月日
+tsgl 一月日
+tsgl 成月日
 tsgl 做月內
 tsgn 做議量
 tsgn 陳三五娘
@@ -14919,8 +14912,6 @@ tshk 獎學金
 tshk 𪁎哥
 tshk 𪁎雞
 tshl 同心協力
-tshl 揤電鈴
-tshl 揣頭路
 tshl 𤆬路
 tshm tshm
 tsho 操
@@ -14929,7 +14920,6 @@ tsho 搓
 tsho 蹉
 tsho 磋
 tsho tsho
-tshp 捙布邊
 tshs 一礐屎
 tshs 春𣛮
 tshs 陽明山
@@ -14940,8 +14930,8 @@ tshu 趨
 tshu 趄
 tshu 雌
 tshu 樞
-tshu 蛆
 tshu 嵯
+tshu 蛆
 tshu tshu
 tsi1 枝
 tsi1 之
@@ -15072,7 +15062,6 @@ tsiu tsiu
 tsjh 十二分
 tsjk 自然界
 tsjk 責任感
-tsjs 十二生相
 tska 一寡仔
 tska 水薑仔
 tska 石硿仔
@@ -15083,6 +15072,7 @@ tska 蛀龜仔
 tska 醬瓜仔
 tskb 前溝尾
 tskb 鄭氏家廟
+tskb 終其尾
 tskh 大心氣
 tskh 中山區
 tskh 中西區
@@ -15102,6 +15092,7 @@ tsks 招囝婿
 tsks 漿寄生
 tsks 總幹事
 tsks 證交所
+tskt 中山國中
 tskt 石敢當
 tskt 食家己
 tskt 做功德
@@ -15124,7 +15115,6 @@ tslk 珠螺膎
 tsll 做人囉
 tsll 樟腦寮
 tslp 東西南北
-tsls 十二生相
 tsls 諸羅山
 tslt 全壘打
 tsm1 tsm
@@ -15193,7 +15183,6 @@ tsor tsor
 tspa 水筆仔
 tspa 水磅仔
 tspa 石兵仔
-tspa 查埔囡仔
 tspe 叔伯的
 tspe 煮飯的
 tsph 茶心粕
@@ -15247,6 +15236,7 @@ tsta 這點仔
 tsta 錢桌仔
 tsta 錢袋仔
 tsta 錢筒仔
+tstb 做店面
 tste 走桌的
 tsth 子弟戲
 tsth 左鎮鄉
@@ -15259,13 +15249,13 @@ tsth 準拄好
 tsti 炸豬油
 tstk 政治家
 tstl 在地人
-tsts 一甲子
 tsts 一對時
 tsts 正著時
 tsts 正當時
 tsts 竹掃帚
 tsts 政治性
 tsts 第三者
+tsts 長志
 tstt 一大堆
 tstt 此中晝
 tstu 總動員
@@ -15349,6 +15339,7 @@ tsun 諄
 tsun 樽
 tsun tsun
 tsut 卒
+tsut 朒
 tsut tsut
 ttah 大肚仔魚
 ttha 豬豚仔
@@ -15370,12 +15361,13 @@ ttkh 大同區
 ttkh 大肚溪
 ttkh 大礁溪
 ttla 硩定了矣
+ttpi 臺大醫院
 ttsb 踮水沬
+ttse 佗一个
 ttse 等一下
 ttsh 大眾化
 ttsh 東石鄉
 ttsh 鬥做伙
-ttsh 張鳥鼠
 ttsh 淡水河
 ttsi 中脊楹
 ttsi 冬節圓
@@ -15397,6 +15389,8 @@ ttst 淡水鎮
 ttst 潮州鎮
 ttsu 東倒西歪
 tttg 佯顛佯戇
+tttl 臺電大樓
+ttts 大代誌
 ttts 漲大水
 tttt 直腸直肚
 tttt 沓沓滴滴
@@ -15642,6 +15636,7 @@ uisu 遺書
 uiti 位置
 ukau 有夠
 ukhi 胃潰瘍
+ukhl 晏起來
 ukph 完結篇
 ukts 隱弓蕉
 ukui 有膭
@@ -15674,6 +15669,7 @@ utha 碗頭仔
 uthb 維他命
 uthe 換帖的
 uthe 鬱歲
+uthl 允頭路
 utiu 宇宙
 utsa 有當時仔
 utsi 援巢右
@@ -15932,6 +15928,7 @@ betit 袂直
 betsi 馬薺
 betsu 買主
 bhbth 無法無天
+bhskh 萬芳社區
 bhtsh 米粉炒
 bhtss 滿漢全席
 biah4 biah
@@ -16162,8 +16159,8 @@ bong5 濛
 bong5 雺
 bong5 螂
 bong5 矇
-bong5 肓
 bong5 朦
+bong5 肓
 bong5 bông
 bong6 bǒng
 bong7 望
@@ -17178,9 +17175,9 @@ hong1 慌
 hong1 酆
 hong1 烽
 hong1 丰
-hong1 肓
 hong1 揈
 hong1 謊
+hong1 肓
 hong1 hong
 hong2 況
 hong2 訪
@@ -17218,9 +17215,9 @@ hong5 癀
 hong5 篷
 hong5 簧
 hong5 潢
-hong5 肓
-hong5 泓
 hong5 璜
+hong5 泓
+hong5 肓
 hong5 hông
 hong6 hǒng
 hong7 奉
@@ -17291,8 +17288,10 @@ htshs 好笑神
 htshs 現此時
 htsht 好喙斗
 htsht 恆春鎮
+htsit 海水浴場
 htskh 番薯箍
 httsb 兄弟姊妹
+httsh 翕豆菜
 httsh 幌中秋
 httsm 兄弟姊妹
 httss 福德正神
@@ -17373,8 +17372,8 @@ huan7 範
 huan7 患
 huan7 范
 huan7 泛
-huan7 宦
 huan7 莞
+huan7 宦
 huan7 梵
 huan7 皖
 huan7 huān
@@ -17414,6 +17413,7 @@ huehu 火烌
 hueik 回憶
 hueio 灰窯
 hueiu 回郵
+hueiu 火油
 hueka 回家
 hueke 火雞
 hueke 會計
@@ -17522,8 +17522,8 @@ iang5 陽
 iang5 iâng
 iang6 偝
 iang6 iǎng
-iang7 偝
 iang7 煬
+iang7 偝
 iang7 iāng
 iang9 ia̋ng
 ianga 掖秧仔
@@ -17735,6 +17735,7 @@ iorna 搖籃
 iotsi 腰子
 iotua 腰帶
 ipiau 姨表
+ipkha 鉛筆篋仔
 iptsh 枵飽吵
 irinn irinn
 iriok 預約
@@ -18072,6 +18073,7 @@ jiut4 jiut
 jiut8 jiu̍t
 jiut9 jiűt
 jiuto 柔道
+jjpkh 新公園
 jlhts 如來佛祖
 jlpts 如來佛祖
 jngh4 jngh
@@ -18371,6 +18373,7 @@ kesit 雞翼
 kesng 計算
 ketai 雞𧉟
 ketat 價值
+ketau 過晝
 ketoo 過度
 ketoo 過渡
 ketsi 果子
@@ -18522,7 +18525,6 @@ khekh 看會起
 khenn 坑
 khenn khenn
 khepe 契爸
-kher1 葵
 kher1 瘸
 kher1 kher
 kher2 khér
@@ -18740,7 +18742,6 @@ khiun 氣運
 khiun khiun
 khiut khiut
 khkha 可可仔
-khkha 儉儉仔用
 khkha 寬寬仔
 khkha 齒觳仔
 khkhh 溪口鄉
@@ -18748,6 +18749,7 @@ khkhl 看起來
 khkhl 剾剾咧
 khkhs 呿呿嗽
 khkhs 喀喀嗽
+khktl 科技大樓
 khkts 開基祖
 khlth 哭路頭
 khmh4 khmh
@@ -18916,7 +18918,6 @@ khuat 闕
 khuat khuat
 khue1 溪
 khue1 魁
-khue1 葵
 khue1 詼
 khue1 恢
 khue1 瘸
@@ -19031,8 +19032,8 @@ kian1 慳
 kian1 kian
 kian2 卷
 kian2 繭
-kian2 筧
 kian2 蹇
+kian2 筧
 kian2 kián
 kian3 見
 kian3 建
@@ -19186,9 +19187,9 @@ king2 炯
 king2 龔
 king2 繭
 king2 迥
+king2 憬
 king2 耿
 king2 筧
-king2 憬
 king2 梘
 king2 襇
 king2 儆
@@ -19432,8 +19433,8 @@ kong2 講
 kong2 廣
 kong2 管
 kong2 岡
-kong2 栱
 kong2 鄺
+kong2 栱
 kong2 kóng
 kong3 摃
 kong3 貢
@@ -19503,6 +19504,7 @@ kskhp 緊事寬辦
 kstha 家私頭仔
 kstsh 見笑草
 kstsh 國產車
+kthkh 激頭殼
 kthkn 鬼頭鬼腦
 kthth 行透透
 kthth 鬼剃頭
@@ -19515,6 +19517,8 @@ ktshb 規千萬
 ktshh 韭菜花
 ktshh 高樹鄉
 ktshh 鼓吹花
+ktshh 驚生份
+ktshh 厚操煩
 ktshi 轎車椅
 ktshk 猴樹港
 ktshk 檢察官
@@ -19828,7 +19832,7 @@ liak4 liak
 liak8 lia̍k
 liak9 lia̋k
 liam1 拈
-liam1 躡
+liam1 跕
 liam1 liam
 liam2 蓮
 liam2 染
@@ -19947,7 +19951,6 @@ liau5 蹽
 liau5 獠
 liau5 寥
 liau5 嘹
-liau5 膫
 liau5 鐐
 liau5 鱙
 liau5 liâu
@@ -20108,6 +20111,7 @@ lioto 尿道
 lipan 立案
 lipha 立夏
 liphe 入會
+liphe 立夏
 lipni 入耳
 lipoh 入學
 lipui 入圍
@@ -20185,6 +20189,8 @@ lkhkh 落跤氣
 lkhkh 濁口溪
 lkhts 落空逝
 lkhts 魯凱族
+lksth 弄家散宅
+lktsh 菱角喙
 lktsp 掠龜走鱉
 llhts 如來佛祖
 llpts 如來佛祖
@@ -20220,7 +20226,6 @@ long2 lóng
 long3 弄
 long3 挵
 long3 閬
-long3 躘
 long3 lòng
 long5 郎
 long5 儂
@@ -20271,6 +20276,7 @@ lorh9 lőrh
 losim 勞心
 lotsu 勞資
 lphph 皺襞襞
+lphts 流鼻水
 lptts 日本豆醬
 lstsh 落屎星
 ltakh 涼亭仔跤
@@ -20321,8 +20327,8 @@ luan1 luan
 luan2 卵
 luan2 軟
 luan2 暖
-luan2 耎
 luan2 煖
+luan2 耎
 luan2 luán
 luan3 luàn
 luan5 戀
@@ -20726,7 +20732,6 @@ ngsik 黃色
 ngsng 黃酸
 ngtau 黃豆
 ngtng 硬拄硬
-ngtsh 扭尻川
 ngtss 五指山
 ngua1 ngua
 ngua2 nguá
@@ -21287,6 +21292,7 @@ phkha 瓠桸觳仔
 phkhh 鼻空風
 phkhk 盆跤骨
 phkhs 歹看相
+phkth 拍拳頭
 phkts 歹囝症
 phkts 破格鳥
 phlph 扶𡳞脬
@@ -21797,8 +21803,10 @@ ptshb 掰手面
 ptshe 包飼的
 ptshg 盤喙錦
 ptshk 佛手瓜
+ptshk 播田管
 ptshk 佈田管
 ptshk 盤喙錦
+ptshl 白菜滷
 ptshp 便菜飯
 ptshp 歕喙觱
 ptshs 卜籤詩
@@ -22207,6 +22215,7 @@ sijio 噓尿
 sijit 時日
 sikak 死角
 sikak 視覺
+sikak 四角
 sikan 時間
 sikat 死結
 sikgi 適宜
@@ -22350,8 +22359,8 @@ siok8 屬
 siok8 觸
 siok8 贖
 siok8 塾
-siok8 蜀
 siok8 鐲
+siok8 蜀
 siok8 孰
 siok8 sio̍k
 siok9 siők
@@ -22468,6 +22477,7 @@ siuh9 siűh
 siuhe 收回
 siuik 收益
 siuik 受益
+siuka 受教
 siuke 售價
 siuki 收據
 siuko 收購
@@ -23030,8 +23040,8 @@ than1 灘
 than1 than
 than2 坦
 than2 毯
-than2 妲
 than2 袒
+than2 妲
 than2 疸
 than2 thán
 than3 趁
@@ -23179,8 +23189,8 @@ thik4 畜
 thik4 斥
 thik4 敕
 thik4 忒
-thik4 剔
 thik4 惕
+thik4 剔
 thik4 倜
 thik4 飭
 thik4 thik
@@ -23315,6 +23325,7 @@ thng7 碭
 thng7 熥
 thng7 thn̄g
 thng9 thn̋g
+thnga 糖仔
 thngh thngh
 thoh4 魠
 thoh4 thoh
@@ -23384,7 +23395,6 @@ thpth 褪腹裼
 thpts 太白酒
 thskh 趁私奇
 thtbs 抽豬母稅
-ththa 𨑨迌囡仔
 ththk 黜塗機
 ththl 𨑨迌人
 ththm 𨑨迌物
@@ -23392,6 +23402,7 @@ ththt 剃頭刀
 ththt 剃頭店
 ththu 塗炭丸
 thtkh 吐大氣
+thtkh 敨中氣
 thtsa 頭上仔
 thtsb 頭鬃尾
 thtsh 中和市
@@ -23636,8 +23647,8 @@ ting1 叮
 ting1 徵
 ting1 町
 ting1 玎
-ting1 疔
 ting1 楨
+ting1 疔
 ting1 汀
 ting1 癥
 ting1 ting
@@ -23847,6 +23858,7 @@ tngni 斷奶
 tngte 長短
 tngts 端午節
 tntsh 長年菜
+tntsh 張鳥鼠
 tobah 刀肉
 tobin 倒面
 tohea 倒會仔
@@ -23857,6 +23869,7 @@ tohui 佗位
 tohui 桌帷
 toian 導演
 tokau 道教
+tokha 倒跤
 tokhi 倒去
 tokhu 道具
 tokka 獨家
@@ -24391,11 +24404,11 @@ tshka 臭溝仔
 tshka 草橄仔
 tshka 草鍥仔
 tshka 菜架仔
+tshka 菜架子
 tshkb 初見面
 tshkg 青光眼
 tshkh 七股鄉
 tshkh 車鼓戲
-tshkh 搜身軀
 tshkj 親骨肉
 tshkk 草麴粿
 tshkk 碎糊糊
@@ -24423,6 +24436,7 @@ tshlh 臭尿薟
 tshlh 噪人耳
 tshlk 千里鏡
 tshlk 𤆬路雞
+tshlp 車輪餅
 tshlt 臭奶呆
 tshlt 捙輾斗
 tshm1 tshm
@@ -24494,6 +24508,7 @@ tshpj 創辦人
 tshpk 拭餅𩛩
 tshpo 草霸王
 tshpp 刺耙耙
+tshpp 車布邊
 tshpp 捙跋反
 tshps 出版社
 tshpt 差不多
@@ -24501,7 +24516,6 @@ tshpt 捙畚斗
 tshsa 草索仔
 tshsh 車城鄉
 tshsh 粗俗貨
-tshsk 草山行館
 tshsk 揣三姑
 tshsl 手素料
 tshsl 手數料
@@ -24510,6 +24524,7 @@ tshsn 娶新娘
 tshsp 娶新婦
 tshss 青恂恂
 tshta 手電仔
+tshta 冊桌仔
 tshth 手電火
 tshth 臭豆腐
 tshth 做風颱
@@ -24518,21 +24533,19 @@ tshth 莿桐鄉
 tshth 𤆬頭
 tshth 𨑨迌
 tshtl 草地人
+tshtl 揤電鈴
 tshtp 菜店彪
 tshts 市中心
 tshts 刺竹筍
 tshts 青竹絲
-tshts 插代誌
-tshts 試鹹汫
-tshts 撨時鐘
 tshtt 草屯鎮
 tshu1 舒
 tshu1 趨
 tshu1 趄
 tshu1 雌
 tshu1 樞
-tshu1 蛆
 tshu1 嵯
+tshu1 蛆
 tshu1 tshu
 tshu2 此
 tshu2 娶
@@ -24859,6 +24872,7 @@ tsit8 嫉
 tsit8 tsi̍t
 tsit9 tsi̋t
 tsite 一下
+tsite 這个
 tsito 指導
 tsits 一夜情
 tsits 十一叔
@@ -24889,6 +24903,7 @@ tsiui 就醫
 tsiun tsiun
 tsiut tsiut
 tsjka 一日到暗
+tsjss 十二生相
 tsjts 做人情
 tsjts 情人節
 tskas 水雞仔泅
@@ -24904,6 +24919,7 @@ tskha 蛀窟仔
 tskhg 一箍銀
 tskhk 作曲家
 tskhk 照起工
+tskhp 守空房
 tskhp 早起晡
 tskhp 蹔跤步
 tskhs 一開始
@@ -24914,10 +24930,12 @@ tskht 早起頓
 tskht 知輕重
 tskkh 前金區
 tskoo 走江湖
+tskts 一甲子
 tskts 將軍莊
 tslka 一日到暗
 tslkh 水裡坑
 tslsp 芝蘭三堡
+tslss 十二生相
 tslts 自來水
 tslts 做人情
 tsmh4 tsmh
@@ -24984,8 +25002,8 @@ tsong 粧
 tsong 蹤
 tsong 綜
 tsong 贓
-tsong 臧
 tsong 樁
+tsong 臧
 tsong tsong
 tsonn tsonn
 tsoo1 組
@@ -25047,6 +25065,7 @@ tspth 食飯廳
 tspts 自閉症
 tspts 查埔祖
 tspts 總編輯
+tspuh 指腹為婚
 tssat 雜稅仔店
 tssbl 上卌袂攝
 tsskh 做瘦氣
@@ -25058,6 +25077,7 @@ tstab 斬稻仔尾
 tstak 一霎仔久
 tstha 石頭仔
 tstha 指頭仔
+tstha 擠𤶃仔
 tsthb 指頭拇
 tsthh 總統府
 tsthi 一帖藥
@@ -25223,6 +25243,7 @@ tsusi 子時
 tsusi 註死
 tsusu 自私
 tsut4 卒
+tsut4 朒
 tsut4 tsut
 tsut8 捽
 tsut8 朮
@@ -25454,6 +25475,7 @@ uesun 畫巡
 uetoo 畫圖
 uetsu 鞋苴
 uetua 鞋帶
+uetua 鞋櫥仔
 uetue 話題
 ugiah 有額
 ugian 預言
@@ -25604,6 +25626,7 @@ anginn 紅姨
 anginn 紅嬰
 angkam 紅魽
 angkhi 紅柿
+angkue 紅瓜
 angpai 紅牌
 angpau 紅包
 angsai 翁婿
@@ -25663,6 +25686,7 @@ autsiu 歐洲
 autsng 後庄
 autsua 拗紙
 aututu 懊嘟嘟
+babtsh 面漚面臭
 bahhia 肉魚仔
 bahhio 鴟鴞
 bahhua 肉魚仔
@@ -25713,6 +25737,7 @@ banhua 萬華
 banhue 挽回
 banhue 挽花
 banhue 慢火
+banhun 慢分
 baning 萬榮
 bankin 挽筋
 bankiu 挽救
@@ -25779,6 +25804,7 @@ bibuan 美滿
 bihhoo 覕雨
 bihong 美方
 bihong 微風
+bihueh 米血
 biiong 美容
 bijiok 微弱
 bikang 美工
@@ -25902,6 +25928,7 @@ botuho 無拄好
 btsbkh 袂食袂睏
 btshak 䆀手仔拐
 btshja 麻雀子仔
+btshkh 挽喙齒
 btshla 麻雀子仔
 btshts 母親節
 btstha 米酒頭仔
@@ -26126,6 +26153,7 @@ gitkik 日劇
 gitsan 日產
 gitsik 日式
 gitsin 義診
+gkhtsh 扭尻川
 gltsha 牛奶喙仔
 gntsha 牛奶喙仔
 gongue 戇話
@@ -26547,6 +26575,7 @@ hiunn7 hiūnn
 hiunn9 hiűnn
 hiunnh hiunnh
 hiusik 休息
+hkhpha 戶口簿仔
 hltsha 魚鱗𤺅仔
 hmhhmh 噷噷
 hmlang 媒人
@@ -26605,6 +26634,7 @@ hongto 防盜
 hongue 防衛
 hongui 方位
 hongui 防衛
+hongui 風圍
 honnh4 乎
 honnh4 honnh
 honnh8 ho̍nnh
@@ -26651,6 +26681,7 @@ hthnga 虎頭夾仔
 hthoos 向天湖山
 htsats 薟椒仔醬
 htshkh 風喙口
+htshkh 發喙齒
 htshth 好彩頭
 htshth 唬秤頭
 htshts 火車站
@@ -26660,6 +26691,7 @@ huabun 華文
 huagin 華人
 huagir 華語
 huahak 化學
+huahke 喝價
 huaian 化緣
 huaigi 懷疑
 huaih4 huaih
@@ -26727,6 +26759,7 @@ huatti 法治
 hubang 魚網
 hubang 漁網
 huebak 花木
+huebia 花眉仔
 huebue 貨尾
 huebun 花紋
 huebut 貨物
@@ -26947,6 +26980,7 @@ iasing 野生
 iasing 野性
 iatlam 閱覽
 iatshi 夜市
+iatsht 永安市場
 iaubue 猶未
 iauiok 邀約
 iaukin 要緊
@@ -27382,6 +27416,7 @@ juinn6 juǐnn
 juinn7 juīnn
 juinn9 jui̋nn
 juinnh juinnh
+junmia 韌命
 juntik 潤澤
 jutong 如同
 jutshu 如此
@@ -27443,6 +27478,7 @@ kakkoo 角鼓
 kakkue 角瓜
 kaksik 角色
 kaktoo 角度
+kakuai 教乖
 kalaka 加轆仔
 kalauh 交落
 kalehi 傀儡戲
@@ -27675,6 +27711,7 @@ khang7 khāng
 khang9 kha̋ng
 khangu 牽牛
 khanin 牽引
+khanka 牽教
 khann1 坩
 khann1 khann
 khann2 khánn
@@ -28004,6 +28041,7 @@ khiut8 khiu̍t
 khiut9 khiűt
 khjtse 抾字紙的
 khkbph 起雞母皮
+khkhai 儉儉仔用
 khkhas 寬寬仔是
 khkhkh 吭跤翹
 khkhkh 開跤褲
@@ -28029,6 +28067,7 @@ khokhu 鱷魚
 khokng 考卷
 khokoo 考古
 khokui 可貴
+khokun 犒軍
 kholau 洘流
 khonau 可惱
 khong1 空
@@ -28091,6 +28130,7 @@ khotue 課題
 khouan 科員
 khphph 氣怫怫
 khpkhb 哭爸哭母
+khthkh 睏坦敧
 khtsha 尻川後
 khtshi 考試院
 khtshk 尻川骨
@@ -28579,6 +28619,7 @@ ktshkh 高樹跤
 ktshkh 假喙齒
 ktshkh 講笑詼
 ktshts 講親情
+ktskkh 公食公開
 ktstsh 九層塔
 kuaahi 歌仔戲
 kuagai 掛礙
@@ -28696,6 +28737,7 @@ kuesin 過身
 kuesit 過失
 kuesit 雞翼
 kuetai 雞𧉟
+kuetau 過晝
 kuetho 雞桃
 kuetoo 過度
 kuetoo 過渡
@@ -28904,7 +28946,7 @@ lautin 荖藤
 lautsa 老早
 lautsi 流糍
 lautua 老大
-lbthts 掠無頭總
+lbthts 掠無頭摠
 leakui 螺仔鬼
 lebing 黎明
 lebong 檸檬
@@ -29284,6 +29326,7 @@ lunham 淪陷
 lunhue 輪迴
 lunkhi 忍氣
 lunliu 輪流
+lunmia 韌命
 lunpan 輪班
 lunsut 論述
 luntit 輪值
@@ -29622,7 +29665,6 @@ oothng 烏糖
 oothoo 挖塗
 oothoo 烏塗
 ootiap 蝴蝶
-ootshh 烏青凝血
 ootshi 烏市
 ootsts 烏真珠
 orgior 薁蕘
@@ -29678,6 +29720,7 @@ pakphe 剝皮
 pakpoo 北埔
 pakpoo 北部
 paktau 北投
+paktng 腹腸
 paktoo 腹肚
 pakuan 霸權
 palang 巴郎
@@ -29802,6 +29845,7 @@ phann3 冇
 phann3 phànn
 phann5 phânn
 phann6 phǎnn
+phann7 怦
 phann7 奅
 phann7 phānn
 phann9 pha̋nn
@@ -29960,6 +30004,7 @@ phinn5 砒
 phinn5 phînn
 phinn6 phǐnn
 phinn7 鼻
+phinn7 怦
 phinn7 phīnn
 phinn9 phi̋nn
 phinna 鼻仔
@@ -30020,6 +30065,7 @@ phiunn phiunn
 phiut4 phiut
 phiut8 phiu̍t
 phiut9 phiűt
+phkhph 歹睏癖
 phktsh 拍咳啾
 phktsh 破格喙
 phktsh 破雞筅
@@ -30087,7 +30133,7 @@ phthth 歹剃頭
 phtshj 歹手爪
 phtshk 拍生驚
 phtshk 拍喙鼓
-phtshl 拋車輪
+phtshl 拋捙輪
 phtshn 歹手爪
 phtshp 揹冊包
 phtshs 拍觸衰
@@ -30331,6 +30377,7 @@ pookui 布機
 poolik 暴力
 poolip 步入
 poolok 部落
+poolua 布攄仔
 poomng 部門
 poomua 佈滿
 poomui 部門
@@ -30375,6 +30422,7 @@ pthtsa 斧頭櫼仔
 pthtsh 白糖蔥
 ptptsh 不答不七
 ptsaph 漂磚仔杮
+ptshkh 補喙齒
 ptshng 撆手䘼
 ptshph 放臭屁
 puahhu 撥付
@@ -30863,6 +30911,7 @@ siong2 悚
 siong2 sióng
 siong3 相
 siong3 象
+siong3 宋
 siong3 siòng
 siong5 常
 siong5 詳
@@ -31444,6 +31493,7 @@ tetang 地動
 tethan 地毯
 tethau 地頭
 tetiam 地點
+tetoha 茶桌仔
 tetsai 題材
 tetsan 地層
 tetsit 地質
@@ -31821,6 +31871,7 @@ thptsh 太保市
 thsthm 拖身拖命
 thstsh 土城市
 thstsh 讀死冊
+ththga 𨑨迌囡仔
 ththma 𨑨迌物仔
 thtshl 讀冊人
 thtshp 挑手爿
@@ -31950,6 +32001,7 @@ tiaute 朝代
 tiauti 刁持
 tibing 致命
 tigiah 抵額
+tihbeh 咧欲
 tihueh 豬血
 tikaki 竹仔枝
 tikang 豬公
@@ -32040,7 +32092,6 @@ tiong1 tiong
 tiong2 長
 tiong2 tióng
 tiong3 中
-tiong3 長
 tiong3 帳
 tiong3 漲
 tiong3 脹
@@ -32134,6 +32185,7 @@ tiunnh tiunnh
 tiunnm 丈姆
 tiupan 籌辦
 tiusui 稻穗
+tkatsh 銅管仔車
 tkhtsh 大氣喘
 tkhtsh 大窟草
 tkhtsh 長尻川
@@ -32447,8 +32499,8 @@ tsham3 摻
 tsham3 懺
 tsham3 讖
 tsham3 tshàm
-tsham5 鐕
 tsham5 蠶
+tsham5 鐕
 tsham5 慚
 tsham5 讒
 tsham5 tshâm
@@ -32833,6 +32885,7 @@ tshklk 吵家抐計
 tshkph 千金譜
 tshkth 厝角頭
 tshkts 厝角鳥
+tshkts 試鹹汫
 tshlkh 請人客
 tshlpl 七老八老
 tshlth 樹奶糖
@@ -32935,13 +32988,16 @@ tshorh 𧮙
 tshorh tshorh
 tshpha 出皰仔
 tshpha 出癖仔
-tshphl 車拋輪
+tshphl 捙拋輪
 tshphs 刺膨紗
 tshphs 臭屁仙
 tshpkp 厝邊隔壁
 tshpla 臭伯勞仔
 tshppp 青磅白磅
+tshshk 草山行館
+tshskh 搜身軀
 tshsma 粗俗物仔
+tshsts 撨時鐘
 tshtha 秤錘仔
 tshtha 草窒仔
 tshtha 淺拖仔
@@ -32949,6 +33005,7 @@ tshthb 臭塗味
 tshthh 搶頭香
 tshthk 厝頭家
 tshthk 菜頭粿
+tshthl 揣頭路
 tshthl 𨑨迌人
 tshthm 𨑨迌物
 tshthp 搶頭標
@@ -32968,11 +33025,14 @@ tshtsg 清水巖
 tshtsh 水薰吹
 tshtsh 市政府
 tshtsh 彰化市
+tshtsh 粗殘
 tshtsi 菜子油
 tshtsk 照呼照行
 tshtsl 創造力
 tshtss 清真寺
 tshtst 清水鎮
+tshtst 跙一倒
+tshtts 插代誌
 tshua1 tshua
 tshua2 tshuá
 tshua3 蔡
@@ -33495,8 +33555,8 @@ tsong1 粧
 tsong1 蹤
 tsong1 綜
 tsong1 贓
-tsong1 臧
 tsong1 樁
+tsong1 臧
 tsong1 tsong
 tsong2 總
 tsong2 tsóng
@@ -33546,6 +33606,7 @@ tsosiu 遭受
 tsosun 做旬
 tsotam 座談
 tsotin 做陣
+tsotui 做對
 tspkhi 一百空一
 tsptsb 叔伯姊妹
 tsptsm 叔伯姊妹
@@ -33566,8 +33627,10 @@ tstshl 作田人
 tstshl 做七日
 tstshl 做田人
 tstshl 做臭人
+tstshm 雜菜麵
 tstshn 水燦林
 tstshp 正手爿
+tstsht 止喙焦
 tstska 煮食裙仔
 tstskh 石舂臼
 tstskh 此早起
@@ -33982,6 +34045,7 @@ uansui 芫荽
 uantoo 怨妒
 uantue 園地
 uapiah 倚壁
+uatkak 斡角
 uatkue 越過
 uatlam 越南
 ueanga 畫尪仔
@@ -34106,6 +34170,7 @@ anginna 紅嬰仔
 angkiki 紅記記
 angkirn 偝巾
 angkuke 紅龜粿
+angloka 紅橐仔
 angniua 紅娘仔
 angtaua 紅豆仔
 angthoo 紅塗
@@ -34335,7 +34400,7 @@ botitai 無底代
 botshai 無彩
 botsing 無情
 botsinn 母錢
-btshtsh 袂伸奢
+btshtsh 袂伸捙
 buahbin 抹面
 buahhun 抹粉
 buahiam 抹鹽
@@ -34528,6 +34593,7 @@ gukanga 牛犅仔
 gukhita 牛杙仔
 gunakak 銀仔角
 gunhang 銀行
+gunihun 牛奶粉
 gunisik 牛奶色
 gunkaka 銀角仔
 gunphio 銀票
@@ -34763,6 +34829,7 @@ hiunnh9 hiűnnh
 hiunnhe 香火
 hiunnhu 香烌
 hiunnli 鄉里
+hkhhtsh 好跤好手
 hkhtshp 戶口抄本
 hngtere 園地
 hobitin 和美鎮
@@ -34884,6 +34951,7 @@ hotshir 好處
 hotshng 河床
 hotshui 好喙
 hotsiah 好食
+htsatsh 發財仔車
 htshtsh 吼叱叱
 htshtsh 幌韆鞦
 htshtsh 嘵叱叱
@@ -34893,6 +34961,7 @@ huahhia 喝魚仔
 huahhiu 喝咻
 huahhua 喝魚仔
 huahkun 喝拳
+huahsio 喝燒
 huainn1 huainn
 huainn2 huáinn
 huainn3 huàinn
@@ -35124,6 +35193,7 @@ hutsong 副總
 huttian 佛典
 huttsir 核子
 huttsoo 佛祖
+iahahue 蛾仔花
 iahking 易經
 iahtioh 曷著
 iamanga 鹽甕仔
@@ -35486,9 +35556,11 @@ kaitsiu 解酒
 kaitsoo 改組
 kaiuann 改換
 kakiong 加強
+kakking 角間
 kakkong 角管
 kakngoo 覺悟
 kakthau 角頭
+kakthng 角糖
 kalitin 佳里鎮
 kamabit 柑仔蜜
 kamalua 𥴊仔賴
@@ -35658,6 +35730,7 @@ ketshui 過喙
 ketsiba 果子猫
 ketsing 雞精
 ketsinn 價錢
+khahong 跤風
 khahtsa 較早
 khaiboo 楷模
 khaihak 開學
@@ -35735,6 +35808,7 @@ khausua 剾痧
 khausue 剾洗
 khautso 口座
 khbtshi 跤模手印
+khbtshp 跤麻手痺
 khebing 啟明
 khehgir 客語
 khehhoo 客戶
@@ -35906,6 +35980,7 @@ khiunn7 khiūnn
 khiunn9 khiűnn
 khiunnh khiunnh
 khkhkha 開跤褲仔
+khktshk 跤健手健
 khltshl 跤來手來
 khnghue 囥歲
 khngpoo 囥步
@@ -35964,8 +36039,10 @@ khoting 課程
 khotioh 靠著
 khotshi 考試
 khouann 洘旱
+khstshn 跤痠手軟
 khthkhb 崁頭崁面
 khthkhb 歁頭歁面
+khthkhb 看頭看尾
 khthtsh 計程車
 khtshkh 尻川口
 khtshph 尻川䫌
@@ -36248,7 +36325,7 @@ kioting 橋頂
 kiotsue 叫做
 kiphior 機票
 kipsing 急性
-kipsioa 給燒仔
+kipsioa 急燒仔
 kiptsin 急診
 kipuann 棋盤
 kirinn1 kirinn
@@ -36488,7 +36565,7 @@ kuekian 雞胘
 kuekuan 過關
 kuekuia 雞胿仔
 kuelang 雞籠
-kueleha 葵笠仔
+kueleha 瓜笠仔
 kueluaa 雞僆仔
 kueniau 蕨貓
 kuennh4 kuennh
@@ -36515,6 +36592,7 @@ kuigerh 鬼月
 kuigueh 鬼月
 kuihuan 規範
 kuikang 幾工
+kuikang 規工
 kuikenn 貴庚
 kuikhan 季刊
 kuikinn 貴庚
@@ -36552,6 +36630,7 @@ kutsian 舉荐
 kutsuat 拒絕
 kutsuni 舊前年
 kutthau 骨頭
+kuttsat 骨節
 kuttshe 骨髓
 kuttshi 滑鼠
 kuttshu 滑鼠
@@ -36845,7 +36924,7 @@ liuliam 留念
 liulian 榴槤
 liuliua 鈕鈕仔
 liulong 流浪
-liulong 溜籠
+liulong 流籠
 liuluan 留戀
 liupher 遛皮
 liuphia 遛疕仔
@@ -36886,7 +36965,6 @@ longkun 郎君
 longlik 農曆
 longlim 農林
 longmng 挵門
-longphe 躘被
 longpue 狼狽
 longsan 農產
 longsok 濃縮
@@ -37050,6 +37128,7 @@ ngirih4 ngirih
 ngirih8 ngiri̍h
 ngithue 硬體
 ngitiap 硬碟
+ngkhtsh 扭尻川
 ngkokke 掩咯家
 ngkokke 掩咯雞
 ngoogik 忤逆
@@ -37075,6 +37154,7 @@ nitshue 年初
 nitsinn 簾簷
 nitsueh 年節
 niuakan 娘仔繭
+niuatau 娘仔豆
 nngkoko 軟膏膏
 nngping 兩爿
 nngthue 軟體
@@ -37117,6 +37197,7 @@ oonnkau 哦口
 ooptsha 烏枋拭仔
 ootasan 烏焦瘦
 ootatsh 烏甜仔菜
+ootshgh 烏青凝血
 ootshiu 烏手
 ootshiu 烏鶖
 ootshoo 烏醋
@@ -37154,10 +37235,12 @@ pangbok 放牧
 pangboo 枋模
 panghua 放符仔
 panghue 放火
+pangjio 放尿
 pangkau 邦交
 pangkio 板橋
 pangkiu 棒球
 panglau 放流
+panglio 放尿
 pangmng 房門
 pangnng 放卵
 pangorh 放學
@@ -37665,6 +37748,7 @@ portshi 保持
 portsia 婆姐
 posinhu 保身符
 potiong 保重
+potshan 播田
 potsing 保正
 potsing 保証
 potsing 保證
@@ -38507,6 +38591,7 @@ tamthau 頕頭
 tamtsui 淡水
 tangbue 冬尾
 tanghai 東海
+tanghun 冬粉
 tangkhu 東區
 tangkue 冬瓜
 tanglai 重利
@@ -39019,6 +39104,7 @@ tiautit 條直
 tiautoo 調度
 tiautsa 調查
 tiautse 調製
+tihbueh 咧欲
 tikbiha 竹篾仔
 tikhioh 竹葉
 tikhong 抵抗
@@ -39296,6 +39382,7 @@ totsing 多情
 totsioh 刀石
 totsite 佗一个
 totuann 倒彈
+tptshts 臺北車站
 tsabing 查明
 tsagina 查某囡仔
 tsahhng 昨昏
@@ -39560,7 +39647,6 @@ tshiak8 嚓
 tshiak8 tshia̍k
 tshiak9 tshia̋k
 tshiake 車價
-tshiaki 捙箕
 tshiam1 籤
 tshiam1 簽
 tshiam1 攕
@@ -39725,7 +39811,7 @@ tshiok4 綽
 tshiok4 蹴
 tshiok4 蹙
 tshiok4 tshiok
-tshiok8 搦
+tshiok8 浞
 tshiok8 tshio̍k
 tshiok9 tshiők
 tshioke 𪁎雞
@@ -39740,8 +39826,8 @@ tshiong 倡
 tshiong 鏘
 tshiong 娼
 tshiong 猖
-tshiong 菖
 tshiong 憧
+tshiong 菖
 tshiong 瑲
 tshiong 閶
 tshiong tshiong
@@ -39844,6 +39930,7 @@ tshktsa 厝角鳥仔
 tshktsh 千斤秤
 tshktsh 菜瓜摖
 tshlath 刺羅仔蟲
+tshlkha 樹奶箍仔
 tshlpha 樹奶擗仔
 tshltsh 手路菜
 tshmath 刺毛仔蟲
@@ -39854,6 +39941,7 @@ tshngbu 床母
 tshngh4 tshngh
 tshngh8 tshn̍gh
 tshngh9 tshn̋gh
+tshnkha 樹奶箍仔
 tshntsh 樹林市
 tshogoo 錯誤
 tshokak 錯覺
@@ -39929,7 +40017,6 @@ tshtshk 臭腥公
 tshtshk 親切感
 tshtshl 㴙㴙落
 tshtshn 眨眨𥍉
-tshtshp 粗菜便飯
 tshtshs 七星山
 tshtsht 上青苔
 tshtsht 嘈嘈滴
@@ -40117,6 +40204,7 @@ tsibera 姊妹仔
 tsiguan 志願
 tsihlat 接力
 tsihong 脂肪
+tsihsin 接神
 tsihueh 止血
 tsihuih 止血
 tsikang 志工
@@ -40511,6 +40599,7 @@ tsuesik 做色
 tsuesit 作穡
 tsuesun 做旬
 tsuetin 做陣
+tsuetui 做對
 tsuguan 自願
 tsuguan 資源
 tsuhoho 註好好
@@ -40531,6 +40620,7 @@ tsuikng 水缸
 tsuikor 水果
 tsuikue 水雞
 tsuikui 水櫃
+tsuikui 水鬼
 tsuilau 水流
 tsuilik 注意力
 tsuimng 水門
@@ -40682,6 +40772,7 @@ tuinnh4 tuinnh
 tuinnh8 tui̍nnh
 tuinnh9 tui̋nnh
 tuisiau 對數
+tuitang 對同
 tuithai 對待
 tuithau 對頭
 tuitiau 對調
@@ -40926,6 +41017,7 @@ bitphang 蜜蜂
 bitshiam 米攕
 bitsiunn 米漿
 bittsian 蜜餞
+bktshtsh 目降鬚聳
 boakiann 母仔囝
 bobehang 無尾巷
 boberhim 無尾熊
@@ -41078,8 +41170,8 @@ gongtann 戇膽
 goojiaua 五爪仔
 gookehhi 吳郭魚
 gookehhu 吳郭魚
-gookinke 五筋枷
-gookunke 五筋枷
+gookinke 五筋膎
+gosisann 五四三
 guahiang 外向
 guahiong 外向
 guakiann 牛仔囝
@@ -41494,6 +41586,7 @@ hulintau 荷仁豆
 hungiora 粉蟯仔
 hunhiang 分享
 hunhiong 分享
+hunkhoka 薰觳仔
 hunkuann 粉肝
 hunliong 份量
 hunpiann 粉餅
@@ -41557,6 +41650,7 @@ innkhuan 圓環
 inntionn 院長
 inntiunn 院長
 iohphinn 藥片
+iohpiann 藥餅
 iohthaua 藥頭仔
 iohtsesu 藥劑師
 iohtshau 藥草
@@ -42414,6 +42508,7 @@ langhong 弄風
 langiann 人影
 langkang 人工
 langkang 閬工
+langkang 閬港
 langkheh 人客
 langkhoo 攏褲
 langkuan 攏權
@@ -42542,6 +42637,7 @@ liongkhe 瀧溪
 liongkut 龍骨
 lionglan 兩難
 liongmeh 龍脈
+liongphe 躘被
 liongpue 狼狽
 liongsan 量產
 liongsim 良心
@@ -42695,6 +42791,7 @@ niutshik 量測
 niutshiu 讓手
 nngkhahe 軟跤蝦
 ohkanghu 學工夫
+ongiabio 王爺廟
 ongiatse 王爺債
 ongsiong 往常
 ooatshui 烏鴉喙
@@ -42924,6 +43021,7 @@ phuannhe 販貨
 phuannke 伴嫁
 phuannli 伴侶
 phuapenn 破病
+phuaping 破爿
 phuapinn 破病
 phuatann 破膽
 phuatsha 破柴
@@ -43169,6 +43267,7 @@ satphinn 塞鼻
 sattshiu 殺手
 sausiann 梢聲
 sautshiu 掃帚
+sebintso 洗面槽
 sehkhang 楔空
 sehphang 楔縫
 sehtosia 說多謝
@@ -43178,6 +43277,7 @@ sennsian 生癬
 sennsing 生成
 sennsing 生性
 sennthih 生鐵
+sesannki 洗衫機
 sesinkhu 洗身軀
 setsioha 洗石仔
 setunkhu 西屯區
@@ -43454,6 +43554,7 @@ siukhuan 授權
 siukiann 收件
 siukiann 收驚
 siukiong 守宮
+siunnbeh 想欲
 siunngeh 賞月
 siunnhue 賞花
 siunnkhi 受氣
@@ -43553,6 +43654,7 @@ sunkhang 榫空
 sunkhuan 循環
 sunkiann 順行
 sunkuann 筍乾
+sunsinpu 孫新婦
 sunsiong 損傷
 suntshiu 順手
 suntshui 純粹
@@ -44264,6 +44366,7 @@ tsaubeli 走袂離
 tsaugina 查某囡仔
 tsauhong 走訪
 tsaukann 查某囝
+tsaukhut 巢窟
 tsauking 查某間
 tsaulang 查某人
 tsaulong 走廊
@@ -44302,6 +44405,7 @@ tshaihue 菜花
 tshaiian 菜燕
 tshaiing 採用
 tshaikea 菜架仔
+tshaikea 菜架子
 tshaikiu 菜球
 tshaikng 彩券
 tshaikng 採光
@@ -44413,6 +44517,7 @@ tshhtsha 裁縫車仔
 tshiabak 斜目
 tshiahgu 赤牛
 tshiahji 刺字
+tshiahki 鍤箕
 tshiahli 刺字
 tshiahor 車號
 tshiahua 奢華
@@ -44541,8 +44646,8 @@ tshiong1 倡
 tshiong1 鏘
 tshiong1 娼
 tshiong1 猖
-tshiong1 菖
 tshiong1 憧
+tshiong1 菖
 tshiong1 瑲
 tshiong1 閶
 tshiong1 tshiong
@@ -44708,7 +44813,9 @@ tshtsgts 親情五十
 tshtshat 青草仔店
 tshtshat 青草仔茶
 tshtshbb 千千萬萬
+tshtshka 臭腥龜仔
 tshtshkh 臭腥氣
+tshtshpp 粗菜便飯
 tshtshth 上青苔
 tshtspha 手摺簿仔
 tshtspts 七早八早
@@ -44747,6 +44854,7 @@ tshuenn5 tshuênn
 tshuenn6 tshuěnn
 tshuenn7 tshuēnn
 tshuenn9 tshue̋nn
+tshuenng 炊卵
 tshuennh tshuennh
 tshuesng 炊床
 tshuetau 炊斗
@@ -44842,6 +44950,7 @@ tsiahmia 食名
 tsiahmia 食命
 tsiahmih 食物
 tsiahnia 遮爾仔
+tsiahpng 食飯
 tsiahpoo 食補
 tsiahsik 食色
 tsiahsit 食食
@@ -45309,6 +45418,7 @@ tsungiam 尊嚴
 tsunguan 船員
 tsunkhak 準確
 tsunking 尊敬
+tsunkong 準講
 tsunthau 船頭
 tsuntong 存檔
 tsuntsai 存在
@@ -45630,7 +45740,7 @@ gookerhhi 吳郭魚
 gookhakhi 五跤氣
 gookuehhi 吳郭魚
 gookuehhu 吳郭魚
-gookunkue 五筋枷
+gookunkue 五筋膎
 goositsui 午時水
 gootetshu 五塊厝
 goratshai 鵝仔菜
@@ -45643,6 +45753,9 @@ guehliang 月亮
 guehpiann 月餅
 guehpuann 月半
 guehtiong 月中
+guesingli 外甥女
+guesinglu 外甥女
+gulinghun 牛奶粉
 gulingsik 牛奶色
 gunthauke 阮頭家
 gutshuiam 牛喙罨
@@ -45874,7 +45987,7 @@ ingtshioh 英尺
 innatshue 圓仔粞
 innatsiau 燕仔鳥
 innsuanna 圓山仔
-inthauloo 引頭路
+inthauloo 允頭路
 ioginakua 育囡仔歌
 ioklokhng 育樂園
 iokoolong 搖鼓瑯
@@ -45992,6 +46105,7 @@ khangkhak 空殼
 khangkher 工課
 khangkhir 工課
 khangkhue 工課
+khangking 空間
 khangpang 空房
 khangpang 看板
 khangthau 空頭
@@ -46047,6 +46161,7 @@ khiohking 抾襇
 khiohtioh 抾著
 khiohtsha 抾柴
 khiohtsui 抾水
+khionghat 恐喝
 khionghik 恐嚇
 khiongpha 恐怕
 khiongpoo 恐怖
@@ -46130,6 +46245,7 @@ khuitshui 開喙
 khuituann 開單
 khulokpoo 俱樂部
 khunkhiam 勤儉
+khunphiah 睏癖
 khunthang 昆蟲
 khuntshai 芹菜
 khuntshng 睏床
@@ -46353,6 +46469,7 @@ langkhuan 攏權
 langphang 閬縫
 langtshiu 人手
 langtsing 人種
+lansanbah 零星肉仔
 laubaksai 流目屎
 laubeting 樓尾頂
 laukoopor 老姑婆
@@ -46797,6 +46914,7 @@ putkiujin 不求人
 putkiulin 不求人
 putkuansi 不管時
 puttitput 不得不
+sabotsang 捎無摠
 saiahiong 獅子鄉
 saiaphinn 獅仔鼻
 saibakber 使目尾
@@ -47058,6 +47176,7 @@ suantuann 選單
 suatsuann 雪山
 subingkam 使命感
 suehtosia 說多謝
+suesannki 洗衫機
 suesinkhu 洗身軀
 suetsioha 洗石仔
 suitsaili 隨在你
@@ -47161,6 +47280,7 @@ thanghong 通風
 thangkhoo 桶箍
 thangthua 蟲豸
 thanhuinn 坦橫
+thantshio 坦笑
 thantsiah 趁食
 thantsinn 趁錢
 thapkhang 塌空
@@ -47175,7 +47295,7 @@ thausiann 頭城
 thausinna 頭牲仔
 thausinne 偷生的
 thauthinn 透天
-thautsang 頭總
+thautsang 頭摠
 thautsang 頭鬃
 thautshit 頭七
 thautshiu 頭手
@@ -47604,6 +47724,7 @@ tshautsok 操作
 tshautsui 臭水
 tshehpang 冊房
 tshehtiam 冊店
+tshehtoha 冊桌仔
 tsheising 揣醫生
 tshekaule 吹狗螺
 tsheliang 淒涼
@@ -47684,6 +47805,7 @@ tshikosin 痴哥神
 tshimhuan 侵犯
 tshimkhik 深刻
 tshimliok 侵略
+tshimthau 寢頭
 tshimtsan 深層
 tshinahue 秤仔花
 tshinggoo 千五
@@ -47935,6 +48057,7 @@ tsianghua 彰化
 tsiangian 前言
 tsiangkng 獎券
 tsiangpai 獎牌
+tsiangtsi 長志
 tsianhong 前鋒
 tsianhong 戰況
 tsianking 前景
@@ -48110,6 +48233,7 @@ tsiongsir 將士
 tsiongsir 從事
 tsiongtor 眾多
 tsiongtsi 終止
+tsiongtsi 長志
 tsionnkue 醬瓜
 tsionnkui 上櫃
 tsionnloo 上路
@@ -48302,6 +48426,7 @@ tsutshior 主唱
 tsutsiang 主將
 tsutsiong 主將
 tsutsiong 自從
+tuaanghue 大紅花
 tuabaktoo 大腹肚
 tuabattoo 大腹肚
 tuabinsin 大面神
@@ -48379,6 +48504,7 @@ uisingsoo 維生素
 uithabing 維他命
 uitshiunn 圍牆
 ulaihiong 烏來鄉
+unthauloo 允頭路
 untonghue 運動會
 uthauubue 有頭有尾
 utongthau 有擋頭
@@ -49042,6 +49168,7 @@ oosimkuann 烏心肝
 oosimtsioh 烏心石
 pahkingkun 百襇裙
 pahpootsua 百步蛇
+paimngkhau 拜門口
 paitsuikau 排水溝
 paiuantsok 排灣族
 pakkangkhe 北港溪
@@ -49089,7 +49216,7 @@ phanntshiu 冇手
 phanntsioh 冇石
 phaphatsau 拋拋走
 phiahtsing 僻靜
-phiannliau 骿膫
+phiannliau 骿條
 phianphiah 偏僻
 phianphian 偏偏
 phiantiong 偏重
@@ -49105,6 +49232,7 @@ phintsiong 品種
 phiopehhun 漂白粉
 phitsuiphi 漂水漂
 phohsihkoh 璞石閣
+phokasiann 噗仔聲
 phoklamhue 博覽會
 phoksikkoh 璞石閣
 phongphuha 磅浦仔
@@ -49578,6 +49706,7 @@ tsaitsitli 在室女
 tsaitsusiu 財子壽
 tsamkhapoo 蹔跤步
 tsanbunkhe 曾文溪
+tsangkuann 粽捾
 tsantsiang 殘障
 tsantsiong 殘障
 tsapittsik 十一叔
@@ -49618,6 +49747,7 @@ tshangatsu 蔥仔珠
 tshangthau 蔥頭
 tshanhuann 田岸
 tshankiaua 田僑仔
+tshantshan 殘殘
 tshantshau 仙草
 tshaptshiu 插手
 tshaptshui 插喙
@@ -49709,6 +49839,7 @@ tshingsere 清洗
 tshingsiau 清數
 tshingsong 清爽
 tshingsuan 清算
+tshingthun 筅黗
 tshingtiau 清朝
 tshingtsan 稱讚
 tshingtsho 清楚
@@ -49797,6 +49928,7 @@ tshongsong 滄桑
 tshongtsok 創作
 tshoothang 粗桶
 tshoothang 醋桶
+tshootshan 粗殘
 tshootshoo 初初
 tshorkanna 草橄欖
 tshtshtsha 鋟鋟鎈仔
@@ -49836,6 +49968,7 @@ tshuntsiat 春節
 tshuntsinn 賰錢
 tshuntsueh 春節
 tshuthauke 厝頭家
+tshutkhing 出虹
 tshutphang 出帆
 tshutphiaa 出癖仔
 tshutphiah 出癖
@@ -50110,6 +50243,7 @@ angtshaisik 紅菜色
 antinghiong 安定鄉
 aukiamtshai 漚鹹菜
 aupiahhiong 後壁鄉
+bahpiannbin 肉餅面
 bahtsangkak 肉粽角
 bakkautsiam 目狗尖
 bakkautsiam 目狗針
@@ -50170,7 +50304,7 @@ googehtsueh 五月節
 googuehtseh 五月節
 goohuntshia 五分車
 gookingtshu 五間厝
-gookirnkere 五筋枷
+gookirnkere 五筋膎
 gookoohiong 五股鄉
 gookookhenn 五股坑
 gookookhinn 五股坑
@@ -50265,6 +50399,7 @@ iampoohiong 鹽埔鄉
 iamtiannkhu 鹽埕區
 iamtiannpoo 鹽埕埔
 ianniannpue 颺颺飛
+ianpitkheha 鉛筆篋仔
 iausiutemia 夭壽短命
 iktshiahsng 溢刺酸
 inghionglik 影響力
@@ -50387,9 +50522,11 @@ khuikhakhoo 開跤褲
 khuiliongau 開嚨喉
 khunthankhi 睏坦敧
 kiakimphooa 寄金簿仔
+kiamkohsiap 鹹閣澀
 kiamsngtinn 鹹酸甜
 kiamtsuikhe 鹽水溪
 kiamtsuitin 鹽水鎮
+kiannkhakau 行跤到
 kiannsilang 驚死人
 kiannsiunna 鏡箱仔
 kiansiauhue 見笑花
@@ -50400,6 +50537,7 @@ kiaukiaukio 噭噭叫
 kikkhookhoo 激怐怐
 kikonghiong 莒光鄉
 kikphaithau 激派頭
+kikthaukhak 激頭殼
 kimsanhiong 金山鄉
 kimsianntin 金城鎮
 kimtsiamhue 金針花
@@ -50553,13 +50691,14 @@ pautsiongte 包種茶
 pehsiaksiak 白鑠鑠
 pehsuahiong 白沙鄉
 pehthaukhok 白頭鵠
+pehtshailoo 白菜滷
 pelingtshai 菠薐菜
 pennnahiong 坪林鄉
 pennpoohuan 平埔番
 pennsiunnsi 病相思
 phahkuannsi 拍官司
 phahkunthau 拍拳頭
-phahlaliang 拍拉涼
+phahlaliang 拍抐涼
 phahphuakng 拍殕仔光
 phahpongsiu 拍滂泅
 phahthihsai 拍鐵師
@@ -50578,7 +50717,7 @@ phannlintau 拋輾斗
 phannlookoo 冇硓𥑮
 phannthuann 冇炭
 phanntsioha 冇石仔
-phatshialin 拋車輪
+phatshialin 拋捙輪
 phennookuan 澎湖縣
 phiannkikut 骿支骨
 phianphiana 偏偏仔
@@ -50636,6 +50775,7 @@ poosimhiong 埔心鄉
 pootshuikhi 補喙齒
 posingtaite 保生大帝
 potiongting 褒忠亭
+potshankong 播田管
 puanngehlit 半月日
 puannhthang 拔桶
 puannloosai 半路師
@@ -50697,6 +50837,7 @@ siauhongtui 消防隊
 siauhuitsia 消費者
 siauthiunna 小丑仔
 siginathenn 死囡仔䖙
+sikaujitkau 時到日到
 sikhutatsui 死窟仔水
 silangkhuan 死人款
 simboktiong 心目中
@@ -50781,6 +50922,7 @@ tanginhiong 東引鄉
 tangkangkhe 東港溪
 tangkangtin 東港鎮
 tangkhiping 重敧爿
+tangkuethng 冬瓜糖
 tanglamhong 東南方
 tanglohiong 銅鑼鄉
 tanglootsui 凍露水
@@ -50947,6 +51089,7 @@ tsaphunliau 十分
 tsapookiann 查埔囝
 tsappehpian 十八變
 tsaptsapkio 咂咂叫
+tsaptshaimi 雜菜麵
 tsaukeasian 走街仔仙
 tsausannlip 走相逐
 tsausiojiok 走相逐
@@ -51001,7 +51144,7 @@ tshiansiunn 淺想
 tshianthuaa 淺拖仔
 tshiantshau 仙草
 tshiantshiu 韆鞦
-tshiaphalin 車拋輪
+tshiaphalin 捙拋輪
 tshiapuntau 捙畚斗
 tshiatphinn 切片
 tshiatsiang 車掌
@@ -51139,6 +51282,7 @@ tsingtising 政治性
 tsintsitpoo 進一步
 tsiohkuanim 石觀音
 tsiongkhuan 掌權
+tsiongkibue 終其尾
 tsiongsiann 掌聲
 tsiongthing 章程
 tsiongtsiat 章節
@@ -51231,6 +51375,7 @@ uitshuthuih 胃出血
 ukhangbosun 有空無榫
 untongtiann 運動埕
 utannthauah 有擔頭矣
+ahhingasiann 鴨雄仔聲
 akongtiamkhe 阿公店溪
 anghingtshai 紅莧菜
 anghiohsuann 紅葉山
@@ -51247,7 +51392,7 @@ balitsikkhau 麻里折口
 banluanhiong 萬巒鄉
 bantshiannsi 慢且是
 behliauhiong 麥寮鄉
-betshuntshia 袂伸奢
+betshuntshia 袂伸捙
 biantsinnpng 免錢飯
 bihsiortshue 覕相揣
 bingkanhiong 名間鄉
@@ -51293,6 +51438,7 @@ hingtsinginn 行政院
 hiongkangkha 香港跤
 hiongkongsoo 鄉公所
 hipsiongkuan 翕相館
+hokhahotshiu 好跤好手
 hokhinghiong 復興鄉
 hokhinghiong 福興鄉
 hongguantshi 豐原市
@@ -51303,6 +51449,7 @@ hongtiauusun 風調雨順
 hongtshelian 風吹輪
 hongtsuisian 風水仙
 honguanhiong 芳苑鄉
+hookhauphooa 戶口簿仔
 hoosuannking 雨傘襇
 hoosuanntsat 雨傘節
 hoothaungeha 虎頭夾仔
@@ -51352,8 +51499,10 @@ kauhiongkhik 交響曲
 kauliangtsiu 高粱酒
 kaumngathang 狗毛仔蟲
 kautsantshah 九層塔
+kautshauhuan 厚操煩
 kautshiukang 猴樹港
 kethingtshia 計程車
+khabatshiupi 跤麻手痺
 khaphinnliam 跤鼻臁
 khatshngkhau 尻川口
 khatshngphue 尻川䫌
@@ -51453,6 +51602,7 @@ liantsiauhue 聯招會
 liaubeakiann 了尾仔囝
 limkiingpian 臨機應變
 lingbaktsinn 龍目井
+lingkaktshui 菱角喙
 lingtingakha 涼亭仔跤
 lintsingsesu 人情世事
 litshulitshu 如此如此
@@ -51531,7 +51681,7 @@ phainnthiann 歹聽
 phainntsupau 揹書包
 phaitshutsoo 派出所
 phanntsiorha 冇石仔
-phatshialian 拋車輪
+phatshialian 拋捙輪
 phingtshiann 聘請
 phinntshionn 片廠
 phinntshiunn 片廠
@@ -51607,6 +51757,7 @@ sianlamsinli 善男信女
 sianlamsinlu 善男信女
 siannmihlang 啥物人
 sianntusiann 聖拄聖
+siantauhtauh 𤺪篤篤
 siathauhiong 社頭鄉
 siauhingtsiu 紹興酒
 siaukautsing 痟狗症
@@ -51627,6 +51778,7 @@ sinnbaktsiam 生目尖
 sinnsilitgeh 生時日月
 sintintaisia 新陳代謝
 sintshihiong 新市鄉
+siongkangtin 宋江陣
 siongmiasian 相命仙
 siongpennkhe 上坪溪
 siongpingkhe 上坪溪
@@ -51701,6 +51853,7 @@ thianntsiong 聽眾
 thihkutasenn 鐵骨仔生
 thihkutasinn 鐵骨仔生
 thinnkongkim 天公金
+thinnkongloo 天公爐
 thnghiunnian 傳香煙
 thngphattheh 褪腹裼
 thngphuatheh 褪破裼
@@ -51794,7 +51947,7 @@ tshialiantau 捙輾斗
 tshiangkhake 蹌跤雞
 tshiangsiann 唱聲
 tshiannthiap 請帖
-tshiapoopinn 捙布邊
+tshiapoopinn 車布邊
 tshiatshionn 車廠
 tshiatshiunn 車廠
 tshiauimphor 超音波
@@ -51833,6 +51986,7 @@ tshitthomiha 𨑨迌物仔
 tshitthomngh 𨑨迌物
 tshiubetsinn 手尾錢
 tshiunaakhau 樹林口
+tshiunikhooa 樹奶箍仔
 tshiunikinga 樹奶弓仔
 tshiunnphinn 唱片
 tshiunnpuann 唱盤
@@ -51902,6 +52056,7 @@ tsuelanglooh 做人囉
 tsuelintsing 做人情
 tsuethootsui 做塗水
 tsuetshitlit 做七日
+tsuibangbang 醉茫茫
 tsuiguanthau 水源頭
 tsuihuntsher 水薰吹
 tsuihuntshue 水薰吹
@@ -51941,6 +52096,7 @@ banhongsiakhu 萬芳社區
 battsiuhtsiuh 密喌喌
 betsiahbekhun 袂食袂睏
 biansiausiunn 免數想
+binaubintshau 面漚面臭
 binhionghiong 民雄鄉
 boiannbotsiah 無影無跡
 bokbingkibiau 莫名其妙
@@ -51948,7 +52104,7 @@ bokbingkimiau 莫名其妙
 bosiannbosueh 無聲無說
 buantsiuhiong 滿州鄉
 buehsibuehuah 欲死欲活
-buetshuntshia 袂伸奢
+buetshuntshia 袂伸捙
 buetsingthaua 尾指頭仔
 buhuatbuthian 無法無天
 ekhatshiulang 下跤手人
@@ -52070,6 +52226,7 @@ nngtsinnkhang 軁錢空
 oojinbakkiann 烏仁目鏡
 oolinbakkiann 烏仁目鏡
 panghongsiann 放風聲
+pangkhangiann 放空營
 pangliauhiong 枋寮鄉
 pangtshauphui 放臭屁
 pehthaukhiata 白頭嘓仔
@@ -52220,6 +52377,7 @@ tngthaupehlit 當頭白日
 tngthautuibin 當頭對面
 tongliantshia 動輪車
 tongpoolakkhe 東埔蚋溪
+tongtonghainn 蕩蕩幌
 toohuekonghng 都會公園
 tsamthautemia 鏨頭短命
 tsaphuegoosik 十花五色
@@ -52363,6 +52521,7 @@ huahuakongtsir 花花公子
 huannhuannhihi 歡歡喜喜
 huannthauhibin 歡頭喜面
 huanntianntsau 扞鼎灶
+huattsaiatshia 發財仔車
 iangsannthoksi 央三託四
 ingantshitiunn 永安市場
 itbongtanntsin 一網打盡
@@ -52370,6 +52529,7 @@ jijipatkonghng 新公園
 jutshangtshang 挐氅氅
 kaithauuannbin 改頭換面
 khalaitshiulai 跤來手來
+khasngtshiunng 跤痠手軟
 khatsiahphiann 尻脊骿
 khiamkhiamaing 儉儉仔用
 khiamtngnehtoo 儉腸凹肚
@@ -52441,6 +52601,7 @@ singthaiuankhu 生態園區
 siokuanimsuann 小觀音山
 siukhasuetshiu 收跤洗手
 suatsiohatshia 砂石仔車
+tangkongatshia 銅管仔車
 tangsiantsinna 銅仙錢仔
 tangsuannhiong 冬山鄉
 tangtsiohhiong 東石鄉
@@ -52477,8 +52638,10 @@ tshaihongtshia 裁縫車
 tshaipootshiam 菜脯簽
 tshanliauhiong 田寮鄉
 tshasiannhiong 車城鄉
+tshautshennkua 臭腥龜仔
 tshenntshauate 青草仔茶
 tshiahkhasiana 赤跤仙仔
+tshialianpiann 車輪餅
 tshiankintshin 千斤秤
 tshiankuntshin 千斤秤
 tshikiamtsiann 試鹹汫
@@ -52494,6 +52657,7 @@ tshitniumasinn 七娘媽生
 tshitpiannkauh 拭餅𩛩
 tshitthotsaboo 𨑨迌查某
 tshittsapehtsa 七早八早
+tshiulingkhooa 樹奶箍仔
 tshiunnphinnoo 象鼻湖
 tshiunnthaupio 搶頭標
 tshiutsihphooa 手摺簿仔
@@ -52565,19 +52729,21 @@ kuahkautshaikue 割溝菜瓜
 kuinithangthinn 規年迵天
 lamkianntangloo 南京東路
 lautshanliaukhe 老田寮溪
-liahbothautsang 掠無頭總
+liahbothautsang 掠無頭摠
 liausiongbuekau 料想袂到
 liionghuathuann 二氧化碳
 liokhuattsuansu 六法全書
 liongtsennhiong 龍井鄉
 liongtsinnhiong 龍井鄉
 litpuntautsiunn 日本豆醬
+longkesuanntheh 弄家散宅
 nngthootshimkut 軟塗深掘
 pakhaphuansuann 北合歡山
 pehtshangtshang 白蔥蔥
 phahtshennkiann 拍生驚
 phahtshinnkiann 拍生驚
 phahtshiutshing 拍手銃
+phainnkhunphiah 歹睏癖
 phainntshiujiau 歹手爪
 phainntshiuniau 歹手爪
 phainntshuathau 歹𤆬頭
@@ -52682,6 +52848,9 @@ ootshennginghueh 烏青凝血
 ootshinnginghuih 烏青凝血
 phainntangkusiah 歹銅舊錫
 phennphenntshuan 怦怦喘
+phinnphanntshuan 怦怦喘
+phinnphenntshuan 怦怦喘
+phinnphinntshuan 怦怦喘
 siaptsinnhoolang 塞錢予人
 sionghongpaisiok 傷風敗俗
 tenntiantenngong 佯顛佯戇
@@ -52719,6 +52888,7 @@ hiongthianoosuann 向天湖山
 hongsiannpongiann 風聲嗙影
 hongsuannkoktiong 鳳山國中
 khangtshuipootsih 空喙哺舌
+kongtsiahkongkhui 公食公開
 phainnkhuannsiunn 歹看相
 siunntangsiunnsai 想東想西
 thiankautsiahgueh 天狗食月
@@ -52734,6 +52904,8 @@ tshiothautshiobin 笑頭笑面
 tshootshaipianpng 粗菜便飯
 tsianngehtsiannsi 正月正時
 tsiunnsiapbueliap 上卌袂攝
+bakkangtshiutshang 目降鬚聳
+khakianntshiukiann 跤健手健
 khamkhamkhiatkhiat 坎坎坷坷
 kiothauthngtshiunn 橋頭糖廠
 paktshahthiansuann 北插天山
@@ -52746,6 +52918,7 @@ tshintsianngootsap 親情五十
 tsiahtshingniapian 食清領便
 tsiannguehtsiannsi 正月正時
 tsiauhootsiaukiann 照呼照行
+khuannthaukhuannbue 看頭看尾
 kioathauthngtshiunn 橋頭糖廠
 tiongiangtsiamsuann 中央尖山
 tiongiongtsiamsuann 中央尖山
