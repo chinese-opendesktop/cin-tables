@@ -1,38 +1,38 @@
 # This is the ChanJei input method table.
 #
 # Please visit the URL:  http://www.chinese.net.my/cj
-#			 http://www.geocities.com/RainForest/9178/maincjgb.htm
+# http://www.geocities.com/RainForest/9178/maincjgb.htm
 # for further information.
 #
 %ename JTCJ:en;仓颉:zh_CN;倉頡:zh;
 %cname 仓颉
 %selkey 1234567890
 %keyname begin
-a	日
-b	月
-c	金
-d	木
-e	水
-f	火
-g	土
-h	竹
-i	戈
-j	十
-k	大
-l	中
-m	一
-n	弓
-o	人
-p	心
-q	手
-r	口
-s	尸
-t	廿
-u	山
-v	女
-w	田
-x	难
-y	卜
+a 日
+b 月
+c 金
+d 木
+e 水
+f 火
+g 土
+h 竹
+i 戈
+j 十
+k 大
+l 中
+m 一
+n 弓
+o 人
+p 心
+q 手
+r 口
+s 尸
+t 廿
+u 山
+v 女
+w 田
+x 难
+y 卜
 %keyname end
 %chardef begin
 a     日
