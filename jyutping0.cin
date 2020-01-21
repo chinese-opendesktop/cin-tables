@@ -1,27 +1,27 @@
 #  $Id: jyutping0.cin,v 1.4 2001/11/28 14:40:39 thhsieh Exp $
 #  ====================================================================
-#  
+#
 #  This cin file is originally converted from the "phrase box" file
 #  available on the Linguistic Society of Hong Kong's website:
-#  
+#
 # http://www.hku.hk/linguist/lshk/
-#  
+#
 #  This is a special version with tonal marks stripped off; you might
 #  find this a bit easier to use.
-#  
+#
 #  You are free to use and redistribute this file; the author only
 #  wishes you keep the following notice intact:
-#  
+#
 #  "The copyright of the Jyutping phrase box belongs to the Linguistic
 #  Society of Hong Kong.  We would like to thank the Jyutping Group of
 #  the Linguistic Society of Hong Kong for permission to use the
 #  electronic file in our research and/or product development."
-#  
+#
 #  For more information about the Jyutping system, visit the above
 #  website.  The romanisation system is a little bit different from
 #  common Hong Kong usage, but this system is a lot more systematic.
 #
-#  This is the Jyutping without tone. Its original name is 
+#  This is the Jyutping without tone. Its original name is
 #  jyutping-no_tone.cin, which is renamed to jyutping0.cin in
 #  xcin source tree by T.H.Hsieh.
 #
@@ -37,36 +37,36 @@
 # # to get a no-tone "phrase box" sorted by frequency count using libtabe's
 # # database.
 # #
-#     
+#
 # my %pinyin;
 # my %tsi;
-#     
+#
 # #my $big5 = '[\x00-\x7F]|[\x81-\xFE][\x40-\x7E|\xA1-\xFE]';
-# 
+#
 # sub bytsicount {
 #     $tsi{$b} <=> $tsi{$a};
 # };
-# 
+#
 # while (<>) {
 #     /([a-z]+)\d\s+(.+)/;
 #     my $ref = \@{$pinyin{$2}};
 #     grep /^$1/, @{$ref} or push @{$ref}, $1;
 # }
-#  
+#
 # $TSI = "tsi.src";
 # open TSI or die "please put tsi.src in the current directory\n";
 # while (<TSI>) {
 #     /^(.{2}) (\d+) .+/ or next;
 #     $tsi{$1} = $2;
-# }   
-# 
+# }
+#
 # foreach $char (sort bytsicount keys %pinyin) {
-#     foreach $yin (@{$pinyin{$char}}) {        
+#     foreach $yin (@{$pinyin{$char}}) {
 #         print "$yin \t $char\n";
-#     }                           
+#     }
 # }
 #===========================================================================
-# 
+#
 %ename Jyutping0:en;无调粤拼:zh_CN;無調粵拼:zh;
 %cname 無調粵拼
 %selkey 123456789

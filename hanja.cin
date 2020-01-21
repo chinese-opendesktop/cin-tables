@@ -1,12 +1,12 @@
 ### This file comes from unicon.
-### 
+###
 ### q  w  e   r  t   y  u  i  o  p      Q  W  E  R  T  Y  U  I  O  P
 ### ㅂ ㅈ ㄷ ㄱ ㅅ  ㅛ ㅕ ㅑ ㅐ ㅔ      ㅃ ㅉ ㄸ ㄲ ㅆ         ㅒ ㅖ
-### 
+###
 ###  a  s  d   f  g  h  j  k  l          A  S  D  F  G  H  J  K  L
-###  ㅁ ㄴ ㅇ ㄹ ㅎ ㅗ ㅓ ㅏ ㅣ          ㄼ ㄳ    ㅀ ㄺ ㅙ ㅝ ㅘ ㅚ 
-### 
-###   z  x  c   v  b  n  m                 Z   X   C   V   B   N   M 
+###  ㅁ ㄴ ㅇ ㄹ ㅎ ㅗ ㅓ ㅏ ㅣ          ㄼ ㄳ    ㅀ ㄺ ㅙ ㅝ ㅘ ㅚ
+###
+###   z  x  c   v  b  n  m                 Z   X   C   V   B   N   M
 ###   ㅋ ㅌ ㅊ ㅍ ㅠ ㅜ ㅡ                        ㅄ  ㄿ  ㅟ  ㅞ  ㅢ
 %ename Hanja:en;韩文汉字:zh_CN;韓文漢字:zh;한자:ko;
 %cname 韓文漢字
