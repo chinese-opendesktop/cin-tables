@@ -1,3 +1,4 @@
+# hkfonts from snik
 %ename DaYi3:en;大易三码:zh_CN;大易三碼:zh;
 %cname 大易三碼
 %selkey '[]-\6789
@@ -14,7 +15,6 @@
 # WildEnable : 是否啟用 *、? 組字
 # EndKey : 按下結束鍵出字(通常用在注音之類的輸入法)
 # DisableSelectList: 特殊字根, 用來設定在按下某個鍵之後，再按選字鍵時，則此選字鍵便失去了選字功能。此功能是針對行列 30 輸入法的特殊需求而設計。
-#
 #------------------------
 #%setting begin
 #        AutoCompose "Yes"
@@ -739,7 +739,6 @@ z 心
 38e 貾
 38f 購
 38h 鵙
-38h 鸚
 38h 鸚
 38i 賝
 38j 貯
@@ -13510,7 +13509,6 @@ uu 茻
 uu8 頩
 uu0 迸
 uu0 鑿
-uu0 鑿
 uuc 艵
 uuc 菤
 uud 普
@@ -17902,13 +17900,10 @@ z/; 愧
 ;sa  蟎
 ;ut  螆
 ;ve  叁
-/7n  
 0h9  鈈
 0hc  鈪
 06d  鐧
 0rc  𨥈
-1mi  
-2qn  
 2s/  𦉘
 2vc  牦
 3/x  𥄫
@@ -17919,12 +17914,9 @@ z/; 愧
 4eh  䴉
 6;c  𨶙
 64   閪
-6c   
-6c/  
 6i   牀
 6k   𨋢
 6so  軲
-6t   
 6v.  軚
 7an  𠝹
 7qi  𡇙
@@ -17936,8 +17928,6 @@ z/; 愧
 9jj  踭
 9nj  踭
 9kx  蹾
-9rq  
-9t/  
 a;0  餸
 aoy  㷛
 bg8  孭
@@ -17946,7 +17936,6 @@ bon  够
 b1.  乸
 c.c  疱
 c.4  癦
-c.p  
 c.u  𤷪
 c7   乪
 caz  𢝵
@@ -17964,19 +17953,13 @@ fmz  𢡱
 fon  㓤
 foo  喆
 fx0  塳
-g.x  
-g/e  
-g/.  
-g1;  
 g23  拃
 g4f  攞
-g6d  
 g8/  挮
 gag  𢲡
 gak  搇
 gbu  掹
 gbz  㧾
-gdf  
 gdx  㩧
 gdu  擝
 gea  抦
@@ -17989,13 +17972,10 @@ gkj  㧸
 gkx  撴
 gm0  搲
 gm0  𢱑
-gp,  
 gqx  揼
 grd  撍
 grf  擓
 gt3  㨘
-gvp  
-h82  𡳞
 hoi  𣘼
 i3q  梘
 ifj  瀞
@@ -18014,7 +17994,6 @@ kt0  迹
 lci  嫲
 mii  冧
 mw   冚
-m1f  
 n3n  鰂
 n7s  鮋
 nao  䱽
@@ -18022,7 +18001,6 @@ nbu  鯭
 nh0  𩺬
 nk   𩶘
 nl5  鱲
-o,b  
 o,i  㗎
 o..  唥
 o;q  嘅
@@ -18030,9 +18008,7 @@ o/o  响
 o/o  㗳
 o/.  啲
 o0u  噔
-o2e  
 o2g  嚹
-o48  
 o6   唓
 o81  吖
 o82  噒
@@ -18041,7 +18017,6 @@ oab  噏
 oag  嗱
 oao  嗰
 oat  喺
-oay  
 obc  吔
 oc5  嚱
 ocg  嚤
@@ -18053,64 +18028,41 @@ oe;  呍
 oe9  吓
 oe9  嘥
 of/  嘭
-of5  
 of9  啩
-og9  
 ofc  哋
 ofd  啫
-ofj  
 ofq  𡃁
-oge  
 ogs  唞
-ogt  
-ogx  
 oho  啹
 ohs  噼
-oif  
 oii  啉
-oio  
 oj7  噃
-ok;  
 ok0  㖡
-okk  
 okk  㗒
-oko  
-olg  
-olt  
-ol5  
-om,  
 omj  嗗
 oml  咹
-omr  
-onc  
 onz  喼
 ooq  呪
 ope  𠾐
 opp  㖿
 oqi  哚
 or/  吚
-or1  
-ort  
 orx  噉
 os,  嘞
 osc  㗾
 osf  嚡
 osn  嘜
 osr  咗
-otc  
 ott  噝
 ou.  嚉
 ouf  囖
-ouo  
 ouv  咲
 ouw  嚿
-ov.  
 ovo  啝
 ovx  嚟
 ovz  㖭
 owj  嘣
 owq  啱
-oxz  
 qpk  䂻
 qsx  䃟
 r/f  羣
@@ -18125,11 +18077,9 @@ tmn  劏
 u33  韮
 ubz  葱
 uci  蔴
-ud/  
 udi  菓
 uf3  着
 ur5  芪
-v18  
 v1t  𦧲
 x7x  𣲷
 xfx  漖
