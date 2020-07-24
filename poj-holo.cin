@@ -1,14 +1,14 @@
-#######################################################################
-#                                                                     #
-#  poj.cin v0.1, 2005-01-25                                           #
-#                                                                     #
+##########################################################################
+#                                                                        #
+#  poj.cin v0.1, 2005-01-25                                              #
+#                                                                        #
 # 本poj.cin原始檔案是由劉傑岳 Lâu Kiatgak <kiatgak@yahoo.com.tw>利用     #
 # 甘為霖的《廈門音新字典》(Kam Ûi-lîm ê "Ē-mn̄g im ê jī-tián")            #
-# (A dictionary of the Amoy vernacury by Willian Campbell)校對、補充後 #
+# (A dictionary of the Amoy vernacury by Willian Campbell)校對、補充後   #
 # 的作品本檔案依據 GNU General Public License (GPL) version 2 或新版公開 #
 # 授權，歡迎各界散佈及使用。                                             #
-# o· 用ou 鼻音用 nn 入聲鼻音用 nnh 表示
-#######################################################################
+# o· 用ou 鼻音用 nn 入聲鼻音用 nnh 表示                                  #
+##########################################################################
 %ename POJ:en;白话字汉罗:zh_CN;白話字漢羅:zh;
 %cname 白話漢羅
 %selkey asdfghjkl;

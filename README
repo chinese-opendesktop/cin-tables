@@ -40,7 +40,7 @@ tlpa.cin,"TLPA(TLPA台語)","依據台灣閩南語音標系統的輸入法;Min-N
 uanniu.cin,"UanNiu(灣娘臺漢)","採用教育部臺灣閩南語羅馬字拼音方案;Uan Niu Ban Lam"
 uniliu.cin,"UniLiu(萬國蝦米)","相容於劉重次發明的嘸蝦米輸入法;Unicode Boshiamy"
 whale.cin,"Whale(鯨魚)","台灣之子 MyCJ 發明的鯨魚輸入法;MyCJ Whale"
-wm.cin,"WM2(象形王碼)","王堯世發明的象形王碼輸入法第二代;Wang Ma 2"
+wm2.cin,"WM2(象形王碼)","王堯世發明的象形王碼輸入法第二代;Wang Ma 2"
 boshiamy.cin,"Boshiamy(嘸蝦米)","劉重次發明的嘸蝦米輸入法"
 hs.cin,"HS(華象)","陳華偉發明的華象直覺輸入法"
 mscj3.cin,"MSCJ3(微軟倉頡)","相容微軟系統內建的倉頡第三代輸入法"
