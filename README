@@ -68,7 +68,7 @@ daomax.cin,"DaoMaX(导码)","龚永明发明的全拼形导码输入法"
 t9.cin,"T9(Ｔ９笔画)","美国特捷通讯研制的智能输入法"
 ziranma.cin,"ZiranMa(自然码)","北京大自然软件开发有限责任公司维护的输入法"
 wlkm.cin,"WLKM(王林快码)","湖南人王林发明的一种音形结合的中文输入法"
-yong.cin,"YongMa(永码)","周永先生的小小输入法所含双拼加形类的编码方案"
+yong.cin,"YongMa(永码)","周永开发的小小输入法內含双拼加形类的编码方案"
 
 Language = "中文(香港),Chinese(Hongkong)"
 ckc.cin,"CKC(縱橫碼)","周忠繼發明的縱橫碼輸入法;C K Code"
