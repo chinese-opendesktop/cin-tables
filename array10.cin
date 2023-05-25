@@ -65,7 +65,7 @@
 #v1.0-20230211    本次更新係為配合行列輸入法30鍵版（行列30）v2023 版校編工作，對於行列10鍵碼表亦同步展開校編的成果。
 %ename Array10:en;行列10:zh_CN;行列10:zh;
 %cname 行列10
-%selkey 1234567890
+%selkey qwertyuiop
 %keyname begin
 1 1
 2 2
