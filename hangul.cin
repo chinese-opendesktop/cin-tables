@@ -8,8 +8,8 @@
 ###
 ###   z  x  c   v  b  n  m                 Z   X   C   V   B   N   M
 ###   ㅋ ㅌ ㅊ ㅍ ㅠ ㅜ ㅡ                        ㅄ  ㄿ  ㅟ  ㅞ  ㅢ
-%ename Hangul:en;韩文:zh_CN;韓文:zh;한글:ko;
-%cname 韓文
+%ename Hangul:en;谚文:zh_CN;諺文:zh;한글:ko;
+%cname 諺文
 %selkey 1234567890
 %keep_key_case
 %keyname begin

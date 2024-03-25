@@ -3,8 +3,8 @@
 #輸入法規則: http://www.cmex.org.tw/cmex/info.htm#big5e
 #格式修改(無附加限制): 趙惟倫 <bluebat@member.fsf.org>, 2006
 #授權方式: Public Domain
-%ename Big5e:en;五大扩充:zh_CN;五大擴充:zh;
-%cname 五大擴充
+%ename Big5e:en;五大码扩充:zh_CN;五大碼擴充:zh;
+%cname 五大碼擴充
 #sname 五擴
 %selkey 1234567890
 %keyname begin

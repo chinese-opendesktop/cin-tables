@@ -91,7 +91,7 @@ halfwidth-kana.cin,"HalfKana(半カタカナ)","日文片假名半形字輸入�
 katakana.cin,"Katakana(カタカナ)","日文片假名全形字輸入法;Japanese Katakana"
 hiragana.cin,"Hiragana(ひらがな)","日文平假名全形字輸入法;Japanese Hiragana"
 nippon.cin,"Nippon(かんじ)","日文漢字輸入法;Japanese Nippon"
-hangul.cin,"Hangul(한글)","韓語諺文輸入法;Korean Hangul"
+hangul.cin,"Hangul(한글)","韓文諺文輸入法;Korean Hangul"
 hangulromaja.cin,"HangulRomaja(한글 Romaja)","韓文羅馬字輸入法;Korean Hangul Romaja"
 hanja.cin,"Hanja(한자)","韓文漢字輸入法;Korean Hanja"
 viqr.cin,"ViQR(Tiếng Việt QR)","越南文QR排列輸入法;Vietnamese QR"

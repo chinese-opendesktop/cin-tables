@@ -3,8 +3,8 @@
 #輸入法規則: http://ftp.isu.edu.tw/pub/Windows/Chinese/code/big5p/
 #格式修改(無附加限制): 趙惟倫 <bluebat@member.fsf.org>, 2006
 #授權方式: Public Domain
-%ename Big5p:en;五大加强:zh_CN;五大加強:zh;
-%cname 五大加強
+%ename Big5p:en;五大码加强:zh_CN;五大碼加強:zh;
+%cname 五大碼加強
 #sname 五加
 %selkey 1234567890
 %keyname begin
