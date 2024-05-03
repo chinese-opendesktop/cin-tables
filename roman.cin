@@ -2,7 +2,7 @@
 #網址: http://www.cns11643.gov.tw/web/download.jsp
 #依據漢音輸入程式之羅馬拼音鍵盤對照表
 #格式轉換(無附加限制): 趙惟倫 <bluebat@member.fsf.org>, 2007
-#授權方式: Public Domain?
+#授權方式: Open Government Data License
 %ename Roman:en;罗马拼音:zh_CN;羅馬拼音:zh;
 %cname 羅馬拼音
 #sname 羅馬

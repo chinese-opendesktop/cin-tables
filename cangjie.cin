@@ -1,7 +1,7 @@
 #正體倉頡輸入法 94.2
 #網址: http://www.cns11643.gov.tw/web/download.jsp
 #格式轉換(無附加限制): 趙惟倫 <bluebat@member.fsf.org>, 2007
-#授權方式: Public Domain
+#授權方式: Open Government Data License
 %ename Cangjie:en;正体仓颉:zh_CN;正體倉頡:zh;
 %cname 正體倉頡
 #sname 倉頡
@@ -60641,7 +60641,7 @@ hhomb 𨉓
 hhyaj 𨉔
 hhhsk 𨉕
 anhxh 𨉖
-hhjmi 𨉗
+hhjmg 𨉗
 hhyhl 𨉘
 hhimn 𨉙
 hhklu 𨉚

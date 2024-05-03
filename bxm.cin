@@ -3,7 +3,7 @@
 #規則: http://zh.wikipedia.org/wiki/表形码
 #格式修改(無附加限制): 趙惟倫 <bluebat@member.fsf.org>, 2006
 #授權方式: Free for non-commercial use
-%ename biaxing
+%ename BXM
 %cname 表形碼
 #sname 表形
 %selkey 1234567890
