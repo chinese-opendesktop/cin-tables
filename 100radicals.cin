@@ -1,0 +1,24 @@
+# 百部輸入法
+# 《中文電腦百部輸入法初稿》杜學知 撰, 1987
+# 格式修改(無附加限制): 趙惟倫 <bluebat@member.fsf.org>, 2025
+%ename 100Radicals
+%cname 百部
+%selkey 1234567890
+%keyname begin
+1 １
+2 ２
+3 ３
+4 ４
+5 ５
+6 ６
+7 ７
+8 ８
+9 ９
+0 ０
+%keyname end
+%chardef begin
+00 丶
+00 ㇏
+000004 之
+999656 鯧
+%chardef end
