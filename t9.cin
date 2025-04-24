@@ -1,5 +1,6 @@
 # T9 輸入法
 # https://github.com/microcai/ibus-t9 by microcai
+# 格式修改(無附加限制): 趙惟倫 <bluebat@member.fsf.org>, 2020
 %ename T9
 %cname Ｔ９
 %selkey 1234567890
