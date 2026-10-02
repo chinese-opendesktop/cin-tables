@@ -1,7 +1,7 @@
 #網址: https://github.com/dgod/yong
 #來源：https://github.com/mike-fabian/ibus-table-chinese/blob/main/tables/yong/yong.txt
 #授權方式: GPLv3
-%ename YongMa:en;永码:zh_CN;永碼:zh;
+%ename Yong:en;永码:zh_CN;永碼:zh;
 %cname 永码
 #sname 永碼
 %selkey 1234567890

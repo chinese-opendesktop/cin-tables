@@ -2,7 +2,6 @@
 # (1)參考來源：https://gate2home.com/French-Keyboard
 # (2)由於法文鍵盤原始定義會設置 Ctrl+Alt 功能鍵，在 gcin 詞彙設計上就得改成 m 鍵兩碼輸入取代。
 # (3)統整法系鍵盤常用特殊字。
-%gen_inp
 %ename French
 %cname Français
 %selkey 1
